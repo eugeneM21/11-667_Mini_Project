@@ -1,0 +1,19 @@
+torch == 2.0.1
+einops
+numpy < 2.0
+pytest
+omegaconf
+tiktoken
+tqdm
+datasets
+wandb
+transformers
+rich
+tokenizers
+pytest
+pytest-utils
+requests
+pandas
+trl
+peft
+huggingface_hub

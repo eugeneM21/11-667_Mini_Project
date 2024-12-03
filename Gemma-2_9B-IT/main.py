@@ -12,6 +12,7 @@ import os
 import ast
 from huggingface_hub import login
 
+
 login(token="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")
 
 # Constants for inference only
@@ -22,7 +23,7 @@ NUTRITIONIX_API_URL = "https://trackapi.nutritionix.com/v2/natural/nutrients"
 def load_dataset_from_csv(csv_path):
     """Load dataset from CSV file"""
     df = pd.read_csv(csv_path)
-    df = df[['title', 'ingredients', 'directions']]  # Select only necessary columns
+    df = df[['title', 'ingredients', 'directions']]  
     dataset = Dataset.from_pandas(df)
     return dataset
 
@@ -99,7 +100,7 @@ def train_model(train_csv, output_dir):
 
     torch.cuda.empty_cache()
     
-    tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-9b-it")
+    tokenizer = AutoTokenizer.from_pretrained("allenai/OLMo-7B-Instruct", trust_remote_code=True)
     tokenizer.padding_side = 'right'
     
     train_dataset = load_dataset_from_csv(train_csv)
@@ -116,12 +117,15 @@ def train_model(train_csv, output_dir):
     #         attn_implementation="eager"
     #     )
     model = AutoModelForCausalLM.from_pretrained(
-        "google/gemma-2-9b-it",
+        "allenai/OLMo-7B-Instruct",
         device_map="auto",
-        load_in_8bit=True,  # Enable 8-bit quantization
+        load_in_8bit=True,  
         trust_remote_code=True,
-        use_cache=False
     )
+
+    # print("Model named modules:")
+    # for name, module in model.named_modules():
+    #     print(name)
     
     model.tie_weights()
     model = model.to_empty(device=torch.device("cuda" if torch.cuda.is_available() else "cpu")) # Ensure meta tensors are resolved
@@ -136,7 +140,7 @@ def train_model(train_csv, output_dir):
     lora_config = LoraConfig(
         r=8,
         lora_alpha=16,
-        target_modules=["q_proj", "k_proj", "v_proj", "o_proj"],
+        target_modules=["att_proj", "ff_proj"],
         lora_dropout=0.05,
         bias="none",
         task_type="CAUSAL_LM"
@@ -145,7 +149,7 @@ def train_model(train_csv, output_dir):
     model = get_peft_model(model, lora_config)
 
     training_args = TrainingArguments(
-        output_dir="out_dir",
+        output_dir="out_dir_olmo_lora",
         logging_steps=10,
         num_train_epochs=1,
         save_strategy="no",

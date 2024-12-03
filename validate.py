@@ -4,8 +4,6 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 import math
 import os
-import requests
-import ast
 from huggingface_hub import login
 
 # Login to HuggingFace
@@ -13,8 +11,7 @@ login(token="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")
 
 def calculate_perplexity(model, tokenizer, dataset_path, max_length=512):
     """
-    Calculates perplexity for the validation dataset based on recipe generation.
-    Prints perplexity for each row.
+    Calculates perplexity for the model's generated output.
     """
     val_df = pd.read_csv(dataset_path)
     
@@ -27,38 +24,36 @@ def calculate_perplexity(model, tokenizer, dataset_path, max_length=512):
     for idx, row in val_df.iterrows():
         title = row['title']
         
-        input_text = f"Input: Generate a recipe for {title}\nOutput:"
+        input_text = f"Input: Generate a detailed recipe for {title}, including ingredients and cooking instructions.\nOutput:"
         inputs = tokenizer(input_text, return_tensors="pt", truncation=True, max_length=max_length)
-        labels = inputs.input_ids.clone()  
-        
         inputs = {k: v.to(model.device) for k, v in inputs.items()}
-        labels = labels.to(model.device)
-        
-        # Get LLM output
+
         with torch.no_grad():
-            outputs = model.generate(
+            generated_tokens = model.generate(
                 **inputs,
                 max_new_tokens=512,
                 temperature=0.7,
                 do_sample=True,
                 pad_token_id=tokenizer.pad_token_id,
-                use_cache=False
             )
         
-        generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        generated_text = tokenizer.decode(generated_tokens[0], skip_special_tokens=True).strip()
+        if not generated_text:
+            print(f"Generated text for row {idx + 1} is empty.")
+            continue
+        
         print(f"Generated Recipe for row {idx + 1}:\n{generated_text}\n")
         
-        inputs = tokenizer(generated_text, return_tensors="pt", truncation=True, max_length=max_length)
-        labels = inputs.input_ids.clone()  
-        
-        inputs = {k: v.to(model.device) for k, v in inputs.items()}
+        generated_inputs = tokenizer(generated_text, return_tensors="pt", truncation=True, max_length=max_length)
+        labels = generated_inputs.input_ids.clone()
+        generated_inputs = {k: v.to(model.device) for k, v in generated_inputs.items()}
         labels = labels.to(model.device)
         
         with torch.no_grad():
-            outputs = model(**inputs, labels=labels)
+            outputs = model(**generated_inputs, labels=labels)
             loss = outputs.loss.item()
-            row_perplexity = math.exp(loss)  # Calculate perplexity for the current row
-            print(f"Perplexity for row {idx + 1}: {row_perplexity}")
+            row_perplexity = math.exp(loss)
+            print(f"Perplexity for row {idx + 1}: {row_perplexity}\n")
             total_loss += loss
     
     avg_loss = total_loss / num_samples
@@ -77,8 +72,8 @@ def main():
     parser.add_argument(
         "--model_dir",
         type=str,
-        default="./out_dir",
-        help="Directory containing the saved model"
+        required=True,
+        help="Directory containing the saved model (Gemma or Olmo)"
     )
     parser.add_argument(
         "--max_length",
@@ -92,7 +87,7 @@ def main():
     if not os.path.exists(model_path):
         raise ValueError(f"No saved model found at {model_path}")
     
-    print("Loading saved model...")
+    print("Loading model...")
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         device_map="auto",
@@ -101,7 +96,7 @@ def main():
     )
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     
-    print("Calculating perplexity for recipe generation...")
+    print("Calculating perplexity for the model...")
     perplexity = calculate_perplexity(model, tokenizer, args.val_csv, max_length=args.max_length)
     print(f"Validation Perplexity: {perplexity}")
 

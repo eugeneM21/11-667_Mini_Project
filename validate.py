@@ -27,6 +27,9 @@ def calculate_perplexity(model, tokenizer, dataset_path, max_length=512):
         input_text = f"Input: Generate a detailed recipe for {title}, including ingredients and cooking instructions.\nOutput:"
         inputs = tokenizer(input_text, return_tensors="pt", truncation=True, max_length=max_length)
         inputs = {k: v.to(model.device) for k, v in inputs.items()}
+        #for olmo model validation
+        if "token_type_ids" in inputs:
+            del inputs["token_type_ids"]
 
         with torch.no_grad():
             generated_tokens = model.generate(
@@ -48,6 +51,10 @@ def calculate_perplexity(model, tokenizer, dataset_path, max_length=512):
         labels = generated_inputs.input_ids.clone()
         generated_inputs = {k: v.to(model.device) for k, v in generated_inputs.items()}
         labels = labels.to(model.device)
+
+        #for olmo model validation
+        if "token_type_ids" in generated_inputs:
+            del generated_inputs["token_type_ids"]
         
         with torch.no_grad():
             outputs = model(**generated_inputs, labels=labels)

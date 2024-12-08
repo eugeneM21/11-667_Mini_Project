@@ -1,6 +1,6 @@
-torch == 2.0.1
+torch 
 einops
-numpy < 2.0
+numpy 
 pytest
 omegaconf
 tiktoken
@@ -17,3 +17,5 @@ pandas
 trl
 peft
 huggingface_hub
+bitsandbytes
+ai2-olmo

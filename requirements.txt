@@ -15,7 +15,10 @@ pytest-utils
 requests
 pandas
 trl
-peft
+git+https://github.com/huggingface/peft
 huggingface_hub
 bitsandbytes
 ai2-olmo
+torchvision
+evaluate
+bert_score

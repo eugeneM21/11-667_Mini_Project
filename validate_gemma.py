@@ -72,7 +72,7 @@ def main():
     parser.add_argument(
         "--model_name",
         type=str,
-        default="google/gemma-2-9b-it",
+        default="google/gemma-2-2b-it",
         help="Name of the pretrained model on Hugging Face Hub"
     )
     parser.add_argument(

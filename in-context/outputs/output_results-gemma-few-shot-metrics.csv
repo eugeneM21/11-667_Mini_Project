@@ -1,0 +1,3786 @@
+title,reference_text,generated_text,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,SBERT,USE,TF-IDF Cosine,Jaccard,bert-precision,bert-recall,bert-f1,similiarity,ingredient_match_count
+Carrot Casserole,"[""2 c. grated raw carrots"", ""2 eggs, beaten"", ""1 c. grated cheese"", ""1 c. cracker crumbs"", ""1 small, diced onion"", ""1 can mushroom soup"", ""1/2 can water""][""Mix together well."", ""Bake in buttered casserole dish at 350\u00b0 for 45 to 55 minutes.""]","Generate a recipe for Carrot Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+    
+        Dish: Carrot Casserole 
+        Ingredients:
+        - 10 cups shredded carrots
+        - 1 (15.25 oz) can of crushed pineapple, undrained
+        - 1 cup chopped walnuts
+        - 1 (15 oz) container of sour cream
+        - 1/2 cup sugar
+        - 1 teaspoon ground cinnamon
+        - 1 teaspoon vanilla extract
+        - 1/2 cup butter, melted
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C).
+        2. Grease a 9x13 inch baking dish.
+        3. In a large bowl, combine shredded carrots, crushed pineapple, walnuts, sour cream, sugar, cinnamon, vanilla extract, and melted butter.
+        4. Stir until well combined.
+        5. Pour mixture into the prepared baking dish.
+        6. Bake for 45-55 minutes, or until the casserole is heated through and the topping is golden brown.
+        7. Let stand for 10 minutes before serving.",7.382295990259814e-232,0.14765100671140938,0.04044943820224719,0.116331096196868,0.769997239112854,0.7226134538650513,0.5408722758293152,0.16873771203185223,0.03187250996015936,0.7254244685173035,0.8204060196876526,0.769997239112854,"tensor(-0.0896, device='mps:0')",2
+Melt In Your Mouth Chicken Casserole,"[""2 1/2 to 3 lb. chicken, cooked and deboned (save broth)"", ""1 can cream of chicken or mushroom soup"", ""1 stick margarine, melted"", ""1 c. self-rising flour"", ""1 c. buttermilk"", ""salt and pepper to taste""][""Preheat oven to 425\u00b0."", ""In oblong baking dish, place the deboned chicken pieces on bottom."", ""Mix can of soup with 2 1/2 cups of the reserved broth."", ""Pour over chicken."", ""Sprinkle salt and pepper over chicken."", ""In bowl, mix melted margarine, flour and milk."", ""Pour over chicken."", ""Bake for 30 minutes or until golden brown.""]","Generate a recipe for Melt In Your Mouth Chicken Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+
+
+    ## Melt In Your Mouth Chicken Casserole 
+    **Ingredients:**
+    - 1.5 lbs boneless, skinless chicken breasts
+    - 1 (10.75 oz) can condensed cream of chicken soup
+    - 1/2 cup sour cream
+    - 1/2 cup milk
+    - 1/4 cup chopped onion
+    - 1 (10 oz) package frozen peas and carrots, thawed
+    - 1 cup shredded cheddar cheese
+    - 1/2 cup bread crumbs
+    - 2 tablespoons melted butter
+
+
+    **Directions:**
+    1. Preheat oven to 350 degrees F (175 degrees C).
+    2. Cut chicken breasts into bite-sized pieces.
+    3. In a large bowl, combine chicken, soup, sour cream, milk, onion, and peas and carrots. Stir well to combine.
+    4. Pour mixture into a greased 9x13 inch baking dish.
+    5. Sprinkle shredded cheese evenly over the chicken mixture.
+    6. In a small bowl, combine bread crumbs and melted butter.
+    7. Sprinkle bread crumb mixture over the cheese.
+    8. Bake for 30-35 minutes, or until chicken is cooked through and the topping is golden brown.",6.107569273557265e-79,0.27715355805243447,0.07894736842105264,0.16104868913857678,0.780005931854248,0.7253330945968628,0.5033872723579407,0.5046233148107525,0.10948905109489052,0.7435296773910522,0.820245623588562,0.780005931854248,"tensor(-0.0269, device='mps:0')",4
+Autumn Apple Salad,"[""1 (20 oz.) can crushed pineapple (undrained)"", ""2/3 c. sugar"", ""1 (3 oz.) pkg. lemon flavored gelatin"", ""1 (8 oz.) pkg. cream cheese, softened"", ""1 c. diced, unpeeled apples"", ""1/2 to 1 c. chopped nuts"", ""1 c. chopped celery"", ""1 c. whipped topping"", ""lettuce leaves""][""In a saucepan, combine pineapple and sugar; bring to a boil and boil for 3 minutes."", ""Add gelatin; stir until dissolved."", ""Add cream cheese; stir until mixture is thoroughly combined."", ""Cool. Fold in apples, nuts, celery and whipped topping."", ""Pour into a 9-inch square baking pan."", ""Chill until firm."", ""Cut into squares and serve on lettuce leaves."", ""Makes 9 to 12 servings.""]","Generate a recipe for Autumn Apple Salad only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+
+Dish: Autumn Apple Salad
+Ingredients:
+- 4 medium apples, peeled and diced
+- 1/2 cup chopped walnuts
+- 1/4 cup dried cranberries
+- 1/4 cup chopped celery
+- 1/4 cup raisins
+- 1/4 cup mayonnaise
+- 1 tablespoon apple cider vinegar
+- 1 teaspoon honey
+- 1/2 teaspoon ground cinnamon
+- 1/4 teaspoon salt
+- 1/4 teaspoon black pepper
+
+Directions:
+1. In a large bowl, combine diced apples, walnuts, dried cranberries, celery, and raisins.
+2. In a small bowl, whisk together mayonnaise, apple cider vinegar, honey, cinnamon, salt, and pepper.
+3. Pour the dressing over the apple mixture and toss to coat.
+4. Refrigerate for at least 30 minutes before serving.",0.01665134967635659,0.2965931863727455,0.07243460764587525,0.15230460921843686,0.7847201824188232,0.638491690158844,0.4907490909099579,0.2817374695146539,0.1,0.7490640878677368,0.8239405751228333,0.7847201824188232,"tensor(0.0317, device='mps:0')",4
+Macaroni And Cheese,"[""1 (8 oz.) box elbow macaroni"", ""3 c. grated cheese"", ""4 eggs"", ""1 stick butter"", ""1 can canned milk""][""Cook macaroni until done; drain. Grate cheese. Break eggs in blender; add milk. Whip good; pour over macaroni. Add 1/2 cheese. Add butter. Pour into baking dish. Cover with remaining cheese. Cover with tinfoil and bake until firm and cheese is melted.""]","Generate a recipe for Macaroni And Cheese only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        Dish: Macaroni And Cheese
+        Ingredients:
+        - 1 lb elbow macaroni
+        - 4 tbsp butter
+        - 1/4 cup all-purpose flour
+        - 3 cups milk
+        - 1 teaspoon salt
+        - 1/2 teaspoon black pepper
+        - 2 cups shredded cheddar cheese
+        - 1 cup shredded mozzarella cheese
+ 
+
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C).
+        2. Cook macaroni according to package directions. Drain and set aside.
+        3. In a large saucepan, melt butter over medium heat.
+        4. Whisk in flour until smooth. 
+        5. Gradually whisk in milk until smooth.
+        6. Bring to a simmer, stirring constantly. 
+        7. Stir in salt, pepper, cheddar cheese, and mozzarella cheese until melted and smooth.
+        8. Add cooked macaroni to cheese sauce and stir to combine.
+        9. Pour mixture into a greased 9x13 inch baking dish.
+        10. Bake for 20 minutes, or until bubbly and heated through.",2.244877342036672e-155,0.18333333333333332,0.058577405857740586,0.1,0.7775223851203918,0.7706149816513062,0.5629476308822632,0.35956767196824335,0.07924528301886792,0.7264957427978516,0.8362584114074707,0.7775223851203918,"tensor(-0.1416, device='mps:0')",3
+Peanut Butter Blossoms,"[""1/2 c. shortening"", ""1/2 c. peanut butter"", ""1/2 c. sugar"", ""1/2 c. brown sugar, firmly packed"", ""1 egg"", ""2 Tbsp. milk"", ""1 tsp. vanilla extract"", ""1 3/4 c. flour"", ""1/4 c. sugar"", ""48 chocolate kisses""][""Cream"", ""shortening and peanut butter."", ""Gradually add 1/2 cup sugar"", ""and\tbrown"", ""sugar, beating until light and fluffy. Add egg,"", ""milk\tand"", ""vanilla;"", ""beat"", ""well."", ""Combine flour and creamed mixture."", ""Roll dough into 1-inch balls; roll into 1/4 cup of sugar."", ""Place balls 2-inches apart on a lightly greased cookie sheet."", ""Bake at 375\u00b0 for 8 minutes."", ""Remove from oven, press"", ""a chocolate kiss into center of cookie; return to oven for another 2 minutes."", ""Yield: 4 dozen.""]","Generate a recipe for Peanut Butter Blossoms only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+      
+      
+      
+
+    
+
+    
+    Dish: Peanut Butter Blossoms
+    
+    Ingredients:
+    - 1 cup creamy peanut butter
+    - 1/2 cup shortening
+    - 1/2 cup granulated sugar
+    - 1/2 cup packed brown sugar
+    - 1 large egg
+    - 1 teaspoon vanilla extract
+    - 1 1/4 cups all-purpose flour
+    - 1/2 teaspoon baking soda
+    - 1/4 teaspoon salt
+    - 1 bag (12 ounces) milk chocolate kisses
+
+    Directions:
+    
+    1. Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.
+    2. In a large bowl, cream together peanut butter, shortening, granulated sugar, and brown sugar until light and fluffy.
+    3. Beat in egg and vanilla extract.
+    4. In a separate bowl, whisk together flour, baking soda, and salt.
+    5. Gradually add dry ingredients to the wet ingredients, mixing until just combined.
+    6. Roll dough into 1-inch balls.
+    7. Place balls 2 inches apart on prepared baking sheets.
+    8. Bake for 8-10 minutes, or until edges are lightly golden.
+    9. Immediately press a milk chocolate kiss into the center of each cookie.
+    10. Let cookies cool completely on baking sheets before serving.",0.015390122315145149,0.3875432525951557,0.1701388888888889,0.2318339100346021,0.7770553827285767,0.6960289478302002,0.5104926824569702,0.44377197829888626,0.1180327868852459,0.7412516474723816,0.8164933919906616,0.7770553827285767,"tensor(0.0669, device='mps:0')",10
+Cathedral Window Candy,"[""2 Tbsp. butter"", ""1 c. chocolate chips"", ""1 egg, beaten"", ""1 c. confectioners sugar"", ""3 c. colored miniature marshmallows""][""Place butter and chocolate chips in medium heat resistant bowl."", ""Heat, uncovered, in microwave for 4 minutes, or until melted."", ""Combine egg and sugar; add slowly to chocolate mixture. Stir in marshmallows to coat well."", ""Pour onto waxed paper."", ""Shape into 18-inch log."", ""Refrigerate."", ""Slice before serving.""]","Generate a recipe for Cathedral Window Candy only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+        Dish: Cathedral Window Candy
+        Ingredients:
+        - 1 cup light corn syrup
+        - 1/2 cup granulated sugar
+        - 1/4 teaspoon salt
+        - 1/2 teaspoon vanilla extract
+        - 1/4 cup water
+        - 1 cup red food coloring
+        - 1/4 cup yellow food coloring
+        - 1/4 cup red candy melts
+        - 1/4 cup yellow candy melts
+        - wax paper
+
+        Directions:
+        1. Line a baking sheet with wax paper.
+        2. In a medium saucepan, combine corn syrup, sugar, salt, and water. 
+        3. Bring mixture to a boil over medium heat, stirring constantly.
+        4. Once boiling, reduce heat to low and cook for 5 minutes, stirring occasionally.
+        5. Remove from heat and stir in vanilla extract.
+        6. Divide mixture evenly among two bowls.  
+        7. Tint one bowl red and the other yellow with food coloring.
+        8. Carefully spoon red mixture onto the prepared baking sheet, creating a large rectangle.
+        9. Repeat with yellow mixture, layering it on top of the red.
+        10. Immediately drizzle melted red candy melts over the red layer, and melted yellow candy melts over the yellow layer.
+        11. Let candy cool and harden completely.
+        12. Break candy into pieces.",2.154876320489233e-155,0.1801125703564728,0.041431261770244816,0.09380863039399626,0.7767061591148376,0.6180943250656128,0.38075554370880127,0.23296035343882543,0.06666666666666667,0.7373381853103638,0.8205151557922363,0.7767061591148376,"tensor(-0.0299, device='mps:0')",1
+Blt Bites,"[""16 to 20 cherry tomatoes"", ""1 lb. bacon, cooked and crumbled"", ""1/2 c. mayonnaise"", ""1/3 c. chopped green onion"", ""3 Tbsp. grated Parmesan cheese"", ""2 Tbsp. parsley""][""Cut a thin slice off of each tomato top."", ""Scoop out pulp. Invert the tomatoes on paper towel to drain.""]","Generate a recipe for Blt Bites only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+
+        
+
+
+    
+    
+ BLT Bites
+Ingredients:
+- 8 slices bacon
+- 1 baguette, sliced into 1-inch thick rounds
+- 4 large tomatoes, diced
+- 1/2 head lettuce, chopped
+- 1/4 cup mayonnaise
+- Salt and pepper to taste
+
+Directions:
+1. Cook bacon until crispy.
+2. Toast baguette slices lightly.
+3. Spread mayonnaise on toasted baguette slices.
+4. Top with bacon, tomatoes, and lettuce.
+5. Season with salt and pepper to taste.",7.845078223919649e-232,0.14720812182741116,0.025510204081632654,0.08629441624365483,0.7714914083480835,0.3459756672382355,0.2879953980445862,0.19073351276301667,0.040983606557377046,0.7254652380943298,0.8237534165382385,0.7714914083480835,"tensor(-0.0106, device='mps:0')",3
+Tostado Casserole,"[""1 lb. ground beef"", ""15 oz. can tomato sauce"", ""1 envelope taco seasoning mix"", ""2 1/2 c. corn chips"", ""15 1/2 oz. can refried beans"", ""2 oz. (1/2 c.) shredded Cheddar cheese""][""In a skillet, brown ground beef."", ""Drain and add 1 1/2 cups tomato sauce and seasoning mix and mix well."", ""Line bottom of a 11 x 8 x 2 pan with 2 cups corn chips."", ""Crush remaining corn chips and set aside."", ""Spoon meat mixture over corn chips in baking dish. Combine remaining tomato sauce and refried beans."", ""Spread over ground beef mixture."", ""Bake at 375\u00b0 for 25 minutes."", ""Sprinkle with shredded cheese and crushed corn chips."", ""Bake for 5 more minutes.""]","Generate a recipe for Tostado Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+   
+        
+
+
+
+        
+   
+## Tostada Casserole
+
+**Ingredients:**
+
+- 1 pound ground beef
+- 1 onion, chopped
+- 1 (15 ounce) can black beans, rinsed and drained
+- 1 (15 ounce) can diced tomatoes, undrained
+- 1 (10 ounce) can diced tomatoes and green chiles, undrained
+- 1 packet taco seasoning
+- 1 cup shredded cheddar cheese
+- 12 tostada shells
+
+**Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a large skillet, brown ground beef over medium heat. Drain off any excess grease.
+3. Add onion to the skillet and cook until softened, about 5 minutes.
+4. Stir in black beans, diced tomatoes, tomatoes and green chiles, and taco seasoning. Bring to a simmer and cook for 5 minutes, or until heated through.
+5. Spread a thin layer of beef mixture into the bottom of a 9x13 inch baking dish.
+6. Top with 6 tostada shells, arranged in a single layer.
+7. Spread half of the remaining beef mixture over the tostada shells.
+8. Sprinkle with 1/2 cup of the shredded cheddar cheese.
+9. Repeat layers with remaining tostada shells, beef mixture, and cheese. 
+10. Bake in preheated oven for 20-25 minutes, or until cheese is melted and bubbly.
+11. Let stand for 5 minutes before serving.",6.513338672512938e-79,0.30666666666666664,0.0802675585284281,0.15666666666666668,0.7757764458656311,0.5147252082824707,0.4842030704021454,0.3703038435251252,0.09771986970684039,0.7387858033180237,0.8166667222976685,0.7757764458656311,"tensor(0.0501, device='mps:0')",3
+Jalapeno Pie,"[""1 (7 oz.) can whole green chili peppers or 2 (4 oz.) cans chopped green chilies"", ""5 eggs, beaten"", ""1/2 lb. sharp Cheddar cheese"", ""salt and pepper, to taste""][""Drain peppers (seed whole ones)."", ""If using whole peppers, cut them lengthwise and line sides and bottom of a 9-inch pie plate. Preheat oven to 350\u00b0.""]","Generate a recipe for Jalapeno Pie only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+        Dish: Jalapeno Pie
+        Ingredients:
+        - 1 (14.1 ounce) can refrigerated pie crusts
+        - 1 (16 ounce) package cream cheese, softened
+        - 1 cup shredded cheddar cheese
+        - 1/2 cup jalapeno peppers, chopped
+        - 1/4 cup chopped onion
+        - 1/4 cup sour cream
+        - 1/4 cup milk
+        - 1 teaspoon chili powder
+        - 1/2 teaspoon salt
+        - 1/4 teaspoon black pepper
+        - 1/4 cup shredded Monterey Jack cheese, for topping
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C).
+        2. Unroll pie crust and place in a 9-inch pie plate.
+        3. In a large bowl, beat cream cheese until smooth.
+        4. Stir in cheddar cheese, jalapeno peppers, onion, sour cream, milk, chili powder, salt and pepper.
+        5. Pour filling into the prepared pie crust.
+        6. Sprinkle with Monterey Jack cheese.
+        7. Bake in preheated oven for 35-40 minutes, or until heated through and cheese is melted and bubbly.
+        8. Let cool slightly before serving.",0.011593995402464334,0.1626016260162602,0.05306122448979591,0.08536585365853658,0.7547224164009094,0.49841922521591187,0.4026755392551422,0.21838290331133303,0.07279693486590039,0.7202313542366028,0.7926830649375916,0.7547224164009094,"tensor(0.0763, device='mps:0')",1
+Buttermilk Corn Bread,"[""1 c. unbleached white flour"", ""1 c. corn meal"", ""1/2 c. sugar"", ""1/2 c. cornstarch"", ""1 Tbsp. baking powder"", ""1 tsp. baking soda"", ""1/2 tsp. salt"", ""1 egg"", ""1/4 c. butter, melted"", ""1 1/2 c. buttermilk""][""Combine flour, corn meal, sugar, cornstarch, baking powder, baking soda and salt in large bowl."", ""Beat egg in smaller bowl and whisk in butter slowly until well mixed."", ""Whisk in buttermilk. Pour egg mixture into dry ingredients, mixing until just blended. Gently spoon into greased 9 x 5-inch loaf pan."", ""Bake at 375\u00b0 for 45 minutes or until wooden pick inserted in center of loaf comes out clean."", ""Makes 1 loaf.""]","Generate a recipe for Buttermilk Corn Bread only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+     
+ 
+       
+
+    
+## Buttermilk Cornbread  
+
+**Ingredients:**
+* 1 cup all-purpose flour
+* 1 cup yellow cornmeal
+* 1/4 cup granulated sugar
+* 1 tsp. baking powder
+* 1/2 tsp. baking soda
+* 1/2 tsp. salt
+* 1 large egg
+* 1 cup buttermilk
+* 1/4 cup melted unsalted butter
+
+
+**Directions:**
+
+1. Preheat oven to 400°F (200°C). Grease an 8-inch square baking pan. 
+2. In a large bowl, whisk together the flour, cornmeal, sugar, baking powder, baking soda, and salt.
+3. In a separate bowl, whisk together the egg, buttermilk, and melted butter. 
+4. Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.
+5. Pour batter into the prepared baking pan.
+6. Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.
+7. Let cool in the pan for 10 minutes before serving.",6.000550381353851e-79,0.33582089552238803,0.12734082397003746,0.22388059701492535,0.782749354839325,0.728407084941864,0.5113254189491272,0.3918141958428941,0.1276595744680851,0.7432687878608704,0.8266593813896179,0.782749354839325,"tensor(0.0874, device='mps:0')",7
+Chicken Pie,"[""1 whole fryer"", ""1/2 tsp. salt"", ""1/2 tsp. pepper"", ""1 can cream of celery soup"", ""1 c. flour"", ""1 stick margarine"", ""1 c. buttermilk""][""Cook and remove chicken from bone and put in bottom of pan. Sprinkle salt and pepper over chicken."", ""Heat 2 cups chicken broth and can of soup and pour over chicken."", ""Mix flour, margarine (melted) and buttermilk, then spoon evenly over top of chicken. Bake at 425 degrees for 25 to 30 minutes or until golden brown.""]","Generate a recipe for Chicken Pie only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+        Dish: Chicken Pie
+        Ingredients:
+        - 1 tbsp. olive oil
+        - 1 onion, chopped
+        - 2 carrots, chopped
+        - 2 celery stalks, chopped
+        - 1/2 cup all-purpose flour
+        - 3 cups chicken broth
+        - 1 cup milk
+        - 2 cups cooked chicken, shredded
+        - 1/2 cup frozen peas
+        - 1/4 teaspoon salt
+        - 1/4 teaspoon black pepper
+        - 1 sheet (14.1 ounces) refrigerated pie crust
+
+        Directions:
+        1. Heat olive oil in a large saucepan over medium heat.
+        2. Add onion, carrots, and celery; cook until softened, about 5 minutes.
+        3. Stir in flour until combined.
+        4. Gradually whisk in chicken broth and milk until smooth.
+        5. Bring to a boil, then reduce heat to low and simmer for 5 minutes, stirring occasionally.
+        6. Stir in chicken, peas, salt, and pepper.
+        7. Pour mixture into a 9-inch pie plate.
+        8. Top with pie crust.
+        9. Bake in a preheated 375°F oven for 40-45 minutes, or until crust is golden brown and filling is bubbly.
+
+
+ 
+         
+         
+        
+```",7.851732221684027e-79,0.26436781609195403,0.1076923076923077,0.1417624521072797,0.7884963154792786,0.6409183740615845,0.5246869325637817,0.486667803374758,0.11895910780669144,0.7423101663589478,0.8408111333847046,0.7884963154792786,"tensor(-0.0040, device='mps:0')",4
+Ginger Cookies,"[""1/2 c. applesauce"", ""3 pkg. sweetener"", ""1/8 tsp. ginger"", ""pinch of salt"", ""2/3 c. powdered milk"", ""1/2 tsp. cinnamon"", ""pinch of cloves""][""Mix all dry ingredients together thoroughly; add applesauce. Mix well."", ""Drop by teaspoon onto a nonstick cookie sheet."", ""Bake at 350\u00b0 for 10 to 15 minutes.""]","Generate a recipe for Ginger Cookies only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        Dish: Ginger Cookies
+        Ingredients:
+
+
+        Directions: 
+1. 
+
+
+
+
+## Ginger Cookies
+
+**Ingredients:**
+
+* 1 cup (2 sticks) unsalted butter, softened
+* 1 cup granulated sugar
+* 1/2 cup packed light brown sugar
+* 1 large egg
+* 1/4 cup molasses
+* 3 cups all-purpose flour
+* 1 tablespoon ground ginger
+* 1 teaspoon ground cinnamon
+* 1/2 teaspoon ground cloves
+* 1/4 teaspoon salt
+* 1/2 cup granulated sugar, for rolling
+
+**Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper.
+2. In a large bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy. Beat in the egg and molasses until well combined.
+3. In a separate bowl, whisk together the flour, ground ginger, cinnamon, cloves, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Do not overmix.
+4. Divide the dough in half and shape each half into a disc. Wrap in plastic wrap and refrigerate for at least 1 hour.
+5. Once chilled, roll out the dough on a lightly floured surface to about 1/4 inch thickness. Use cookie cutters to cut out desired shapes.
+6. Roll each cookie in granulated sugar, then place on the prepared baking sheets.
+7. Bake for 8-10 minutes, or until edges are lightly browned.
+8. Let cookies cool on baking sheets for a few minutes before transferring to a wire rack to cool completely.",1.3663688122747511e-155,0.15140845070422534,0.03180212014134276,0.08802816901408451,0.7741209864616394,0.698590099811554,0.46525561809539795,0.20815374435990927,0.052980132450331126,0.7299215793609619,0.8240184187889099,0.7741209864616394,"tensor(-0.0844, device='mps:0')",4
+Bacon Nuts,"[""1 can water chestnuts, drained (8 oz.)"", ""1/4 c. soy sauce"", ""1/2 lb. bacon""][""Soak water chestnuts in soy sauce for 4 hours."", ""Wrap each chestnut in a 1/2 strip of bacon and secure with a toothpick. Broil until brown.""]","Generate a recipe for Bacon Nuts only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+ 
+        
+    
+    
+    
+    
+
+    
+## Bacon Nuts Recipe
+
+**Ingredients:**
+
+* 12 slices thick-cut bacon, chopped
+* 1 cup mixed nuts (almonds, walnuts, pecans, etc.)
+* 1/4 teaspoon cayenne pepper (optional)
+
+**Directions:**
+
+1. Preheat oven to 350°F (175°C). Line a baking sheet with parchment paper.
+2. In a large skillet, cook bacon over medium heat until crispy. Remove bacon with a slotted spoon and place on a paper towel-lined plate to drain. Leave bacon grease in the skillet.
+3. Add nuts to the skillet with bacon grease and toast for 5-7 minutes, stirring frequently, until fragrant and lightly browned. 
+4. Stir in cayenne pepper (if using).
+5. Add cooked bacon back to the skillet and toss to combine.
+6. Spread the bacon and nuts mixture on the prepared baking sheet.
+7. Bake for 5-10 minutes, or until heated through and the bacon is crispy. 
+8. Let cool slightly before serving.",1.872947965275136e-155,0.11040339702760087,0.042643923240938165,0.08067940552016985,0.7660185098648071,0.5819209814071655,0.5007908344268799,0.18658437096083913,0.04887218045112782,0.7164440751075745,0.8229634761810303,0.7660185098648071,"tensor(0.0617, device='mps:0')",1
+Pina Colada Cake,"[""1 box Duncan Hines butter cake mix"", ""4 eggs"", ""1/2 c. oil"", ""1 c. water"", ""1 can cream of coconut"", ""1 can crushed pineapple (optional)"", ""1 large Cool Whip"", ""flaked coconut""][""Preheat oven to 350\u00b0."", ""Mix cake mix, eggs, oil and water. Bake in an oblong pan for 30 minutes."", ""Remove from oven and poke holes in cake."", ""Stir and then pour the cream of coconut over the cake while it is hot."", ""Refrigerate cake to cool."", ""Top cake with crushed pineapple, Cool Whip and coconut."", ""Keep refrigerated.""]","Generate a recipe for Pina Colada Cake only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+            
+
+
+        Dish: Pina Colada Cake
+        Ingredients:
+        - 1 1/2 cups all-purpose flour
+        - 1 teaspoon baking powder
+        - 1/2 teaspoon baking soda
+        - 1/4 teaspoon salt
+        - 1/2 cup unsalted butter, softened
+        - 1 cup granulated sugar
+        - 2 large eggs
+        - 1 teaspoon vanilla extract
+        - 1/2 cup pineapple juice
+        - 1/2 cup coconut milk
+        - 1/2 cup shredded coconut
+        - 1/4 cup chopped pineapple
+        - 1/2 cup white chocolate chips
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.
+        2. In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.
+        3. In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla.
+        4. In a small bowl, whisk together the pineapple juice, coconut milk, shredded coconut, and chopped pineapple.
+        5. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Stir in the white chocolate chips.
+        6. Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.
+        7. Let the cake cool in the pan for 10 minutes before inverting it onto a wire rack to cool completely.
+        8. Enjoy the delicious Pina Colada Cake!",4.280414783817141e-79,0.20642978003384094,0.06451612903225806,0.1116751269035533,0.7750863432884216,0.5866237878799438,0.5084561109542847,0.37118209358266857,0.07540983606557378,0.7410876154899597,0.812354564666748,0.7750863432884216,"tensor(-0.0893, device='mps:0')",3
+Grasshopper Salad,"[""1 box pistachio pudding (instant)"", ""1 (12 oz.) Cool Whip"", ""1 can crushed pineapple with the juice"", ""1/2 c. nuts"", ""1 c. mini marshmallows""][""Mix pudding mix and Cool Whip together."", ""Add the rest of the ingredients and stir well."", ""Refrigerate."", ""May be used immediately.""]","Generate a recipe for Grasshopper Salad only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+    
+    
+    Dish: Grasshopper Salad
+
+
+Ingredients:
+- 1 (14 oz) can sweetened condensed milk
+- 1/2 cup peanut butter
+- 1/2 cup chopped pecans
+- 1/4 cup Graham cracker crumbs
+- 1/4 cup unsweetened cocoa powder
+- 1 teaspoon vanilla extract
+- 1/4 cup chopped dark chocolate
+
+Directions:
+1. In a medium bowl, combine the sweetened condensed milk, peanut butter, pecans, Graham cracker crumbs, cocoa powder, and vanilla extract. 
+2. Mix well until all ingredients are thoroughly combined.
+3. Stir in the chopped dark chocolate.
+4. Refrigerate the mixture for at least 30 minutes to allow it to firm up.
+5. Once chilled, scoop out the salad and serve.",1.7111176855612895e-155,0.12064965197215777,0.037296037296037296,0.09280742459396753,0.771924614906311,0.5190500020980835,0.3457809090614319,0.2628521429379055,0.037037037037037035,0.7312466502189636,0.8173947930335999,0.771924614906311,"tensor(-0.0371, device='mps:0')",1
+Chocolate Biscotti,"[""1 c. sugar"", ""2 1/2 c. flour"", ""1 tsp. vanilla"", ""1/2 tsp. salt"", ""1 c. butter"", ""1 c. cocoa"", ""1 Tbsp. baking powder"", ""1 tsp. coffee granuales"", ""4 eggs"", ""1 (8oz.) pkg. semi sweet Chocolate chips, melted and opt."", ""1/4 c. almonds, chopped""][""At medium speed beat sugar and butter."", ""Add 1 c. flour and then the rest of the ingredients."", ""Add the other 1 1/2 c. flour."", ""Pat dough into 2 (12x3) loaves."", ""Bake on cookie sheet for 25-30 minutes at 350\u00b0."", ""Remove and cool for 20 minutes."", ""Remove loaves to a cutting board and cut slices about 1/2-inch wide into cookies. Place flat on a cookie sheet and bake again at 350\u00b0 for 20 minutes. Cool completely."", ""Melt chocolate in a double boiler and brush each cookie with the chocolate and sprinkle with the chopped almonds.""]","Generate a recipe for Chocolate Biscotti only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+ Chocolate Biscotti 
+
+Ingredients:
+- 2 cups all-purpose flour
+- 1 teaspoon baking powder
+- 1/2 teaspoon salt
+- 1 cup granulated sugar
+- 1/2 cup unsalted butter, softened
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1/2 cup unsweetened cocoa powder
+- 1/2 cup chopped walnuts or almonds (optional)
+
+Directions:
+1. Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.
+2. In a medium bowl, whisk together the flour, baking powder, salt, and cocoa powder.
+3. In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla.
+4. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Stir in the nuts, if using.
+5. Shape the dough into a log about 12 inches long and 2 inches wide. Place the log on the prepared baking sheet.
+6. Bake for 25-30 minutes, or until the log is firm and slightly browned.
+7. Let the log cool for 10 minutes on the baking sheet.
+8. While the log is cooling, preheat the oven to 300 degrees F (150 degrees C).
+9. Slice the cooled log into 1/2-inch thick slices. Place the slices on the baking sheet in a single layer.
+10. Bake for 10-15 minutes, or until the biscotti are crisp and golden brown.
+11. Let the biscotti cool completely on a wire rack before serving.",3.1813374393333842e-155,0.32537313432835824,0.09281437125748503,0.18507462686567164,0.786445677280426,0.7366475462913513,0.48363006114959717,0.5044743101668907,0.10843373493975904,0.7514822483062744,0.8248212933540344,0.786445677280426,"tensor(-0.0175, device='mps:0')",9
+Velveeta Cheese Fudge,"[""1/2 lb. Velveeta cheese"", ""2 sticks oleo"", ""2 lb. confectioners sugar"", ""1/2 c. cocoa"", ""1 tsp. vanilla"", ""nuts""][""Melt cheese and oleo on low."", ""Mix confectioners sugar, cocoa and vanilla."", ""Pour cheese mixture into sugar mixture."", ""Mix well and add nuts."", ""Pat into buttered dish, 9 x 12-inch."", ""Can be cut immediately."", ""Makes about 2 1/2 pounds.""]","Generate a recipe for Velveeta Cheese Fudge only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+
+
+        Dish: Velveeta Cheese Fudge
+Ingredients:
+- 1 (8 oz.) package Velveeta cheese, cubed
+- 1 (14 oz.) can sweetened condensed milk
+- 1/2 cup semi-sweet chocolate chips
+- 1/4 teaspoon salt
+
+
+Directions:
+1. Line a 8x8 inch baking dish with parchment paper, leaving an overhang on two sides for easy removal.
+2. In a medium-sized saucepan over medium heat, combine Velveeta cheese, sweetened condensed milk, and salt.
+3. Stir constantly until the cheese is melted and the mixture is smooth. 
+4. Remove from heat and stir in chocolate chips until melted and fully incorporated.
+5. Pour mixture into the prepared baking dish and spread evenly.
+6. Refrigerate for at least 2 hours, or until firm.
+7. Use the parchment paper overhang to lift the fudge out of the dish and cut into squares.",1.5494144615533053e-155,0.18105263157894735,0.042283298097251586,0.10105263157894738,0.7753754258155823,0.6502329111099243,0.49817436933517456,0.2691814622404223,0.06201550387596899,0.7343364953994751,0.8212727904319763,0.7753754258155823,"tensor(-0.0117, device='mps:0')",3
+Pumpkin Crisp,"[""16 oz. c. solid pumpkin"", ""14 oz. c. sweetened condensed milk"", ""1/2 c. sugar"", ""1 tsp. cinnamon"", ""1/2 tsp. nutmeg"", ""3 eggs, beaten"", ""1 box yellow cake mix"", ""1 c. chopped nuts"", ""1 c. margarine""][""Mix first 6 ingredients and pour into greased 9 x 13-inch or two 8 x 8-inch pans."", ""Sprinkle cake mix over mixture."", ""Press nuts into cake mix."", ""Drizzle melted margarine over cake mix."", ""Bake at 350\u00b0 for 1 hour."", ""Can be frozen.""]","Generate a recipe for Pumpkin Crisp only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+## Pumpkin Crisp
+
+**Ingredients:**
+
+* Filling:
+    * 1 (15 ounce) can pumpkin puree
+    * 1/2 cup packed light brown sugar
+    * 1/4 cup granulated sugar
+    * 1 teaspoon ground cinnamon
+    * 1/2 teaspoon ground ginger
+    * 1/4 teaspoon ground nutmeg
+    * 1/4 teaspoon ground cloves
+    * 1/2 teaspoon salt
+    * 2 large eggs
+    * 1/2 cup milk
+* Topping:
+    * 1 cup all-purpose flour
+    * 1/2 cup packed light brown sugar
+    * 1/2 teaspoon ground cinnamon
+    * 1/4 teaspoon salt
+    * 1/2 cup (1 stick) unsalted butter, cold and cut into small pieces
+
+ **Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a large bowl, whisk together pumpkin puree, brown sugar, granulated sugar, cinnamon, ginger, nutmeg, cloves, salt, eggs, and milk until smooth.
+3. Pour pumpkin mixture into a 9x13 inch baking dish.
+4. In a separate bowl, combine flour, brown sugar, cinnamon, and salt. Cut in butter using a pastry blender or your fingers until mixture resembles coarse crumbs.
+5. Sprinkle crumble topping evenly over pumpkin mixture.
+6. Bake in preheated oven for 45-55 minutes, or until topping is golden brown and filling is set.
+7. Let cool slightly before serving. Enjoy!",8.34077052947672e-232,0.19494584837545129,0.036231884057971016,0.10108303249097472,0.7784801721572876,0.6737134456634521,0.5215983390808105,0.22714483563644713,0.04666666666666667,0.7401208877563477,0.8210330605506897,0.7784801721572876,"tensor(0.0536, device='mps:0')",6
+Hummingbird Cake,"[""3 c. all-purpose flour"", ""2 c. sugar"", ""1 tsp. baking soda"", ""1 tsp. salt"", ""1 tsp. cinnamon"", ""3 eggs, beaten"", ""1 c. vegetable oil"", ""1 1/2 tsp. vanilla extract"", ""1 (8 oz.) can crushed pineapple (undrained)"", ""1 c. chopped pecans"", ""2 c. chopped bananas"", ""1/2 c. chopped pecans"", ""1 (8 oz.) pkg. cream cheese"", ""1/2 c. butter or margarine, softened"", ""1 (16 oz.) pkg. powdered sugar, sifted"", ""1 tsp. vanilla""][""Combine first 5 ingredients in a large mixing bowl; add eggs and oil, stirring until dry ingredients are moistened."", ""Do not beat."", ""Stir in vanilla, pineapple, 1 cup pecans and bananas.""]","Generate a recipe for Hummingbird Cake only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+## Hummingbird Cake
+
+**Ingredients:**
+
+- 1 1/2 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1/2 teaspoon ground cinnamon
+- 1/4 teaspoon ground cloves
+- 1 cup granulated sugar
+- 1/2 cup vegetable oil
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1 cup mashed ripe bananas (about 3 medium)
+- 1/2 cup chopped pineapple (drained)
+- 1/2 cup chopped walnuts or pecans (optional)
+
+**Frosting Ingredients:**
+
+- 8 ounces cream cheese, softened
+- 1/2 cup (1 stick) unsalted butter, softened
+- 3 cups powdered sugar
+- 1 teaspoon vanilla extract
+
+
+**Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan. 
+2. In a medium bowl, whisk together the flour, baking soda, salt, cinnamon, and cloves.
+3. In a large bowl, cream together the sugar and oil until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla.
+4. Add the mashed bananas, pineapple, and nuts (if using) to the wet ingredients and mix well.
+5. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Do not overmix.
+6. Pour the batter into the prepared baking pan and spread evenly.
+7. Bake in the preheated oven for 30-35 minutes, or until a toothpick inserted into the center comes out clean.
+8. Let the cake cool in the pan for 10 minutes before inverting it onto a wire rack to cool completely.
+9. While the cake is cooling, prepare the frosting. In a large bowl, beat together the cream cheese and butter until smooth. Gradually add the powdered sugar, beating until light and fluffy. Stir in the vanilla.
+10. Once the cake is completely cool, frost the top and sides with the cream cheese frosting.",0.012038067581975577,0.2776957163958641,0.12444444444444444,0.15952732644017725,0.7859855890274048,0.5160912275314331,0.4382578134536743,0.34062651534426985,0.10909090909090909,0.7469039559364319,0.8293830156326294,0.7859855890274048,"tensor(0.0290, device='mps:0')",16
+Breakfast Burritos,"[""1/2 lb. mild sausage, cooked"", ""7 eggs"", ""1 oz. diced tomatoes"", ""1/2 oz. minced onion"", ""1/2 tsp. pepper"", ""1/2 oz. mild green chili peppers"", ""cheese (optional)"", ""flour tortillas""][""Beat eggs in separate container."", ""Mix other ingredients."", ""In large skillet, lightly buttered, put sausage mix."", ""Add eggs; stir until eggs are softly cooked."", ""Remove from heat."", ""Place eggs in spaghetti strainer (something to let the juice drain through). Soften flour tortillas."", ""Take 1 tortilla; place 1 slice of cheese in center, then 2 tablespoons of mixture."", ""Wrap in wax paper."", ""Can be frozen."", ""Yields 10 to 12 burritos.""]","Generate a recipe for Breakfast Burritos only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+**Dish: Breakfast Burritos**
+
+
+**Ingredients:**
+
+- 8 large flour tortillas
+- 1 pound ground sausage
+- 1/2 cup chopped onion
+- 1/2 cup chopped green bell pepper
+- 1 (15 ounce) can black beans, rinsed and drained
+- 1 (10 ounce) can diced tomatoes and green chiles, undrained
+- 1/2 cup shredded cheddar cheese
+- 1/4 cup chopped fresh cilantro (optional)
+- Salt and pepper to taste
+
+
+
+**Directions:**
+
+1. In a large skillet over medium heat, brown the ground sausage. Drain off any excess grease.
+2. Add the chopped onion and green bell pepper to the skillet and cook until softened, about 5 minutes.
+3. Stir in the black beans, diced tomatoes and green chiles, salt, and pepper. Bring to a simmer and cook for 5 minutes.
+4. Warm the flour tortillas in the microwave or on a griddle.
+5. Divide the sausage mixture evenly among the tortillas.
+6. Top with shredded cheddar cheese and chopped cilantro (if using).
+7. Fold the tortillas in half or roll them up to create burritos.
+8. Serve immediately.",8.730885340381566e-232,0.2545454545454545,0.05474452554744525,0.11636363636363636,0.7748823165893555,0.6084186434745789,0.47186478972435,0.25190928309149746,0.05806451612903226,0.7417435050010681,0.8111208081245422,0.7748823165893555,"tensor(-0.0284, device='mps:0')",6
+Frothy Orange Slush,"[""1 (6 oz.) can frozen orange juice concentrate"", ""1 c. water"", ""1/4 c. sugar"", ""1/3 c. milk"", ""1 tsp. vanilla"", ""12 ice cubes""][""Mix all ingredients in a blender until ice cubes make a slush. Pour into glasses."", ""Drink immediately."", ""Store unused portion in freezer.""]","Generate a recipe for Frothy Orange Slush only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+
+
+
+        Dish: Frothy Orange Slush
+        Ingredients:
+        - 1 can (12 oz.) frozen orange juice concentrate
+        - 3 cups cold water
+        - 1/2 cup orange soda
+        - 1/4 cup sugar
+        - 1/2 teaspoon orange extract
+
+        Directions:
+        1. Combine frozen orange juice concentrate, cold water, and sugar in a blender.
+        2. Blend until smooth.
+        3. Stir in orange soda and orange extract.
+        4. Pour into serving glasses and enjoy!",4.362316096294755e-79,0.19387755102040816,0.07692307692307693,0.10714285714285715,0.7758365273475647,0.6022195816040039,0.3689690828323364,0.24723442976252408,0.05752212389380531,0.7277980446815491,0.8306648135185242,0.7758365273475647,"tensor(0.0081, device='mps:0')",5
+Clams And Cheese,"[""1/2 lb. Velveeta cheese"", ""1 can minced clams"", ""2 medium onions"", ""1/2 green pepper"", ""1/2 tsp. prepared mustard"", ""1 tsp. Worcestershire sauce"", ""3 Tbsp. chili sauce"", ""dash of Tabasco sauce (optional)""][""Melt cheese in a frypan."", ""In another frypan, saute onions and diced peppers in butter; add clams and their juice."", ""Cook over medium heat for 10 minutes; add remaining ingredients.""]","Generate a recipe for Clams And Cheese only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+    
+
+
+
+Dish: Clams And Cheese 
+Ingredients:
+- 1 (28 ounce) can minced clams, drained
+- 1/2 cup chopped onion
+- 1/4 cup butter 
+- 1/4 cup all-purpose flour
+- 1 1/2 cups clam juice
+- 1 1/2 cups milk
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1 1/2 cups shredded cheddar cheese
+
+
+Directions:
+1. Melt butter in a large saucepan over medium heat.
+2. Add onion and cook until softened, about 5 minutes. 
+3. Stir in flour and cook for 1 minute more. 
+4. Gradually whisk in clam juice and milk until smooth. 
+5. Bring to a simmer, stirring constantly. 
+6. Reduce heat to low and simmer for 5 minutes, or until thickened. 
+7. Stir in clams, salt, and pepper.
+8. Remove from heat and stir in cheese until melted and smooth. 
+9. Serve hot.",3.848465893450804e-79,0.1784232365145228,0.05833333333333333,0.1078838174273859,0.7809529900550842,0.6746780872344971,0.5080711245536804,0.31178471696926774,0.05426356589147287,0.7404422760009766,0.8261531591415405,0.7809529900550842,"tensor(-0.0429, device='mps:0')",1
+Sour Cream Banana Pudding,"[""3 pkg. instant vanilla pudding"", ""5 c. milk"", ""1 medium size Cool Whip"", ""8 oz. pkg. sour cream"", ""vanilla wafers"", ""bananas""][""Mix pudding and milk until thick, then add Cool Whip and sour cream; mix well."", ""Put a thin layer of pudding in a bowl, then a layer of wafers, then bananas and continue until you get to the top and end with a layer of pudding.""]","Generate a recipe for Sour Cream Banana Pudding only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+        
+
+
+
+## Sour Cream Banana Pudding
+
+**Ingredients:**
+
+- 1 box (3.4 oz) instant vanilla pudding mix
+- 2 cups cold milk
+- 1 (8 oz) container sour cream
+- 1 teaspoon vanilla extract
+- 3-4 ripe bananas, sliced
+- 1 (12 oz) box vanilla wafers 
+
+**Directions:**
+
+1. In a medium bowl, whisk together pudding mix and cold milk until smooth. 
+2. Stir in sour cream and vanilla extract.
+3. In a 9x13 inch baking dish, arrange a layer of vanilla wafers on the bottom.
+4. Top with a layer of sliced bananas.
+5. Pour half of the pudding mixture over the bananas.
+6. Repeat layers of vanilla wafers, bananas, and remaining pudding mixture.
+7. Cover and refrigerate for at least 4 hours or overnight before serving.",0.013243748175915233,0.2260127931769723,0.08993576017130621,0.13646055437100213,0.7700676918029785,0.7172726392745972,0.51181560754776,0.45581075441050406,0.08764940239043825,0.7212428450584412,0.8259830474853516,0.7700676918029785,"tensor(-0.0274, device='mps:0')",5
+Green Chile Casserole,"[""1 lb. Ortega green chiles"", ""1 lb. Cheddar cheese"", ""1 lb. Jack cheese"", ""4 Tbsp. flour"", ""1 large can evaporated milk"", ""2 eggs"", ""1/2 tsp. salt""][""Grate the cheeses together."", ""Butter baking dish and put open, seedless chiles flat on the bottom of pan."", ""Then put cheeses over the top, then do another layer of chiles, etc."", ""Finish with cheese on top."", ""Mix together in bowl the flour, milk, eggs and salt."", ""Pour this mixture over chiles and cheese."", ""Bake 45 minutes at 350\u00b0. This is for a 9 x 13-inch pan."", ""For a smaller serving, you may cut recipe in half."", ""You will be surprised how much this dish tastes like the true Mexican Chili Rellenos.""]","Generate a recipe for Green Chile Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        
+
+        
+    
+
+
+Green Chile Casserole
+
+Ingredients:
+- 1 (10.75 ounce) can condensed cream of chicken soup
+- 1/2 cup milk
+- 1/2 cup chopped onion
+- 1 (4 ounce) can diced green chiles, undrained
+- 1 1/2 cups shredded cheddar cheese
+- 1 cup cubed bread
+- 1/4 cup butter, melted
+
+Directions:
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a medium bowl, combine soup, milk, onion, and green chiles.
+3. Stir in 1 cup of the cheese.
+4. Add cube bread and stir to combine.
+5. Pour mixture into a greased 9x13 inch baking dish.
+6. Drizzle melted butter over the top.
+7. Sprinkle remaining cheese over the top.
+8. Bake in preheated oven for 20-25 minutes, or until bubbly and golden brown.",0.010063072475843577,0.2585551330798479,0.0648854961832061,0.12547528517110265,0.7835258841514587,0.689719557762146,0.5063430070877075,0.3732574664589699,0.08135593220338982,0.7488473057746887,0.8215724229812622,0.7835258841514587,"tensor(-0.0575, device='mps:0')",3
+Broccoli Supreme,"[""10 oz. chopped frozen broccoli"", ""1/2 c. sour cream"", ""1 Tbsp. chopped onion"", ""1 can cream of chicken soup"", ""1/2 stick margarine"", ""1 Tbsp. flour"", ""3/4 c. herb dressing"", ""salt and pepper to taste""][""Cook broccoli; drain."", ""In a bowl, mix soup, sour cream, flour, onion, salt and pepper."", ""Heat."", ""Remove from heat."", ""Add broccoli; stir gently."", ""In a saucepan, melt margarine and add dressing."", ""Mix well."", ""Pour broccoli mixture into a 2-quart casserole dish."", ""Top with dressing mixture."", ""Bake at 350\u00b0 for 30 to 35 minutes."", ""Serves 6.""]","Generate a recipe for Broccoli Supreme only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+  
+   
+        
+ 
+                
+
+
+
+ 
+ 
+ 
+ 
+
+
+   
+  
+**Broccoli Supreme**
+
+**Ingredients:**
+
+- 1 (10 ounce) package frozen chopped broccoli
+- 1 (10.75 ounce) can condensed cream of mushroom soup
+- 1/2 cup milk
+- 1/4 cup grated Parmesan cheese
+- 1/4 teaspoon black pepper
+- 1/4 cup bread crumbs
+- 2 tablespoons melted butter
+
+**Directions:**
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a medium bowl, combine the broccoli, soup, milk, Parmesan cheese, and pepper.
+3. Pour mixture into a greased 8x8 inch baking dish.
+4. In a small bowl, combine the bread crumbs and melted butter.
+5. Sprinkle the crumb mixture evenly over the broccoli mixture.
+6. Bake for 20-25 minutes, or until heated through and the topping is golden brown.",5.606786217009814e-79,0.2973523421588595,0.07770961145194273,0.14256619144602853,0.7892159819602966,0.7831288576126099,0.6014703512191772,0.35445838703235355,0.10780669144981413,0.7524068355560303,0.8298119306564331,0.7892159819602966,"tensor(-0.0433, device='mps:0')",3
+Black Bean Soup,"[""1/2 c. olive oil"", ""4 cloves minced garlic"", ""1 lb. black beans"", ""3 qt. water"", ""1 1/2 tsp. dry oregano"", ""1 1/2 tsp. salt"", ""pinch of cayenne"", ""1/2 medium red or green bell pepper, chopped"", ""1 1/2 tsp. brown sugar (or more, if desired)"", ""sour cream"", ""1 1/2 c. chopped yellow onions"", ""1 meaty ham bone"", ""1 Tbsp. plus 1/2 tsp. ground cumin"", ""1 bay leaf"", ""1 tsp. fresh ground pepper"", ""3 Tbsp. chopped, fresh parsley"", ""1/8 c. dry sherry (or more, if desired)"", ""1 1/2 to 3 tsp. lemon juice (add to taste)"", ""green onions, chopped""][""Soak the black beans in water overnight."", ""Heat oil in a Dutch oven."", ""Add onions and garlic and cook over low heat until vegetables are tender, about 10 minutes."", ""Drain the beans."", ""Add the beans to the Dutch oven."", ""Add the ham bone and the water."", ""Stir in 1 tablespoon of cumin, oregano, bay leaf, salt, pepper, cayenne and 1 tablespoon of parsley."", ""Bring to a boil, reduce heat and cook, uncovered, until beans are very tender and the liquid is reduced by about 3/4."", ""This will take 1 1/2 to 2 hours."", ""If it requires a longer cooking time, the beans were probably old."", ""Transfer ham bone to plate and cool slightly."", ""Pull off any remaining meat with your fingers and shred."", ""Return meat to pot."", ""Stir in remaining parsley, red pepper, cumin, sherry, brown sugar and lemon juice. Simmer for another 30 minutes."", ""Taste."", ""Correct seasoning and serve very hot."", ""Garnish with dollop of sour cream and top with a sprinkle of green onions.""]","Generate a recipe for Black Bean Soup only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+## Black Bean Soup
+
+**Ingredients:**
+
+- 1 tablespoon olive oil
+- 1 medium onion, chopped
+- 2 cloves garlic, minced
+- 1 teaspoon ground cumin
+- 1/2 teaspoon chili powder
+- 1/4 teaspoon cayenne pepper (optional)
+- 1 (15 ounce) can black beans, rinsed and drained
+- 4 cups vegetable broth
+- 1 (14.5 ounce) can diced tomatoes, undrained
+- Salt and pepper to taste
+- Optional toppings: sour cream, avocado, cilantro, tortilla chips
+
+**Directions:**
+
+1. Heat the olive oil in a large pot or Dutch oven over medium heat.
+2. Add the onion and cook until softened, about 5 minutes.
+3. Stir in the garlic, cumin, chili powder, and cayenne pepper (if using) and cook for 1 minute more.
+4. Add the black beans, vegetable broth, and diced tomatoes to the pot.
+5. Bring the mixture to a boil, then reduce heat to low and simmer for 30 minutes, or until the flavors have melded. 
+6. Season with salt and pepper to taste.
+7. Serve hot, topped with your favorite toppings.",9.536882214091252e-79,0.4846796657381615,0.13128491620111732,0.2116991643454039,0.7814821004867554,0.7263837456703186,0.4106593728065491,0.5279239261747375,0.12702702702702703,0.754194438457489,0.8108184933662415,0.7814821004867554,"tensor(0.0716, device='mps:0')",9
+Hamburger Round-Up,"[""1 lb. hamburger meat"", ""4 medium potatoes"", ""seasoning to taste (can use seasoning salt)"", ""1 small onion"", ""1/4 c. water""][""Place meat, seasoning, onion and water in skillet over low fire."", ""Slice potatoes thin and place on top."", ""Put lid on skillet and cook until potatoes are done."", ""Stir into meat and simmer for 5 minutes.""]","Generate a recipe for Hamburger Round-Up only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+    Ingredients:
+
+    Directions: 
+    1.  Brown ground beef in a large skillet over medium heat; drain off excess grease. 
+    2.  Stir in diced onion, garlic, and taco seasoning.
+    3.  Add diced tomatoes, tomato sauce, and water. Bring to a simmer and cook for 15 minutes, or until thickened.
+    4.  Serve hot with desired toppings such as shredded cheese, sour cream, guacamole, lettuce, and tomatoes.",2.270791691547111e-155,0.19,0.045226130653266326,0.095,0.7758399248123169,0.575569212436676,0.3895363211631775,0.2863428114494508,0.06938775510204082,0.7327595353126526,0.8243023157119751,0.7758399248123169,"tensor(0.0253, device='mps:0')",3
+Fig Preserve Cake,"[""1 1/2 c. sugar"", ""2 c. all-purpose flour"", ""1 tsp. soda"", ""1 tsp. salt"", ""1 tsp. nutmeg"", ""1 tsp. cinnamon"", ""1/2 tsp. allspice"", ""1/2 tsp. cloves"", ""1 c. vegetable oil"", ""3 eggs"", ""1 c. buttermilk"", ""1 Tbsp. vanilla"", ""1 c. fig preserves, chopped"", ""1/2 c. chopped pecans or walnuts""][""Combine dry ingredients in a large mixing bowl. Add oil, beating well. Add eggs and beat well. Add buttermilk and vanilla, mixing thoroughly. Stir in preserves and pecans."", ""Pour into a greased and floured 10-inch tube pan. Bake at 350\u00b0 for 1 1/4 hours. Let cool 10 minutes and remove from pan. Pour warm Buttermilk Glaze over warm cake.""]","Generate a recipe for Fig Preserve Cake only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        
+
+        Dish: Fig Preserve Cake
+        Ingredients:
+        -  1 1/2 cups all-purpose flour
+        - 1 tsp. baking powder
+        - 1/2 tsp. baking soda
+        - 1/4 tsp. salt
+        - 1/2 cup (1 stick) unsalted butter, softened
+        - 3/4 cup granulated sugar
+        - 2 large eggs
+        - 1 tsp. vanilla extract
+        - 1/2 cup buttermilk
+        - 1/2 cup fig preserves
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.
+        2. In a medium bowl, whisk together flour, baking powder, baking soda, and salt. 
+        3. In a large bowl, cream together butter and sugar until light and fluffy. Beat in eggs one at a time, then stir in vanilla.
+        4. In a small bowl, whisk together buttermilk and fig preserves.
+        5. Gradually add the dry ingredients to the wet ingredients, alternating with the buttermilk mixture, beginning and ending with the dry ingredients. Mix until just combined. Do not overmix.
+        6. Pour batter into the prepared baking pan and spread evenly.
+        7. Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.
+        8. Let cool in the pan for 10 minutes before serving.",2.934926059796362e-155,0.326530612244898,0.12286689419795221,0.17346938775510207,0.7910242080688477,0.799226701259613,0.5547997951507568,0.40135586228021414,0.11148648648648649,0.7495864629745483,0.8373115658760071,0.7910242080688477,"tensor(-0.0097, device='mps:0')",9
+Christmas Party Pinwheels,"[""2 pkg (8 oz. each) cream cheese, softened"", ""1 pkg (4 oz.) ranch salad dressing mix"", ""1/2 cup minced sweet pepper"", ""1/2 cup minced celery"", ""1/4 cup sliced green olives"", ""1/4 cup sliced green onions"", ""2 to 4 (10 inch) flour tortillas""][""In mixing bowl, beat cream cheese and dressing mix until smooth."", ""Add red pepper, celery, onions and olives:"", ""mix well. Spread about 3/4 cup on each tortilla."", ""Roll up tightly; wrap in plastic wrap."", ""Refrigerate for at least 2 hours."", ""Slice into 1/2 inch pieces."", ""Yield 15 - 20 servings.""]","Generate a recipe for Christmas Party Pinwheels only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+## Christmas Party Pinwheels
+
+**Ingredients:**
+
+* 1 package (14.1 ounces) refrigerated crescent roll dough
+* 1/2 cup softened cream cheese
+* 1/4 cup grated Parmesan cheese
+* 1/4 cup chopped fresh chives
+* 1/4 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/2 cup shredded cheddar cheese
+* 1/4 cup diced ham
+
+**Directions:**
+
+1. Preheat oven to 375 degrees F (190 degrees C).
+2. Unroll crescent roll dough and separate into triangles.
+3. In a small bowl, combine softened cream cheese, Parmesan cheese, chives, salt, and pepper.
+4. Spread cream cheese mixture evenly over each crescent roll triangle.
+5. Sprinkle shredded cheddar cheese and diced ham over the cream cheese mixture.
+6. Roll up each triangle from the wide end to the point, forming a pinwheel shape.
+7. Place pinwheels on an ungreased baking sheet.
+8. Bake for 15-20 minutes, or until golden brown.
+9. Let cool for a few minutes before serving.",2.2222770756065954e-155,0.2335216572504708,0.06805293005671077,0.13182674199623354,0.7682254314422607,0.561265766620636,0.34574276208877563,0.26904527959690516,0.08417508417508418,0.7367786765098572,0.8024763464927673,0.7682254314422607,"tensor(-0.0402, device='mps:0')",1
+Fruitcake Cookies,"[""1 1/2 c. flour (unsifted)"", ""1 tsp. soda"", ""1/2 tsp. salt"", ""1/2 tsp. cinnamon"", ""1/2 c. butter or margarine"", ""3/4 c. sugar"", ""2 eggs"", ""1 c. mixed candied fruit"", ""1 c. chopped dates"", ""3/4 c. chopped pecans"", ""1 tsp. brandy extract (vanilla may be used)""][""Sift together flour, soda, salt, and cinnamon."", ""Cream butter, gradually add sugar and cream until fluffy."", ""Add brandy extract then add eggs one at a time."", ""Add dry ingredients then fruit and nuts."", ""Drop by teaspoonfuls on lightly greased cookie sheets. Bake for 12 to 15 minutes at 350\u00b0.""]","Generate a recipe for Fruitcake Cookies only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+    Fruitcake Cookies
+    Ingredients:
+    - 1 cup (2 sticks) unsalted butter, softened
+    - 1 1/2 cups granulated sugar
+    - 2 large eggs
+    - 1 teaspoon vanilla extract
+    - 3 cups all-purpose flour
+    - 1 teaspoon baking soda
+    - 1/2 teaspoon salt
+    - 1 cup chopped dried fruit (raisins, cranberries, apricots, etc.)
+    - 1 cup chopped nuts (pecans, walnuts, almonds, etc.)
+
+    Directions:
+    1. Preheat oven to 350 degrees F (175 degrees C).
+    2. Cream together the butter and sugar until light and fluffy.
+    3. Beat in the eggs one at a time, then stir in the vanilla.
+    4. In a separate bowl, whisk together the flour, baking soda, and salt.
+    5. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.
+    6. Stir in the dried fruit and nuts.
+    7. Drop by rounded tablespoons onto ungreased baking sheets.
+    8. Bake for 10-12 minutes, or until golden brown.
+    9. Let cool on baking sheets for a few minutes before transferring to a wire rack to cool completely.",0.011881224269724659,0.3057090239410681,0.11090573012939002,0.19152854511970532,0.7855873703956604,0.7256364822387695,0.546935498714447,0.34808449344041154,0.10996563573883161,0.7456759214401245,0.8300127983093262,0.7855873703956604,"tensor(0.0192, device='mps:0')",7
+Peach Cobbler,"[""1 stick butter, melted"", ""2 large cans peaches"", ""1 c. sugar"", ""1 c. self-rising flour, sifted"", ""1 c. whole milk""][""Melt butter in a 13 x 9-inch pan."", ""Put sliced, drained peaches in butter."", ""Mix together sugar, flour and milk."", ""Pour this batter over peaches."", ""Bake at 425\u00b0 for about 30 minutes."", ""You may add cinnamon or allspice, if desired.""]","Generate a recipe for Peach Cobbler only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        Dish: Peach Cobbler
+        Ingredients: 
+        - 6 cups sliced peaches
+        - 1 cup granulated sugar
+        - 1/4 cup all-purpose flour
+        - 1/4 teaspoon ground cinnamon
+        - 1/4 teaspoon salt
+        - 1/2 cup unsalted butter, melted
+        - 1 1/2 cups all-purpose flour
+        - 1/2 cup granulated sugar
+        - 1 teaspoon baking powder
+        - 1/4 teaspoon salt
+        - 1/2 cup milk
+        
+
+        Directions:
+        1. Preheat oven to 350 degrees F (175 degrees C).
+        2. In a large bowl, combine peaches, 1 cup granulated sugar, 1/4 cup flour, cinnamon, and salt. Toss to coat.
+        3. Pour peach mixture into a 9x13 inch baking dish.
+        4. In a separate bowl, whisk together 1 1/2 cups flour, 1/2 cup sugar, baking powder, and salt.
+        5. Add melted butter and milk to the flour mixture and stir until just combined.
+        6. Drop spoonfuls of batter over the peach mixture.
+        7. Bake in preheated oven for 40-45 minutes, or until the topping is golden brown and the filling is bubbly.
+        8. Let cool slightly before serving.",1.8560349108547627e-155,0.17153996101364521,0.03913894324853229,0.10136452241715399,0.7740095257759094,0.706688404083252,0.5095705389976501,0.2697885831925714,0.07894736842105263,0.737952709197998,0.8137708902359009,0.7740095257759094,"tensor(0.0011, device='mps:0')",5
+Beer Battered Fried Shrimp,"[""1/2 c. all-purpose flour"", ""1/2 c. beer"", ""1 tsp. salt"", ""1 1/2 lb. unpeeled, large fresh shrimp"", ""vegetable oil""][""Combine flour, beer and salt in a small bowl. Peel and devein shrimp. Rinse under cold running water and pat dry with paper towels. Pour oil into a saucepan to a depth of 2-inches. Heat to 375\u00b0. Dip shrimp, 1 at a time, into batter and drop into hot oil. Fry, turning once, 1 minute or until lightly browned. Drain on paper towels.""]","Generate a recipe for Beer Battered Fried Shrimp only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+
+
+        Dish: Beer Battered Fried Shrimp
+        Ingredients:
+        - 1 lb large shrimp, peeled and deveined
+        - 1 cup all-purpose flour
+        - 1/2 cup corn starch
+        - 1 tsp baking powder
+        - 1/2 tsp salt
+        - 1/4 tsp black pepper
+        - 1/2 tsp paprika
+        - 1 cup cold beer
+        - Vegetable oil for frying
+
+        Directions:
+        1. In a large bowl, whisk together flour, cornstarch, baking powder, salt, pepper, and paprika.
+        2. Gradually whisk in the cold beer until a smooth batter forms.
+        3. Heat 1 inch of vegetable oil in a large skillet over medium-high heat.
+        4. Dip each shrimp into the batter, coating it completely.
+        5. Carefully place the battered shrimp into the hot oil.
+        6. Fry for 2-3 minutes per side, or until golden brown and cooked through.
+        7. Remove the cooked shrimp from the oil and place them on a wire rack to drain.
+        8. Serve immediately with your favorite dipping sauce.",2.3804252975739136e-155,0.26871401151631474,0.06551059730250482,0.14971209213051825,0.770129382610321,0.7938566207885742,0.5564144849777222,0.34121824770199616,0.1056338028169014,0.7238317728042603,0.8227543234825134,0.770129382610321,"tensor(-0.0371, device='mps:0')",5
+Zucchini Bread,"[""3 eggs"", ""2 c. sugar"", ""1 c. oil"", ""3 c. flour"", ""1/2 tsp. baking powder"", ""1 tsp. soda"", ""1 tsp. salt"", ""2 tsp. cinnamon"", ""1/2 c. nuts"", ""2 c. zucchini"", ""3 tsp. vanilla""][""Mix together first 3 ingredients and beat well. Sift dry ingredients together and add to the first mixture. Stir in zucchini, nuts and vanilla."", ""Bake in 2 loaf pans at 350\u00b0 for 1 hour. Turn out of pan when taken from oven.""]","Generate a recipe for Zucchini Bread only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+Dish: Zucchini Bread
+Ingredients:
+- 2 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 teaspoon cinnamon
+- 1/2 teaspoon nutmeg
+- 1/4 teaspoon cloves
+- 1 cup granulated sugar
+- 1/2 cup vegetable oil
+- 2 eggs
+- 1 teaspoon vanilla extract
+- 2 cups grated zucchini 
+- 1/2 cup chopped walnuts (optional)
+
+Directions:
+1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x5 inch loaf pan.
+2. In a large bowl, whisk together flour, baking soda, salt, cinnamon, nutmeg, and cloves.
+3. In a separate bowl, whisk together sugar, oil, eggs, and vanilla extract.
+4. Add the dry ingredients to the wet ingredients and stir until just combined.
+5. Fold in the grated zucchini and walnuts (if using).
+6. Pour the batter into the prepared loaf pan.
+7. Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.
+8. Let the bread cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",2.421133734326897e-155,0.26136363636363635,0.08365019011406843,0.14015151515151517,0.7855064272880554,0.7811003923416138,0.59731525182724,0.4429542240638232,0.08450704225352113,0.7392610907554626,0.8379236459732056,0.7855064272880554,"tensor(0.1044, device='mps:0')",10
+Brown Rice Pilaf,"[""2 c. chicken broth"", ""1 c. brown rice (uncooked)"", ""1/2 c. grated raw carrot"", ""1/2 c. finely chopped celery"", ""1/4 c. finely chopped green onions"", ""1 clove garlic, minced"", ""1/2 tsp. salt"", ""1/4 tsp. red pepper"", ""3 Tbsp. slivered almonds, toasted""][""Bring broth to a boil in a heavy saucepan."", ""Stir in rice and rest of ingredients, except almonds."", ""Cover; reduce heat and simmer 25 to 30 minutes or until liquid is absorbed."", ""Stir in almonds."", ""Yields 8 servings.""]","Generate a recipe for Brown Rice Pilaf only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+**Dish: Brown Rice Pilaf**
+
+**Ingredients:**
+
+- 1 cup brown rice rinsed
+- 2 cups chicken broth
+- 1/2 cup chopped onion
+- 1/4 cup chopped celery
+- 1/4 cup chopped carrots
+- 1 tablespoon butter
+- 1/4 teaspoon salt
+- 1/4 teaspoon black pepper
+
+**Directions:**
+
+1. Melt butter in a medium saucepan over medium heat.
+2. Add onion, celery, and carrots and sauté until softened, about 5 minutes.
+3. Stir in rice, salt, and pepper.
+4. Pour in chicken broth and bring to a boil.
+5. Reduce heat to low, cover, and simmer for 45 minutes, or until rice is tender and liquid is absorbed.
+6. Fluff with a fork and serve.",3.0760226603668223e-155,0.2784810126582279,0.14830508474576273,0.17721518987341772,0.7863067388534546,0.6504623889923096,0.5233669281005859,0.37552919041064164,0.08984375,0.7450664639472961,0.832379937171936,0.7863067388534546,"tensor(0.0216, device='mps:0')",5
+Broccoli Ham Ring,"[""2 (8 oz. each) tubes refrigerated crescent roll dough"", ""1 1/2 c. (6 oz.) shredded Swiss cheese"", ""1/4 lb. fully cooked ham, diced (about 1/2 c.)"", ""2 1/4 c. chopped fresh broccoli"", ""1 small onion, chopped"", ""1/4 c. minced fresh parsley"", ""2 Tbsp. Dijon mustard"", ""1 tsp. lemon juice""][""Unroll crescent roll dough and place triangles on a 12-inch pizza pan, forming a ring with pointed ends facing outer edge of pan and wide ends overlapping."", ""Lightly press wide ends together. Combine the remaining ingredients; spoon over wide ends of rolls. Fold points over filling and tuck under wide ends (filling will be visible)."", ""Bake at 375\u00b0 for 20 to 25 minutes or until golden brown."", ""Yields 6 to 8 servings.""]","Generate a recipe for Broccoli Ham Ring only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        
+
+        
+
+
+## Broccoli Ham Ring
+
+**Ingredients:**
+
+- 1 (14.1 ounce) can of condensed cream of mushroom soup
+- 1/2 cup milk
+- 1 cup shredded cheddar cheese
+- 1/2 cup chopped cooked ham
+- 1/2 cup chopped broccoli florets, fresh or frozen
+- 1/4 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1 (10 ounce) package refrigerated biscuits
+
+**Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9 inch ring-shaped baking dish.
+
+2. In a medium bowl, combine the soup, milk, cheese, ham, broccoli, salt, and pepper. Mix well.
+
+3. Separate the biscuits and press them into the bottom and up the sides of the prepared baking dish, creating a ring. 
+
+4. Pour the soup mixture into the center of the biscuit ring.
+
+5. Bake for 25-30 minutes, or until the biscuits are golden brown and the filling is bubbly.
+
+6. Let stand for a few minutes before serving.",2.115344995193954e-155,0.2464285714285714,0.06093189964157707,0.1392857142857143,0.7721744775772095,0.5991271138191223,0.37290462851524353,0.2395240803739444,0.09666666666666666,0.7385345697402954,0.8090251684188843,0.7721744775772095,"tensor(0.0900, device='mps:0')",0
+Easy Peanut Butter Cookies,"[""1 (11 oz.) box pie crust mix"", ""1 c. firmly packed light brown sugar"", ""1/2 c. peanut butter"", ""1 large egg""][""Preheat oven to 375 degrees. Combine all ingredients in bowl of food processor, fitted with steel blade. Process until mixture clings together. (You can use a mixer, if desired.) Shape dough into balls about 1 inch in diameter. Place on an ungreased cookie sheet. Press with a fork in a criss-cross pattern. If the fork sticks to the cookie dough, dip it in sugar and then press. Bake for 8 to 10 minutes. Remove from pan immediately and cool on a rack.""]","Generate a recipe for Easy Peanut Butter Cookies only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+        Dish: Easy Peanut Butter Cookies
+        Ingredients:
+        - 1/2 cup butter, softened
+        - 1/2 cup creamy peanut butter
+        - 1/2 cup granulated sugar
+        - 1/2 cup packed brown sugar
+        - 1 egg
+        - 1 teaspoon vanilla extract
+        - 1 1/4 cups all-purpose flour
+        - 1/2 teaspoon baking soda
+        - 1/4 teaspoon salt
+
+        Directions:
+        1. Preheat oven to 375 degrees F (190 degrees C).
+        2. In a large bowl, cream together the butter and peanut butter until smooth.
+        3. Gradually add the granulated sugar and brown sugar, beating until well combined.
+        4. Beat in the egg and vanilla extract.
+        5. In a separate bowl, whisk together the flour, baking soda, and salt.
+        6. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.
+        7. Roll dough into 1-inch balls.
+        8. Place balls onto ungreased baking sheets.
+        9. Flatten each ball with a fork, creating a criss-cross pattern.
+        10. Bake for 8-10 minutes, or until golden brown.
+        11. Let cool on baking sheets for a few minutes before transferring to a wire rack to cool completely.",8.114541357131111e-79,0.2690265486725663,0.10657193605683837,0.16283185840707967,0.7770215272903442,0.6117007732391357,0.4886621832847595,0.40050124793579683,0.12751677852348994,0.7341262102127075,0.8252405524253845,0.7770215272903442,"tensor(-0.0097, device='mps:0')",3
+Swedish Pancakes,"[""4 eggs, separated"", ""2 c. buttermilk"", ""1 c. flour"", ""1 tsp. salt"", ""2 tsp. sugar"", ""1/4 tsp. soda""][""Beat egg whites and fold in last."", ""Make small pancakes.""]","Generate a recipe for Swedish Pancakes only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+        
+    
+
+
+    
+
+    
+
+## Swedish Pancakes
+
+**Ingredients:**
+- 1 cup all-purpose flour
+- 1 tablespoon granulated sugar
+- 1/2 teaspoon salt
+- 1 1/4 cups milk
+- 2 large eggs
+- 2 tablespoons melted butter, plus more for greasing the pan
+- Powdered sugar, for dusting
+
+**Directions:**
+1. In a large bowl, whisk together the flour, sugar, and salt. 
+2. In a separate bowl, whisk together the milk, eggs, and melted butter.
+3. Add the wet ingredients to the dry ingredients and whisk until smooth. 
+4. Heat a lightly oiled griddle or frying pan over medium heat.
+5. Pour about 1/4 cup of batter onto the hot griddle for each pancake.
+6. Cook for 1-2 minutes per side, or until golden brown and cooked through.
+7. Serve immediately with powdered sugar, fruit, or syrup.",7.003975962268429e-232,0.10068649885583524,0.041379310344827586,0.06864988558352403,0.7730613350868225,0.6228061318397522,0.534552812576294,0.16900389882826541,0.023809523809523808,0.7239301204681396,0.8293470740318298,0.7730613350868225,"tensor(0.0648, device='mps:0')",4
+Cherry Cola Salad,"[""3/4 c. water"", ""1/2 c. sugar"", ""1 can cherry pie filling"", ""1 large can crushed pineapple, undrained"", ""1 Tbsp. lemon juice"", ""1 c. cold cola (Pepsi or Coke) soft drink"", ""1/2 c. chopped nuts""][""Combine water and sugar; bring to a boil."", ""Add pie filling and return to a boil."", ""Pour over the Jell-O to dissolve."", ""Add rest of ingredients."", ""Pour into 13 x 9-inch pan or mold to set.""]","Generate a recipe for Cherry Cola Salad only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+## Cherry Cola Salad 
+**Ingredients:**
+* 1 (14 ounce) can cherry flavored gelatin
+* 1 cup boiling water
+* 1/2 cup cold water
+* 1 (12 ounce) can cherry flavored soda
+* 1/2 cup chopped pecans
+* 1 cup miniature marshmallows
+
+**Directions:**
+1. Dissolve gelatin in boiling water. 
+2. Stir in cold water and cherry soda.
+3. Fold in pecans and marshmallows.
+4. Pour into a 9x13 inch dish.
+5. Refrigerate for at least 4 hours, or until firm.",2.2392664532470262e-155,0.213953488372093,0.06542056074766356,0.1116279069767442,0.7841282486915588,0.5853028893470764,0.35269713401794434,0.253181777917785,0.06097560975609756,0.7393978834152222,0.8346190452575684,0.7841282486915588,"tensor(0.1107, device='mps:0')",3
+Rotel Casserole,"[""1 lb. ground beef"", ""1 can cream of mushroom soup"", ""1 medium chopped onion"", ""1 bag tortilla chips, crushed"", ""1 can Ro-Tel tomatoes"", ""8 oz. grated cheese""][""Brown meat and onion."", ""Chop tomatoes."", ""Mix with soup and meat. In baking dish, arrange layers of chips, meat mixture and grated cheese."", ""Repeat layers, ending with cheese."", ""Bake 15 to 20 minutes at 350\u00b0 or until cheese is melted.""]","Generate a recipe for Rotel Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+    
+    
+    
+    
+    
+
+
+
+Dish: Rotel Casserole
+Ingredients:
+- 1 lb. ground beef
+- 1 (10 oz.) can Rotel, undrained
+- 1 (15 oz.) can diced tomatoes, undrained
+- 1 (10.75 oz.) can condensed cream of mushroom soup
+- 1/2 cup chopped onion
+- 1 cup shredded cheddar cheese
+- 1/4 cup chopped cilantro (optional)
+
+Directions:
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. Brown ground beef in a large skillet over medium heat. Drain off any excess fat.
+3. Stir in Rotel, diced tomatoes, cream of mushroom soup, and chopped onion.
+4. Pour mixture into a greased 9x13 inch baking dish.
+5. Sprinkle shredded cheese evenly over the top.
+6. Bake in preheated oven for 20-25 minutes, or until cheese is melted and bubbly.
+7. Garnish with chopped cilantro, if desired.",0.015407012857805326,0.21802935010482177,0.08,0.13417190775681342,0.7758849263191223,0.5578044652938843,0.4712652564048767,0.3542088829268254,0.08015267175572519,0.7362911105155945,0.8199788928031921,0.7758849263191223,"tensor(-0.0882, device='mps:0')",3
+Mediterranean Chicken And Penne,"[""Nonstick cooking spray"", ""2 tsp. olive oil"", ""1/2 onion (peeled and finely diced)"", ""2 cloves garlic (minced)"", ""1 lb. boneless skinless chicken breast"", ""8 oz. penne pasta"", ""8 pitted black olives (sliced)"", ""1/4 c. chopped fresh basil"", ""1 tsp. oregano"", ""1/4 c. grated Parmesan cheese""][""Liberally spray large nonstick skillet with cooking spray. Add oil and heat over medium heat."", ""Add garlic and onions."", ""Heat until soft (approximately 3-4 minutes)."", ""Fill large saucepan with 2 inches of water."", ""Place chicken breast in steaming basket or stainless steal saucepan with lid."", ""Bring water to boil and steam chicken for 7 minutes."", ""Remove from heat and let set in steam until fully cooked."", ""Remove chicken from basket and let cool. When cool, cut into 1 inch chunks."", ""Meanwhile, cook penne according to packaging."", ""Drain and keep warm."", ""Add chicken chunks, olives, basil, and oregano to skillet with onions."", ""Turn to medium heat for 5 minutes."", ""In large bowl, toss chicken with hot penne pasta."", ""Sprinkle top with cheese and serve.""]","Generate a recipe for Mediterranean Chicken And Penne only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving. 
+
+
+
+        Dish: Mediterranean Chicken And Penne 
+        Ingredients:
+        - 1 lb boneless, skinless chicken breasts
+        - 1 (16 oz) package penne pasta
+        - 1 (14.5 oz) can diced tomatoes, undrained
+        - 1 (15 oz) can chickpeas, rinsed and drained
+        - 1/2 cup sun-dried tomatoes, chopped
+        - 1/4 cup chopped fresh basil
+        - 2 cloves garlic, minced
+        - 1/4 cup olive oil
+        - 1 tablespoon lemon juice
+        - 1/2 teaspoon dried oregano
+        - Salt and pepper to taste
+        
+        Directions:
+        1. Cook the penne pasta according to package directions.
+        2. While the pasta is cooking, heat the olive oil in a large skillet over medium heat.
+        3. Add the chicken breasts to the skillet and cook until browned on both sides and cooked through, about 5-7 minutes per side.
+        4. Once the chicken is cooked, remove it from the skillet and slice it into thin strips.
+        5. Add the garlic to the skillet and cook for 1 minute, until fragrant.
+        6. Stir in the diced tomatoes, chickpeas, sun-dried tomatoes, basil, lemon juice, oregano, salt, and pepper.
+        7. Bring the sauce to a simmer and cook for 5-7 minutes, or until slightly thickened.
+        8. Add the cooked pasta and sliced chicken to the skillet and toss to combine.
+        9. Serve immediately.",2.987602756836566e-155,0.35562310030395133,0.10670731707317072,0.1580547112462006,0.7802051901817322,0.7032749652862549,0.554070234298706,0.4068315521305397,0.11011904761904762,0.7498377561569214,0.813136100769043,0.7802051901817322,"tensor(-0.0527, device='mps:0')",5
+Italian Zucchini Casserole,"[""3-4 medium zucchini, cut 1/4 inch thick"", ""3-4 onions, sliced"", ""3-4 tomatoes, sliced"", ""1 lb. mozzarella cheese, sliced"", ""Italian seasoning"", ""salt and pepper"", ""Ritz crackers""][""Spray 9 x 13 inch pan."", ""Place layers of tomato, onion, zucchini and cheese."", ""Sprinkle with salt and pepper and liberally with Italian seasoning."", ""Sprinkle about 1/2 cup crushed Ritz over all."", ""Make second layer same as first, beginning with tomato and ending with cheese, top with more seasoning and crushed Ritz. Cover with foil and bake 30 minutes at 350\u00b0."", ""Remove foil and bake another 30 minutes.""]","Generate a recipe for Italian Zucchini Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        Please provide your response in the following format:
+
+        Dish: Italian Zucchini Casserole
+
+        Ingredients:
+
+        Directions:",9.821332131024636e-232,0.22842639593908634,0.015306122448979591,0.08629441624365483,0.7646201848983765,0.6684725880622864,0.4828649163246155,0.19034439580319562,0.07142857142857142,0.73256915807724,0.7996041774749756,0.7646201848983765,"tensor(0.0375, device='mps:0')",1
+Easy Lasagne,"[""1 can Hunt's spaghetti sauce with Parmesan cheese"", ""1 regular pkg. lasagne noodles"", ""1 lb. hamburger (ground)"", ""1 container Ricotta cheese"", ""1 egg"", ""2 c. shredded Mozzarella cheese"", ""1 c. shredded Cheddar cheese""][""Cook hamburger; drain and add spaghetti sauce."", ""Cook lasagne noodles for 10 minutes in boiling water; drain.""]","Generate a recipe for Easy Lasagne only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+        Dish: Easy Lasagne
+        Ingredients:
+        - 1 (24 oz.) jar of your favorite pasta sauce
+        - 1 (15 oz.) container ricotta cheese
+        - 1 (10 oz.) package frozen chopped spinach, thawed and squeezed dry
+        - 1 (15 oz.) container mozzarella cheese, shredded
+        - 9 lasagna noodles
+
+
+        Directions:
+        1. Preheat oven to 375 degrees F (190 degrees C).
+        2. Spread a thin layer of pasta sauce in the bottom of a 9x13 inch baking dish.
+        3. Top with 3 lasagna noodles.
+        4. Spread half of the ricotta cheese mixture over the noodles.
+        5. Top with half of the mozzarella cheese.
+        6. Repeat layers 3-5.
+        7. Spread the remaining pasta sauce over the top layer of cheese.
+        8. Bake in preheated oven for 30 minutes, or until bubbly and heated through.
+        9. Let stand for 10 minutes before cutting and serving.",3.142259243819554e-79,0.15483870967741933,0.03887688984881209,0.08602150537634408,0.7643362283706665,0.6170788407325745,0.5628228187561035,0.2085261287777783,0.05533596837944664,0.7236843705177307,0.8098270297050476,0.7643362283706665,"tensor(0.0039, device='mps:0')",0
+Peanut Butter Fudge,"[""2 1/2 c. sugar"", ""1/2 c. milk"", ""1 stick oleo"", ""2 or 3 Tbsp. peanut butter""][""Mix sugar, milk and oleo; cook to soft ball stage."", ""Add peanut butter and beat."", ""Pour onto greased plate.""]","Generate a recipe for Peanut Butter Fudge only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+        
+
+        
+
+## Peanut Butter Fudge
+
+**Ingredients:**
+- 2 cups granulated sugar
+- 1/2 cup unsalted butter
+- 1/2 cup milk
+- 1/2 cup peanut butter
+- 1 teaspoon vanilla extract
+- Pinch of salt
+
+**Directions:**
+1. Line an 8x8 inch baking dish with parchment paper, leaving some overhang on the sides for easy removal.
+2. In a heavy saucepan, combine sugar, butter, and milk.
+3. Stir over medium heat until the butter is melted and the sugar is dissolved.
+4. Bring the mixture to a boil, stirring constantly.
+5. Boil for 5 minutes, without stirring, until the mixture reaches 234°F (soft-ball stage) on a candy thermometer.
+6. Remove from heat and immediately stir in peanut butter, vanilla extract, and salt.
+7. Pour the mixture into the prepared baking dish and spread evenly.
+8. Let cool completely at room temperature, then refrigerate for at least 2 hours before cutting into squares.",1.6825427126991223e-155,0.12903225806451613,0.05183585313174947,0.1075268817204301,0.7809150815010071,0.5962529182434082,0.4741359353065491,0.2712439053923043,0.04669260700389105,0.7281574010848999,0.8419148325920105,0.7809150815010071,"tensor(-0.0331, device='mps:0')",3
+German Potato Salad,"[""6 medium sized potatoes"", ""8 slices bacon (strips)"", ""3/4 c. chopped onion"", ""2 Tbsp. flour"", ""2 Tbsp. sugar"", ""1 1/2 tsp. salt"", ""1/2 tsp. celery seed"", ""dash of pepper"", ""3/4 c. water"", ""1/3 c. vinegar (I use white but other may be used)""][""Boil potatoes with the skins on."", ""Peel and slice thinly."", ""Fry slowly in large skillet the bacon."", ""Drain on paper towel."", ""Saute in the bacon fat until golden the onion."", ""Blend in flour, sugar, salt, celery seed and dash of pepper."", ""Cook over low heat, stirring until smooth and bubbly."", ""Remove from heat."", ""Stir in water and vinegar. Bring to a boil, stirring constantly."", ""Boil 1 minute."", ""Stir in carefully the potatoes and crumbled bits of bacon."", ""Remove from heat."", ""Cover and let stand until ready to serve."", ""Makes 6 to 8 servings.""]","Generate a recipe for German Potato Salad only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+    Dish: German Potato Salad
+    Ingredients:
+    - 2 lbs. potatoes, peeled and cubed
+    - 1/2 cup diced onion
+    - 1/2 cup chopped bacon
+    - 1/2 cup white vinegar
+    - 1/4 cup sugar
+    - 1/4 cup vegetable oil
+    - 1 tsp. mustard
+    - 1/2 tsp. smoked paprika
+    - Salt and pepper to taste
+    - Fresh parsley, chopped (for garnish)
+
+    Directions:
+    1. Cook potatoes in boiling salted water until tender, about 15-20 minutes. Drain and set aside.
+    2. While potatoes are cooking, cook bacon in a large skillet over medium heat until crisp. Remove bacon with a slotted spoon and set aside. Leave bacon grease in the skillet.
+    3. Add onion to the bacon grease and cook until softened, about 5 minutes.
+    4. In a bowl, whisk together vinegar, sugar, oil, mustard, paprika, salt, and pepper.
+    5. Add cooked potatoes and onions to the dressing and toss to coat.
+    6. Stir in cooked bacon.
+    7. Garnish with fresh parsley and serve warm or at room temperature.",2.987743088522461e-155,0.3505154639175258,0.07586206896551725,0.140893470790378,0.7825706005096436,0.5946895480155945,0.3987223207950592,0.50575840024571,0.09119496855345911,0.7495337724685669,0.81865394115448,0.7825706005096436,"tensor(-0.0071, device='mps:0')",8
+Sausage Pinwheels,"[""2 1/2 c. self-rising flour"", ""1/2 c. shortening or butter"", ""1 1/3 c. buttermilk"", ""1 lb. pork sausage""][""Crumble and brown sausage; drain fat."", ""Cut butter or shortening into flour until coarse crumbs form."", ""Add buttermilk and stir until dough clings together."", ""Knead 10 to 12 strokes on lightly floured surface."", ""Roll out to a 16 x 12-inch rectangle. Sprinkle sausage over dough."", ""Roll up jelly roll style, starting with the long side."", ""Slice into 1-inch slices."", ""Place cut side down on ungreased baking sheet."", ""Bake at 350\u00b0 for 10 to 15 minutes.""]","Generate a recipe for Sausage Pinwheels only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+## Sausage Pinwheels
+
+
+**Ingredients:**
+- 1 package (14 ounces) crescent roll dough
+- 1 pound Italian sausage
+- 1/2 cup shredded mozzarella cheese
+- 1/4 cup chopped red onion
+- 1/4 cup pizza sauce
+
+**Directions:**
+1. Preheat oven to 375 degrees F (190 degrees C).
+2. Brown sausage in a skillet over medium heat. Drain off excess grease.
+3. Unroll crescent dough on a lightly floured surface.
+4. Spread pizza sauce evenly over the dough.
+5. Sprinkle sausage, mozzarella cheese, and red onion over the sauce.
+6. Starting at one short end, tightly roll up the dough into a log.
+7. Pinch the seam to seal.
+8. Cut the log into 1-inch slices.
+9. Place slices on a baking sheet lined with parchment paper.
+10. Bake for 12-15 minutes, or until golden brown.",2.831541043299957e-155,0.2578125,0.07058823529411765,0.1640625,0.7698071599006653,0.596218466758728,0.48270317912101746,0.33865055333166233,0.09395973154362416,0.7373123168945312,0.8052983283996582,0.7698071599006653,"tensor(0.0469, device='mps:0')",1
+Meat Loaf,"[""1 lb. ground beef"", ""2 slices light bread, crumbled"", ""1 small onion"", ""1 small green pepper"", ""3/4 c. tomato ketchup"", ""1 egg"", ""1/4 tsp. salt"", ""1/4 tsp. black pepper""][""Mix together ground beef, crumbled bread slices, chopped onion, pepper, egg, salt and black pepper."", ""Add 1/2 cup ketchup and mix."", ""Place mix in loaf pan and spread remaining 1/4 cup ketchup over the top."", ""Bake at 375\u00b0 for 1 hour or until done.""]","Generate a recipe for Meat Loaf only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+**Meat Loaf**
+
+**Ingredients:**
+
+- 1.5 lbs ground beef
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 1 cup breadcrumbs
+- 1/2 cup milk
+- 1 egg
+- 1/4 cup ketchup
+- 1 teaspoon Worcestershire sauce
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1/2 cup tomato sauce
+- 1/4 cup water
+
+**Directions:**
+
+1. Preheat oven to 350°F (175°C).
+2. In a large bowl, combine ground beef, onion, garlic, breadcrumbs, milk, egg, ketchup, Worcestershire sauce, salt, and pepper. Mix well.
+3. Pour the meat mixture into a greased loaf pan.
+4. In a small bowl, combine tomato sauce and water. Pour over the meatloaf.
+5. Bake for 1 hour, or until the internal temperature reaches 160°F (71°C).
+6. Let stand for 10 minutes before slicing and serving.",5.18574151935526e-79,0.25819672131147536,0.10699588477366255,0.16393442622950818,0.7769659161567688,0.655515193939209,0.4884871244430542,0.3767187349584687,0.09885931558935361,0.7382513284683228,0.8199656009674072,0.7769659161567688,"tensor(0.1304, device='mps:0')",5
+Shepherd'S Pie,"[""2 lb. ground beef"", ""1 pkg. onion soup mix"", ""2 cans Niblets corn"", ""mashed potatoes (or instant mashed)"", ""salt and pepper""][""Grease casserole, in skillet melt a little margarine."", ""Add beef and stir until meat is lightly browned, season meat and sprinkle with about 2 tablespoons flour."", ""Mix well."", ""Add onion soup mix and slowly add about 1 cup of water and cook until slightly thickened. Turn into greased casserole and spread with drained corn. Prepare mashed potatoes to make a 2-inch topping."", ""Drizzle a little melted margarine over top and sprinkle a little paprika. Bake at 400\u00b0 for about 30 minutes."", ""Serves about 4 to 6 people.""]","Generate a recipe for Shepherd'S Pie only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+        Dish: Shepherd's Pie
+
+        Ingredients:
+        - 1 lb. ground lamb
+        - 1 large onion, chopped
+        - 2 carrots, chopped
+        - 2 celery stalks, chopped
+        - 1 tbsp. tomato paste
+        - 1 tbsp. Worcestershire sauce
+        - 1 cup beef broth
+        - 1 tsp. dried thyme
+        - 1/2 tsp. salt
+        - 1/4 tsp. black pepper
+        - 4 large potatoes, peeled and quartered
+        - 1/4 cup butter
+        - 1/2 cup milk
+
+        Directions:
+        1. Preheat oven to 375 degrees F (190 degrees C).
+        2. In a large skillet, brown ground lamb over medium heat. Drain off any excess fat.
+        3. Add onion, carrots, celery, tomato paste, Worcestershire sauce, beef broth, thyme, salt, and pepper to the skillet. Bring to a boil, then reduce heat and simmer for 30 minutes.
+        4. Meanwhile, boil potatoes until tender. Drain and mash with butter and milk. Season with salt and pepper to taste.
+        5. Transfer the lamb mixture to a 9x13 inch baking dish. Top with the mashed potatoes.
+        6. Bake in the preheated oven for 20 minutes, or until the potatoes are lightly browned.",2.733499007810842e-155,0.2719141323792486,0.04308797127468582,0.11806797853309482,0.7688277363777161,0.5170164704322815,0.3943610191345215,0.3639829259194553,0.11036789297658862,0.7346599698066711,0.8063285946846008,0.7688277363777161,"tensor(0.0559, device='mps:0')",2
+Pumpkin Date Bread,"[""4 beaten eggs"", ""3 c. sugar"", ""1 (16 oz.) can pumpkin"", ""1 c. oil"", ""1/3 c. water"", ""1/2 tsp. vanilla"", ""3 1/2 c. all-purpose flour"", ""1 1/2 tsp. ground cinnamon"", ""1 tsp. salt"", ""1 tsp. baking soda"", ""8 oz. dates or raisins"", ""1 1/2 c. pecans""][""Combine eggs and sugar in a large mixing bowl.\tStir in pumpkin, oil, water and vanilla until blended."", ""Stir together flour, cinnamon, salt and baking soda."", ""Add pumpkin mixture, stirring until just combined."", ""Fold in dates and nuts."", ""Pour mixture into 4 greased 7 x 3 x 2-inch pans or 2 (9 x 5 x 3-inch) pans."", ""Bake in a 350\u00b0 oven about 55 minutes for small loaves, 65 minutes for large loaves.""]","Generate a recipe for Pumpkin Date Bread only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+ **Dish: Pumpkin Date Bread**
+
+**Ingredients:**
+
+- 1 1/2 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground nutmeg
+- 1/4 teaspoon ground cloves
+- 1/2 cup unsalted butter, softened
+- 3/4 cup granulated sugar
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1 cup pumpkin puree
+- 1 cup chopped dates
+
+ **Directions:**
+
+1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x5 inch loaf pan.
+2. In a medium bowl, whisk together the flour, baking soda, salt, cinnamon, nutmeg, and cloves.
+3. In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla.
+4. In a separate bowl, combine the pumpkin puree and chopped dates.
+5. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Stir in the pumpkin and date mixture.
+6. Pour the batter into the prepared loaf pan and bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.
+7. Let the bread cool in the pan for 10 minutes before inverting it onto a wire rack to cool completely.",3.0424787831203554e-155,0.35294117647058826,0.10819672131147541,0.16666666666666666,0.7852445244789124,0.8001935482025146,0.5763097405433655,0.38270256535494523,0.1178343949044586,0.7472668886184692,0.8272891640663147,0.7852445244789124,"tensor(0.0566, device='mps:0')",11
+Twice Baked Potato Casserole,"[""5 lb. potatoes"", ""1 (8 oz.) cream cheese, softened"", ""1 (8 oz.) sour cream"", ""1 (8 oz.) whipping cream"", ""1 stick butter"", ""salt and pepper to taste"", ""1 bunch green onions, chopped"", ""Cheddar cheese"", ""bacon bits""][""Cook potatoes in water until soft; drain. Add cream cheese, sour cream, butter, salt, pepper and onions; beat. Put into a 9 x 12 casserole dish.""]","Generate a recipe for Twice Baked Potato Casserole only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+ 
+
+        Dish: Twice Baked Potato Casserole
+        Ingredients:
+        - 6 medium baking potatoes
+        - 1/2 cup butter, melted
+        - 1/2 cup sour cream
+        - 1 cup shredded cheddar cheese
+        - 1/4 cup chopped green onions
+        - 1/4 teaspoon salt
+        - 1/4 teaspoon black pepper
+
+        Directions:
+        1. Preheat oven to 400 degrees F (200 degrees C).
+        2. Wash and prick baking potatoes with a fork.
+        3. Place potatoes in a preheated oven and bake for 1 hour, or until tender.
+        4. While potatoes are baking, melt butter in a large bowl.
+        5. Once potatoes are cooked, remove from oven and let cool slightly.
+        6. Cut potatoes in half lengthwise and scoop out the flesh into a large bowl.
+        7. Add melted butter, sour cream, cheese, green onions, salt, and pepper to the potato flesh.
+        8. Mash until smooth and creamy.
+        9. Spoon potato mixture back into potato skins.
+        10. Place filled potato skins in a greased baking dish.
+        11. Bake for 15 minutes, or until heated through and cheese is melted and bubbly.",4.6853313733623885e-79,0.17578125,0.05882352941176471,0.11328124999999999,0.7705700397491455,0.7111194133758545,0.46621909737586975,0.34432287801838024,0.06934306569343066,0.7328917980194092,0.8123323917388916,0.7705700397491455,"tensor(-0.0449, device='mps:0')",6
+Stuffed French Toast,"[""8 slices bread, cubed"", ""2 (8 oz.) pkg. cream cheese, cubed"", ""10 to 12 eggs"", ""2 c. milk"", ""1/2 c. maple syrup""][""Mix together and cover dish with plastic overnight."", ""Bake the next morning at 375\u00b0 for 45 minutes.""]","Generate a recipe for Stuffed French Toast only providing a list of ingredients, and step-by-step directions. 
+        Here are examples below. Do not add them to the output:
+        Example 1:
+        Dish: No-Bake Nut Cookies
+        Ingredients:
+        - 1 c. firmly packed brown sugar
+        - 1/2 c. evaporated milk
+        - 1/2 tsp. vanilla
+        - 1/2 c. broken nuts (pecans)
+        - 2 Tbsp. butter or margarine
+        - 3 1/2 c. bite-size shredded rice biscuits
+
+        Directions:
+        1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk, and butter or margarine.
+        2. Stir over medium heat until the mixture bubbles all over the top.
+        3. Boil and stir for 5 minutes more. Remove from heat.
+        4. Stir in vanilla and cereal; mix well.
+        5. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+        6. Let stand until firm, about 30 minutes.
+
+        Example 2:
+        Dish: Jewell Ball's Chicken
+        Ingredients:
+        - 1 small jar chipped beef, cut up
+        - 4 boned chicken breasts
+        - 1 can cream of mushroom soup
+        - 1 carton sour cream
+
+        Directions:
+        1. Place chipped beef on the bottom of a baking dish.
+        2. Place chicken on top of the beef.
+        3. Mix the soup and cream together; pour over the chicken.
+        4. Bake, uncovered, at 275°F for 3 hours.
+
+        Example 3:
+        Dish: Creamy Corn
+        Ingredients:
+        - 2 (16 oz.) pkg. frozen corn
+        - 1 (8 oz.) pkg. cream cheese, cubed
+        - 1/3 c. butter, cubed
+        - 1/2 tsp. garlic powder
+        - 1/2 tsp. salt
+        - 1/4 tsp. pepper
+
+        Directions:
+        1. In a slow cooker, combine all ingredients.
+        2. Cover and cook on low for 4 hours or until heated through and the cheese is melted.
+        3. Stir well before serving.
+
+        
+
+
+
+
+
+        Dish: Stuffed French Toast
+        Ingredients:
+        - 6 slices of bread
+        - 4 eggs
+        - 1/2 cup milk
+        - 1/4 teaspoon cinnamon
+        - 1/4 teaspoon nutmeg
+        - 1/4 cup butter
+        - 1/2 cup ricotta cheese
+        - 1/4 cup chopped pecans
+        - 1/4 cup maple syrup
+        - Pinch of salt
+
+
+
+        Directions:
+        1. Whisk together eggs, milk, cinnamon, nutmeg, and salt in a shallow dish.
+        2. Melt 2 tablespoons of butter in a large skillet over medium heat.
+        3. Dip each slice of bread into the egg mixture, allowing it to soak for a few seconds.
+        4. Place the soaked bread in the skillet and cook until golden brown on both sides.
+        5. While the bread is cooking, combine ricotta cheese, pecans, and maple syrup in a small bowl.
+        6. Once the French toast is cooked, spread the ricotta mixture evenly over half of each slice.
+        7. Top with the remaining slices of French toast to create sandwiches.
+        8. Melt the remaining 2 tablespoons of butter in the skillet and cook the sandwiches until golden brown and heated through. 
+        9. Serve immediately.",0.009633821071859488,0.1285140562248996,0.04032258064516129,0.07630522088353414,0.7683826684951782,0.5750889778137207,0.5069089531898499,0.28103588515533046,0.057692307692307696,0.7272136807441711,0.8144927620887756,0.7683826684951782,"tensor(-0.0455, device='mps:0')",5

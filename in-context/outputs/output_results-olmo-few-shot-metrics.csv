@@ -1,0 +1,1678 @@
+title,reference_text,generated_text,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,SBERT,USE,TF-IDF Cosine,Jaccard,bert-precision,bert-recall,bert-f1,similiarity,ingredient_match_count
+Carrot Casserole,"[""2 c. grated raw carrots"", ""2 eggs, beaten"", ""1 c. grated cheese"", ""1 c. cracker crumbs"", ""1 small, diced onion"", ""1 can mushroom soup"", ""1/2 can water""][""Mix together well."", ""Bake in buttered casserole dish at 350\u00b0 for 45 to 55 minutes.""]","Create a recipe for the dish Carrot Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Carrot Casserole
+---
+
+**Carrot Casserole Recipe**
+
+**Ingredients:**
+
+* 1 1/2 cups finely shredded cooked carrot
+* 1/2 cup sugar
+* 1/2 cup mayonnaise or salad dressing
+* 1/2 teaspoon ground cinnamon
+* 1/4 teaspoon ground allspice
+* 1/4 teaspoon ground ginger
+* 1/4 teaspoon salt
+* 1/4 cup chopped pecans or walnuts
+* 1 (9 inch) pie dough, rolled out to fit a 9 inch pie plate
+* 2 tablespoons melted butter
+
+**Directions:**
+
+1. Preheat oven to 400°F (200°C).
+2. In a large bowl, mix together shredded carrot, sugar, mayonnaise or salad dressing, cinnamon, allspice, and ginger.
+3. Stir in the ground nuts.
+4. Roll out the pie dough to fit the pie plate.
+5. Place the pie dough in the pie plate, and crimp the edges.
+6. Pour the carrot mixture into the pie plate.
+7. Brush the melted butter over the pie crust.
+8. Bake the carrot casserole for 25-30 minutes, or until the filling is set and the crust is golden brown.
+9. Serve the carrot casserole hot or at room temperature.
+
+Enjoy your Carrot Casserole!
+
+**Calories:**
+
+According to an online calorie calculator, 1 serving (1/8 of the recipe) of this Carrot Casserole recipe contains about 126 calories. Please note that the actual calories may vary depending on the specific ingredients and brands used.",8.249531289422183e-232,0.12371134020618556,0.02072538860103627,0.09278350515463919,0.8177205324172974,0.7169517874717712,0.5819767713546753,0.08020688444953514,0.05172413793103448,0.7866370677947998,0.8513615727424622,0.8177205324172974,"tensor(-0.0499, device='mps:0')",0
+Melt In Your Mouth Chicken Casserole,"[""2 1/2 to 3 lb. chicken, cooked and deboned (save broth)"", ""1 can cream of chicken or mushroom soup"", ""1 stick margarine, melted"", ""1 c. self-rising flour"", ""1 c. buttermilk"", ""salt and pepper to taste""][""Preheat oven to 425\u00b0."", ""In oblong baking dish, place the deboned chicken pieces on bottom."", ""Mix can of soup with 2 1/2 cups of the reserved broth."", ""Pour over chicken."", ""Sprinkle salt and pepper over chicken."", ""In bowl, mix melted margarine, flour and milk."", ""Pour over chicken."", ""Bake for 30 minutes or until golden brown.""]","Create a recipe for the dish Melt In Your Mouth Chicken Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Melt In Your Mouth Chicken Casserole
+
+\[Ingredients\]
+- 4 boneless, skinless chicken breasts (about 12 ounces each)
+- Salt and pepper, to taste
+- 1/2 cup Parmesan cheese, shredded
+- 1/2 cup mozzarella cheese, shredded
+- 1/4 cup chopped fresh parsley
+- 1/4 cup chopped fresh chives
+- 1/4 cup chopped fresh rosemary
+- 1/4 cup chopped fresh thyme
+- 1/4 cup extra-virgin olive oil
+- 2 tablespoons lemon juice (freshly squeezed)
+- 2 tablespoons honey
+
+\[Instructions\]
+
+1. Preheat the oven to 400°F (200°C). Lightly grease a 9 x 13-inch baking dish with cooking spray or butter.
+2. In a large bowl, whisk together the salt, pepper, Parmesan cheese, mozzarella cheese, parsley, chives, rosemary, and thyme until well combined.
+3. Add the olive oil, lemon juice, and honey to the bowl and mix until well combined and the chicken is evenly coated.
+4. Place the chicken breasts in the greased baking dish and bake for 20-25 minutes, or until the internal temperature of the chicken reaches 165°F (74°C).
+5. Allow the chicken to rest for 5 minutes before serving. Enjoy!
+
+**Note:** This recipe can easily be adjusted to serve more or fewer people by adjusting the amount of chicken and ingredients accordingly.
+
+**Tips:**
+
+* For extra flavor, consider marinating the chicken for 30 minutes in the refrigerator before baking.
+* To make this dish even more irresistible, top with crumbled bacon or chopped fresh tomatoes before serving.
+* For a gluten-free option, use certified gluten-free Parmesan cheese and make sure all other ingredients are certified gluten-free.",5.416527731616334e-79,0.2732919254658385,0.07484407484407485,0.13250517598343683,0.8311936259269714,0.7035325765609741,0.5681777000427246,0.42868408691634324,0.07720588235294118,0.8040634989738464,0.8602184057235718,0.8311936259269714,"tensor(-0.0099, device='mps:0')",3
+Autumn Apple Salad,"[""1 (20 oz.) can crushed pineapple (undrained)"", ""2/3 c. sugar"", ""1 (3 oz.) pkg. lemon flavored gelatin"", ""1 (8 oz.) pkg. cream cheese, softened"", ""1 c. diced, unpeeled apples"", ""1/2 to 1 c. chopped nuts"", ""1 c. chopped celery"", ""1 c. whipped topping"", ""lettuce leaves""][""In a saucepan, combine pineapple and sugar; bring to a boil and boil for 3 minutes."", ""Add gelatin; stir until dissolved."", ""Add cream cheese; stir until mixture is thoroughly combined."", ""Cool. Fold in apples, nuts, celery and whipped topping."", ""Pour into a 9-inch square baking pan."", ""Chill until firm."", ""Cut into squares and serve on lettuce leaves."", ""Makes 9 to 12 servings.""]","Create a recipe for the dish Autumn Apple Salad. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+| Title: Autumn Apple Salad
+| Ingredients: [""1/2 cup granulated sugar"", ""1/2 cup packed brown sugar"", ""2 tablespoons all-purpose flour"", ""1/2 teaspoon ground cinnamon"", ""1/2 teaspoon ground nutmeg"", ""1/4 teaspoon ground allspice"", ""1/2 cup freshly squeezed apple juice"", ""6 cups thinly sliced Granny Smith apples"", ""1/2 cup crumbled blue cheese"", ""1/2 cup chopped pecan halves"", ""1/4 cup sugar"", ""2 tablespoons all-purpose flour"", ""1/2 teaspoon ground cinnamon"", ""1/4 teaspoon ground allspice"", ""1/4 cup sliced almonds"", ""1/4 cup granulated sugar"", ""2 tablespoons all-purpose flour"", ""1/4 teaspoon ground cinnamon""]
+| Directions: [""Preheat oven to 375 degrees F (190 degrees C). "", ""In a large bowl, combine 1/2 cup granulated sugar, 1/2 cup packed brown sugar, 2 tablespoons all-purpose flour, 1/2 teaspoon ground cinnamon, 1/2 teaspoon ground nutmeg, and 1/4 teaspoon ground allspice."", ""Add 1/2 cup freshly squeezed apple juice, 6 cups thinly sliced Granny Smith apples, 1/2 cup crumbled blue cheese, 1/2 cup chopped pecan halves, 1/4 cup sugar, 2 tablespoons all-purpose flour, 1/2 teaspoon ground cinnamon, 1/4 teaspoon ground allspice, 1/4 cup sliced almonds, 1/4 cup granulated sugar, 2 tablespoons all-purpose flour, and 1/4 teaspoon ground cinnamon."", ""Bake for 15-20 minutes, or until lightly browned."", ""In a large bowl, combine the sugar, flour, and ground cinnamon."", ""Add the sliced almonds and granulated sugar."", ""Stir in the all-purpose flour."", ""In a small bowl, combine the granulated sugar and ground cinnamon."", ""Stir in the chopped pecans."",""]
+
+To create the recipe:
+
+- 1/2 cup granulated sugar, 1/2 cup packed brown sugar
+- 2 tablespoons all-purpose flour, 1/2 teaspoon ground cinnamon, 1/2 teaspoon ground nutmeg
+- 1/2 cup freshly squeezed apple juice
+- 6 cups thinly sliced Granny Smith apples
+- 1/2 cup crumbled blue cheese
+- 1/2 cup chopped pecan halves
+-",2.1479547245762226e-155,0.2082585278276481,0.028828828828828833,0.11131059245960505,0.8325168490409851,0.6205331683158875,0.6136950254440308,0.16500280710384804,0.09829059829059829,0.8069581389427185,0.8597475290298462,0.8325168490409851,"tensor(0.0520, device='mps:0')",2
+Macaroni And Cheese,"[""1 (8 oz.) box elbow macaroni"", ""3 c. grated cheese"", ""4 eggs"", ""1 stick butter"", ""1 can canned milk""][""Cook macaroni until done; drain. Grate cheese. Break eggs in blender; add milk. Whip good; pour over macaroni. Add 1/2 cheese. Add butter. Pour into baking dish. Cover with remaining cheese. Cover with tinfoil and bake until firm and cheese is melted.""]","Create a recipe for the dish Macaroni And Cheese. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+##
+
+Recipe: Macaroni and Cheese
+
+**Ingredients:**
+- 1/2 cup butter, melted
+- 1/2 cup flour
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 1/2 teaspoon dried basil
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon dried thyme
+- 1/4 cup milk
+- 1/2 cup shredded cheddar cheese
+- 1/2 cup grated Parmesan cheese
+- 16 ounces elbow macaroni
+
+**Directions:**
+1. Preheat oven to 400°F (200°C) and grease a 9x13 inch baking dish.
+2. In a large pot, melt the butter over medium heat.
+3. Add the flour, garlic powder, onion powder, and dried herbs, and cook, stirring constantly, for 1 minute.
+4. Gradually whisk in the milk, and continue cooking, stirring often, until the mixture has thickened and comes to a boil.
+5. Reduce the heat to low, and add the shredded cheddar cheese and grated Parmesan cheese, stirring until the cheese has melted and the sauce is smooth.
+6. Add the macaroni to the boiling sauce, and stir until well coated.
+7. Transfer the macaroni to the prepared baking dish, and sprinkle the top with additional grated Parmesan cheese and freshly chopped parsley, if desired.
+8. Bake for 15-20 minutes, or until the top is golden brown and the macaroni is heated through.
+9. Serve immediately, and enjoy!
+
+Macaroni and Cheese Recipe
+
+Ingredients:
+- 1/2 cup butter, melted
+- 1/2 cup flour
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 1/2 teaspoon dried basil
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon dried thyme
+- 1/4 cup milk
+- 1/2 cup shredded cheddar cheese
+- 1/2 cup grated Parmesan cheese
+- 16 ounces elbow macaroni
+
+Instructions:
+1. Preheat oven to 400°F (200°C) and grease a 9x13 inch baking dish.
+2. In a large pot, melt the butter over medium heat.
+3. Add the flour, garlic powder, onion powder, and dried herbs, and",1.5661316042105208e-155,0.16799999999999995,0.02008032128514056,0.104,0.8252720832824707,0.7340313196182251,0.6283249855041504,0.32609818624584824,0.0815450643776824,0.7938745617866516,0.8592553734779358,0.8252720832824707,"tensor(-0.0747, device='mps:0')",3
+Peanut Butter Blossoms,"[""1/2 c. shortening"", ""1/2 c. peanut butter"", ""1/2 c. sugar"", ""1/2 c. brown sugar, firmly packed"", ""1 egg"", ""2 Tbsp. milk"", ""1 tsp. vanilla extract"", ""1 3/4 c. flour"", ""1/4 c. sugar"", ""48 chocolate kisses""][""Cream"", ""shortening and peanut butter."", ""Gradually add 1/2 cup sugar"", ""and\tbrown"", ""sugar, beating until light and fluffy. Add egg,"", ""milk\tand"", ""vanilla;"", ""beat"", ""well."", ""Combine flour and creamed mixture."", ""Roll dough into 1-inch balls; roll into 1/4 cup of sugar."", ""Place balls 2-inches apart on a lightly greased cookie sheet."", ""Bake at 375\u00b0 for 8 minutes."", ""Remove from oven, press"", ""a chocolate kiss into center of cookie; return to oven for another 2 minutes."", ""Yield: 4 dozen.""]","Create a recipe for the dish Peanut Butter Blossoms. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Peanut Butter Blossoms
+
+**Recipe Title:** No-Bake Peanut Butter Blossoms
+
+**Ingredients:**
+
+* 1 cup creamy peanut butter
+* 1/2 cup powdered sugar
+* 1/2 teaspoon vanilla extract
+* Confectioners' sugar for rolling balls in
+
+**Instructions:**
+
+1. Shape the peanut butter into 1-inch balls.
+2. Using the tines of a fork, press down slightly to create a crisscross pattern.
+3. Place the sugar in a shallow dish.
+4. Roll the peanut butter balls in the confectioners' sugar.
+5. Place the chocolate chips and shortening in a microwave-safe bowl.
+6. Microwave in 30-second intervals, stirring after each interval, until the chocolate is melted and smooth.
+7. Using two teaspoons, take a peanut butter ball and dip it into the melted chocolate, covering it completely.
+8. Place the chocolate-covered peanut butter ball on a piece of wax paper.
+9. Immediately press a Hershey's Kiss candy into the center of the chocolate.
+10. Let the chocolate set at room temperature or place in the refrigerator until set.
+
+Nutrition facts (per serving, 10 blossoms):
+
+| Nutrient                                                                                                                                                                                                                                                | Amount            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Calories                                                                                                                                                                                                                                     | 120                |
+| Fat                                                                                                                                                                                                                                | 8 grams            |
+| Saturated Fat                                                                                                                                                                                                                        | 2.5 grams            |
+| Sodium                                                                                                                                                                                                                         | 5 milligrams      |
+| Sugar                                                                                                                                                                                                                         | 5.5 grams           |
+| Carbohydrates                                                                                                                                                                                                              | 17.5 grams          |
+| Fiber                                                                                                                                                                                                                         | 0.5 grams           |
+| Sugars                                                                                                                                                                                                                        | 4.5 grams           |
+| Protein                                                                                                                                                                                                                        | 1.5 grams           |
+| Vitamin E                                                                                                                                                                                                                        | 0.1 milligrams     |
+| Calcium                                                                                                                                                                                                                          | 5 milligrams        |",6.581917376888041e-79,0.3605150214592275,0.11206896551724137,0.18884120171673818,0.8345814943313599,0.6434279680252075,0.6445317268371582,0.3391617481358158,0.10545454545454545,0.8062435388565063,0.8649840354919434,0.8345814943313599,"tensor(0.0153, device='mps:0')",7
+Cathedral Window Candy,"[""2 Tbsp. butter"", ""1 c. chocolate chips"", ""1 egg, beaten"", ""1 c. confectioners sugar"", ""3 c. colored miniature marshmallows""][""Place butter and chocolate chips in medium heat resistant bowl."", ""Heat, uncovered, in microwave for 4 minutes, or until melted."", ""Combine egg and sugar; add slowly to chocolate mixture. Stir in marshmallows to coat well."", ""Pour onto waxed paper."", ""Shape into 18-inch log."", ""Refrigerate."", ""Slice before serving.""]","Create a recipe for the dish Cathedral Window Candy. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Cathedral Window Candy 
+Ingredients:
+- 1/2 cup white sugar
+- 1/2 cup corn syrup
+- 1/2 cup water
+- 1/2 teaspoon cream of tartar
+- 1/2 teaspoon black food coloring
+- 1/2 teaspoon red food coloring
+- 1/2 teaspoon blue food coloring
+- 1/2 teaspoon yellow food coloring
+- 1/2 teaspoon vegetable oil
+- 1/4 cup almond extract (optional)
+- 1/4 cup shredded coconut
+- 1/2 cup powdered sugar
+
+Instructions:
+1. In a medium saucepan, combine white sugar, corn syrup, and water. Cook over medium heat until the sugar dissolves.
+2. Add the cream of tartar, black food coloring, red food coloring, blue food coloring, and yellow food coloring.
+3. Continue cooking, stirring constantly, until the mixture reaches 300 degrees F (hard-crack) on a candy thermometer.
+4. Remove from heat and carefully stir in the vegetable oil and almond extract (if using).
+5. Pour the hot candy onto a piece of wax paper, then spread it into a fairly thin layer, approximately 1/8 inch thick.
+6. Allow the candy to cool and harden completely.
+7. When the candy is firm, break it into small pieces and gently crumble it into fine shards.
+8. In a separate bowl, mix together the powdered sugar.
+9. Add the crumbled candy pieces to the powdered sugar and stir to combine.
+10. Shape the candy mixture into 1-inch wide strips, then twist the ends of each strip to create a cathedral window effect.
+11. Allow the candy to dry completely before serving or storing.
+
+Note: You may need to adjust the food coloring amounts to achieve your desired colors. This candy can be made without the almond extract, but it adds a nice flavor and helps to prevent the candy from sticking to your hands while shaping.",1.6162491404972792e-155,0.17995910020449898,0.03285420944558522,0.11860940695296522,0.8258000612258911,0.6316832304000854,0.406978040933609,0.23352466692444593,0.06569343065693431,0.7923984527587891,0.862141489982605,0.8258000612258911,"tensor(-0.0060, device='mps:0')",1
+Blt Bites,"[""16 to 20 cherry tomatoes"", ""1 lb. bacon, cooked and crumbled"", ""1/2 c. mayonnaise"", ""1/3 c. chopped green onion"", ""3 Tbsp. grated Parmesan cheese"", ""2 Tbsp. parsley""][""Cut a thin slice off of each tomato top."", ""Scoop out pulp. Invert the tomatoes on paper towel to drain.""]","Create a recipe for the dish Blt Bites. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Title: Blt Bites
+
+Ingredients:
+- 2 slices of bacon, cooked and crumbled
+- 1/2 cup of mayonnaise
+- 1 tablespoon of lemon juice
+- 1 tablespoon of sugar
+- 1 teaspoon of mustard (dijon)
+- Salt and pepper, to taste
+
+Directions:
+1. In a medium-sized bowl, combine the crumbled bacon, mayonnaise, lemon juice, sugar, mustard, salt, and pepper.
+2. Gently stir the mixture until everything is well combined.
+3. Spoon the blend onto a plate or into a small container with a secure lid.
+4. Cover the mixture and refrigerate it for at least 1 hour or up to 24 hours before serving.
+5. Before serving, take the bacon mixture out of the refrigerator and let it sit at room temperature for 15 minutes.
+6. Using a spoon or your hands, form small balls (about 1 tablespoon each) of bacon mixture.
+7. Place the Blt Bites onto a serving plate or tray.
+8. Serve and enjoy!",5.3265222094471143e-79,0.1651376146788991,0.04923076923076924,0.0856269113149847,0.8253517746925354,0.34308314323425293,0.3861907422542572,0.18158264272798122,0.07547169811320754,0.793163001537323,0.8602638244628906,0.8253517746925354,"tensor(-0.0265, device='mps:0')",2
+Tostado Casserole,"[""1 lb. ground beef"", ""15 oz. can tomato sauce"", ""1 envelope taco seasoning mix"", ""2 1/2 c. corn chips"", ""15 1/2 oz. can refried beans"", ""2 oz. (1/2 c.) shredded Cheddar cheese""][""In a skillet, brown ground beef."", ""Drain and add 1 1/2 cups tomato sauce and seasoning mix and mix well."", ""Line bottom of a 11 x 8 x 2 pan with 2 cups corn chips."", ""Crush remaining corn chips and set aside."", ""Spoon meat mixture over corn chips in baking dish. Combine remaining tomato sauce and refried beans."", ""Spread over ground beef mixture."", ""Bake at 375\u00b0 for 25 minutes."", ""Sprinkle with shredded cheese and crushed corn chips."", ""Bake for 5 more minutes.""]","Create a recipe for the dish Tostado Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Tostado Casserole Recipe
+----------------------
+
+**Tostado Casserole**
+
+Ingredients:
+
+* 1 (15.5-oz) can black beans, rinsed and drained
+* 1 (8-oz) can corn, drained
+* 1 (8-oz) can diced tomatoes, drained
+* 1 (6-oz) package taco seasoning mix
+* 1 cup shredded Mexican blend cheese
+* 1 (9.1-oz) packet taco shells or 1 (9.1-oz) bundle of tostado shells
+* 1/2 cup grated cheddar cheese
+* 1/2 cup sour cream
+* 1/4 cup chopped green onions
+* 1/4 cup chopped fresh cilantro
+* Salsa of your choice (optional)
+
+Instructions:
+
+1. Preheat your oven to 350°F (175°C) and grease a 9x13-inch baking dish.
+
+2. In a large bowl, combine the black beans, corn, taco seasoning mix, and 1/2 cup shredded cheese. Mix until well combined.
+
+3. Spread the mixture evenly in the prepared baking dish.
+
+4. Sprinkle the remaining 1/2 cup shredded cheese over the top of the mixture.
+
+5. Bake for 15-20 minutes, or until the cheese is melted and bubbly.
+
+6. While the casserole is baking, heat the taco shells according to the package instructions.
+
+7. Once the casserole is done baking, let it cool for a few minutes before serving.
+
+8. To serve, lay 4-6 taco shells on each plate and top each with a heaping spoonful of the casserole. Drizzle with salsa, if desired, and serve with sour cream on the side.
+
+Enjoy your Tostado Casserole! This is a great dish to make for a crowd or a weeknight meal. You can customize the toppings to your liking, such as adding diced tomatoes, avocado, or jalapeño slices.",3.200339894833374e-155,0.30919765166340507,0.08251473477406679,0.1643835616438356,0.8388310670852661,0.5581376552581787,0.5935060977935791,0.2823269807685228,0.09782608695652174,0.8135941624641418,0.8656837344169617,0.8388310670852661,"tensor(0.0082, device='mps:0')",2
+Jalapeno Pie,"[""1 (7 oz.) can whole green chili peppers or 2 (4 oz.) cans chopped green chilies"", ""5 eggs, beaten"", ""1/2 lb. sharp Cheddar cheese"", ""salt and pepper, to taste""][""Drain peppers (seed whole ones)."", ""If using whole peppers, cut them lengthwise and line sides and bottom of a 9-inch pie plate. Preheat oven to 350\u00b0.""]","Create a recipe for the dish Jalapeno Pie. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Jalapeno Pie Recipe:
+[Title: Jalapeno Pie]
+[Ingredients:
+ [""2 large jalapenos"", ""seeded and finely chopped"", ""1/2 cup chopped white and light green parts of 1 onion"", ""1/2 cup grated Monterey Jack cheese"", ""1/4 cup chopped green bell pepper"", ""1/4 cup chopped fresh cilantro"", ""1/4 cup finely shredded Monterey Jack cheese"", ""2 large eggs"", ""2 large egg whites"", ""1/2 cup light cream"", ""1/2 cup packed light brown sugar"", ""2 tsp. cornstarch"", ""1/2 tsp. baking powder"", ""1/4 tsp. salt"", ""1/4 tsp. freshly ground black pepper"", ""8 to 10 large tortilla shells"", ""2 cups shredded cheddar cheese"", ""1/4 cup chopped fresh cilantro"", ""1/4 cup chopped fresh jalapeno"", ""1/4 cup finely shredded Monterey Jack cheese"", ""1/2 cup chopped fresh cilantro"", ""1/2 cup chopped fresh jalapeno"", ""1/2 cup chopped fresh cilantro"", ""1/2 cup chopped fresh jalapeno"", ""1/2 cup finely shredded Monterey Jack cheese""]
+ [""Instructions"": [""Preheat oven to 350°F (175°C). Line a 13x9x2-inch baking dish with foil, allowing foil to overhang two opposite sides. Coat with nonstick spray."", ""In a medium saucepan, combine jalapenos, onion, Monterey Jack cheese, cilantro, Monterey Jack cheese, eggs, cream, cornstarch, baking powder, and salt. Cook over medium heat, stirring constantly, until mixture comes to a boil and thickens."", ""Place 6 tortilla shells in prepared baking dish, making sure they all fit without overlapping. Evenly distribute cheese among 6 shells."", ""Pour jalapeno mixture over tortilla shells, dividing evenly. Sprinkle each shell with 1/4 cup shredded cheddar cheese and 2 tablespoons chopped fresh cilantro."", ""Bake until filling is bubbly and cheese is melted, 15 to 20 minutes."", ""Let cool on a wire rack 5 minutes."", ""Using foil handles, remove pie from baking dish. Garnish pie with additional chopped fresh cilantro, jalapenos, and Monterey Jack cheese."", """,2.0281602231236735e-155,0.13141683778234084,0.028865979381443297,0.06981519507186858,0.8067634105682373,0.519156813621521,0.5181109309196472,0.18156986680103776,0.054474708171206226,0.7874428033828735,0.8270559906959534,0.8067634105682373,"tensor(0.0193, device='mps:0')",2
+Buttermilk Corn Bread,"[""1 c. unbleached white flour"", ""1 c. corn meal"", ""1/2 c. sugar"", ""1/2 c. cornstarch"", ""1 Tbsp. baking powder"", ""1 tsp. baking soda"", ""1/2 tsp. salt"", ""1 egg"", ""1/4 c. butter, melted"", ""1 1/2 c. buttermilk""][""Combine flour, corn meal, sugar, cornstarch, baking powder, baking soda and salt in large bowl."", ""Beat egg in smaller bowl and whisk in butter slowly until well mixed."", ""Whisk in buttermilk. Pour egg mixture into dry ingredients, mixing until just blended. Gently spoon into greased 9 x 5-inch loaf pan."", ""Bake at 375\u00b0 for 45 minutes or until wooden pick inserted in center of loaf comes out clean."", ""Makes 1 loaf.""]","Create a recipe for the dish Buttermilk Corn Bread. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+237. [Recipe title: Buttermilk Corn Bread]
+[Ingredients: [""2 1/2 cups uncooked minute cornmeal"", ""1/2 cup granulated sugar"", ""1/2 cup packed brown sugar"", ""1/2 cup all-purpose flour"", ""1 1/2 teaspoons baking powder"", ""1/2 teaspoon baking soda"", ""1/2 teaspoon ground cinnamon"", ""1/2 teaspoon ground ginger"", ""1/2 teaspoon ground nutmeg"", ""1/4 teaspoon salt"", ""1/2 cup buttermilk"", ""1/4 cup melted and cooled butter"", ""2 large eggs"", ""1/2 cup sweet pureed corn"", ""2 large tablespoons sugar"", ""1/2 teaspoon baking powder"", ""1/4 teaspoon baking soda"", ""1/4 teaspoon ground cinnamon"", ""1/4 teaspoon ground allspice"", ""1/4 teaspoon ground ginger"", ""1/4 teaspoon ground nutmeg"", ""1/8 teaspoon ground cloves"", ""1/2 teaspoon ground soda"", ""1/2 cup granulated sugar"", ""1/2 cup buttermilk"", ""1/4 cup melted and cooled butter"", ""1 1/2 inch piece fresh dill"", ""2 large eggs"", ""1/2 cup packed light-colored sugar"", ""1 1/2 tablespoons butter, melted""]
+[Instructions: [""Preheat oven to 450°F (230°C).."", ""Grease a 9-inch cast-iron corn stick pan."", ""In a medium bowl, whisk together minute cornmeal, all-purpose flour, baking powder, baking soda, cinnamon, nutmeg, and 1/4 teaspoon of the salt."", ""In another medium bowl, whisk together brown sugar, granulated sugar, and remaining 1/4 teaspoon salt."", ""Add buttermilk and melted butter to the sugar-flour mixture, and stir until just combined."", ""Add the cornmeal mixture to the liquid, and stir just until combined."", ""Dump the batter into the prepared corn stick pan, and smooth the top."", ""Let the cornbread rest in the pan for 5 minutes before running a butter knife around the edges to loosen, and then flipping the cornbread out onto a wire rack."", ""Bake the cornbread for 18-22 minutes, or until a toothpick inserted into the center comes out clean."", ""While the cornbread is baking, whisk together the granulated",1.0759282516148551e-78,0.3076923076923077,0.10412926391382406,0.19677996422182467,0.8498244285583496,0.7537567019462585,0.6922379732131958,0.309645339861616,0.15789473684210525,0.830037534236908,0.8705776929855347,0.8498244285583496,"tensor(-0.0296, device='mps:0')",7
+Chicken Pie,"[""1 whole fryer"", ""1/2 tsp. salt"", ""1/2 tsp. pepper"", ""1 can cream of celery soup"", ""1 c. flour"", ""1 stick margarine"", ""1 c. buttermilk""][""Cook and remove chicken from bone and put in bottom of pan. Sprinkle salt and pepper over chicken."", ""Heat 2 cups chicken broth and can of soup and pour over chicken."", ""Mix flour, margarine (melted) and buttermilk, then spoon evenly over top of chicken. Bake at 425 degrees for 25 to 30 minutes or until golden brown.""]","Create a recipe for the dish Chicken Pie. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Ingredients:
+- 4 boneless, skinless chicken breasts (8 oz each)
+- Salt and pepper, to taste
+- 1 cup frozen peas and carrots, thawed
+- 1/2 cup frozen corn, thawed
+- 1/4 cup diced onion
+- 3 tablespoons olive oil
+- 1 1/2 cups Panko breadcrumbs
+- 1/2 cup grated Parmesan cheese
+- 1 egg, beaten
+- 1/4 cup fresh parsley, finely chopped
+- 2 tablespoons butter, melted
+- 1/2 cup all-purpose flour
+- Salt and pepper, to taste
+- 1/2 cup milk, plus more as needed
+
+## Directions:
+1. Preheat the oven to 400°F (200°C). Line a 9x13-inch baking dish with parchment paper, leaving an overhang on two opposite sides for easy removal later. Set aside.
+2. In a large bowl, beat the chicken with a fork or your fingers until finely flaked. Add the thawed peas, thawed corn, diced onion, olive oil, 1/2 cup Panko breadcrumbs, 1/2 cup grated Parmesan cheese, beaten egg, finely chopped fresh parsley, melted butter, salt, and pepper. Stir until evenly combined, then gradually add the milk and continue stirring until the mixture forms a soft dough. If too sticky, add more flour, 1 tablespoon at a time, until the dough is no longer sticky.
+3. Roll the dough into 1-inch balls and arrange them tightly in the prepared baking dish, spacing them about 1/2 inch apart.
+4. Bake for 20-25 minutes, until the chicken balls are cooked through and lightly browned on the edges.
+5. Meanwhile, prepare the sauce. In a medium-sized bowl, whisk together the remaining 1/2 cup flour, milk, and a pinch of salt. Drizzle in the melted butter while continually whisking. The sauce should be smooth and free of lumps. If it looks too thin or runny, let it boil for 1-2 minutes, or until it reaches your desired thickness.
+6. Remove the chicken balls from the oven, and, using a spatula, carefully spread the sauce over the top, covering each chicken ball as evenly as possible. Sprinkle the remaining 1/2 cup Panko breadcrumbs over the top of the sauce.
+7. Bake the",2.2886324522510133e-155,0.21903052064631962,0.04684684684684684,0.11131059245960503,0.8255449533462524,0.6448537707328796,0.6360601782798767,0.31383363737653414,0.08360128617363344,0.7959587574005127,0.8574154376983643,0.8255449533462524,"tensor(-0.0446, device='mps:0')",4
+Ginger Cookies,"[""1/2 c. applesauce"", ""3 pkg. sweetener"", ""1/8 tsp. ginger"", ""pinch of salt"", ""2/3 c. powdered milk"", ""1/2 tsp. cinnamon"", ""pinch of cloves""][""Mix all dry ingredients together thoroughly; add applesauce. Mix well."", ""Drop by teaspoon onto a nonstick cookie sheet."", ""Bake at 350\u00b0 for 10 to 15 minutes.""]","Create a recipe for the dish Ginger Cookies. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Ginger Cookies Recipe
+
+**Ingredients:**
+
+* 1 1/2 cups (150g) granulated sugar
+* 2 1/2 teaspoons (15g) fresh ginger, grated
+* 1 1/2 cups (125g) all-purpose flour
+* 1/2 cup (75g) packed brown sugar
+* 1/2 teaspoon (1g) ground cinnamon
+* 1/4 teaspoon (1g) ground allspice
+* 1/4 teaspoon (1g) ground cloves
+* 1/4 teaspoon (1g) ground nutmeg
+* 1/2 teaspoon (2g) baking soda
+* 1/2 cup (55g) butter, melted and cooled to room temperature
+* 1 large egg, beaten
+* 1/4 cup (12g) granulated sugar
+* 1/4 cup (12g) granulated sugar for rolling
+
+**Instructions:**
+
+1. Preheat the oven to 350°F (175°C) and line two baking sheets with parchment paper.
+2. In a large bowl, combine the granulated sugar, grated ginger, all-purpose flour, packed brown sugar, cinnamon, allspice, cloves, and nutmeg. Whisk to combine.
+3. Add the melted and cooled butter, egg, and granulated sugar to the bowl and use a spatula or your hands to mix until a dough forms.
+4. Roll the dough into 1-inch balls, then roll them in the granulated sugar to coat.
+5. Place the dough balls about 2 inches apart on the prepared baking sheets.
+6. Flatten the dough balls slightly with the bottom of a glass that has been dipped in granulated sugar.
+7. Bake for 10-12 minutes, or until the edges are lightly golden.
+8. Let the cookies cool on the baking sheets for 5 minutes before transferring them to a wire rack to cool completely.
+
+Enjoy your delicious Ginger Cookies!",3.4370612911225197e-79,0.16203703703703703,0.032558139534883714,0.10185185185185186,0.8252863883972168,0.6876096129417419,0.6174876689910889,0.14422956007166932,0.05327868852459016,0.7897778749465942,0.864138126373291,0.8252863883972168,"tensor(-0.0344, device='mps:0')",3
+Bacon Nuts,"[""1 can water chestnuts, drained (8 oz.)"", ""1/4 c. soy sauce"", ""1/2 lb. bacon""][""Soak water chestnuts in soy sauce for 4 hours."", ""Wrap each chestnut in a 1/2 strip of bacon and secure with a toothpick. Broil until brown.""]","Create a recipe for the dish Bacon Nuts. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+## Recipe: Bacon Nuts
+**Ingredients:**
+1. 1/2 lbs bacon, chopped
+2. 1/2 cups Panko Japanese style bread crumbs
+3. 1/2 cups granulated sugar
+4. 1/4 cup honey
+5. 1/4 cup soy sauce
+6. 1/4 cup melted butter
+7. 1/2 tsp black pepper
+8. 1/2 tsp garlic powder
+9. 1/2 tsp onion powder
+10. 1/4 cup chopped pecans
+11. Pillsbury Original refrigerated biscuits
+12. 1/4 cup melted butter
+
+**Instructions:**
+1. Preheat your oven to 400°F (200°C). Line a large baking sheet with parchment paper or a silicone baking mat.
+2. In a large bowl, combine the bacon, Panko bread crumbs, granulated sugar, honey, soy sauce, melted butter, black pepper, garlic powder, and onion powder. Mix until the bacon is evenly coated in the bread crumb mixture.
+3. Place the biscuit dough into the bowl with the bacon mixture. Toss until the biscuits are evenly coated in the mixture.
+4. Using a spoon or your hands, form the coated biscuits into 1-inch balls. Place them about 2 inches apart on the prepared baking sheet.
+5. Bake the bacon nuts for 10-12 minutes, or until the biscuits are lightly golden brown.
+6. Remove the baking sheet from the oven, and let the bacon nuts cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.
+7. Serve the bacon nuts at room temperature or store them in an airtight container at room temperature for up to 3 days. Enjoy!
+
+## Notes
+- You can use any type of bacon and bread crumbs you like for this recipe, just make sure to adjust the seasonings accordingly.
+- If you don't have Panko bread crumbs, you can use regular bread crumbs instead.
+- The biscuits can be stored in an airtight container at room temperature for up to 3 days. If you want to keep them longer, you can freeze them in an airtight container or freezer bag for up to 1 month. Thaw them at room temperature before serving.",3.4056847828226157e-79,0.10546875,0.03137254901960785,0.06640625,0.8171483874320984,0.5441315174102783,0.5061124563217163,0.1716815776644997,0.05555555555555555,0.7859362959861755,0.8509420156478882,0.8171483874320984,"tensor(0.0454, device='mps:0')",2
+Pina Colada Cake,"[""1 box Duncan Hines butter cake mix"", ""4 eggs"", ""1/2 c. oil"", ""1 c. water"", ""1 can cream of coconut"", ""1 can crushed pineapple (optional)"", ""1 large Cool Whip"", ""flaked coconut""][""Preheat oven to 350\u00b0."", ""Mix cake mix, eggs, oil and water. Bake in an oblong pan for 30 minutes."", ""Remove from oven and poke holes in cake."", ""Stir and then pour the cream of coconut over the cake while it is hot."", ""Refrigerate cake to cool."", ""Top cake with crushed pineapple, Cool Whip and coconut."", ""Keep refrigerated.""]","Create a recipe for the dish Pina Colada Cake. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""] \n[title]: Pina Colada Cake]\n[ingredients]: [""1 (18) oz. packaging coconut flakes"", ""1 (18) oz. box yellow cake mix"", ""1 (14) oz. can crushed pineapple, drained"", ""1 (14) oz. can crushed pineapple, with its juice"", ""1 (14) oz. can crushed pineapple, with its juice"", ""1/2 c. butter"", ""1 1/2 c. sugar"", ""2 eggs"", ""1 tsp. vanilla"", ""1/2 tsp. baking powder"", ""1/2 tsp. salt"", ""2-quart greased and floured pineapple oval"", ""1 (14) oz. can chopped pineapple"", ""1/2 c. whipped topping"", ""1/2 c. shredded coconut""]\n [directions]: [""Preheat oven to 35oF. Grease and flour pineapple oval."", ""In a large mixing bowl, combine cake mix, 1 1/2 cups of the coconut, and 1/2 cup of the crushed pineapple with its juice."", ""Stir in butter, sugar, eggs, and 1 tsp. of vanilla until well blended."", ""Stir in baking powder and salt."", ""Pour into greased and floured pineapple oval."", ""Bake at 35oF for 45-55 minutes or until a toothpick comes out clean."", ""Cool in oven with door ajar."", ""Filling:\"", In a medium mixing bowl, beat 1/2 cup of the whipped topping, 1/2 cup of sugar, 1 egg, 1 tsp. of vanilla, and 1/2 tsp. baking powder until smooth."", ""Grease and flour two 9 inch round cakepans."", ""Stir together first 1/2 cup of coconut and 1/2 cup of crushed pineapple with its juice."", then 1/2 cup of coconut and 1/2 cup of crushed pineapple with its juice."", until evenly moistened."", ""Divide batter between prepared pans."", and "", Bake at 350°F for 25-30 minutes or until a toothpick comes out clean."", ""Cool in pans on a rack 5 minutes."", then remove from pans and let cool completely on a rack."", ""Frosting:\"", In a large mixing bowl, beat 1 1/2 cups of the whipped topping until stiff."", ""Stir in 1/2 cup of sugar and 1 egg, then 1/2 cup of shredded coconut."", and",3.24448788084786e-155,0.2463235294117647,0.055350553505535055,0.14705882352941174,0.8352676630020142,0.6846736669540405,0.7538345456123352,0.43031753510745635,0.14583333333333334,0.8139191269874573,0.8577661514282227,0.8352676630020142,"tensor(-0.0225, device='mps:0')",4
+Grasshopper Salad,"[""1 box pistachio pudding (instant)"", ""1 (12 oz.) Cool Whip"", ""1 can crushed pineapple with the juice"", ""1/2 c. nuts"", ""1 c. mini marshmallows""][""Mix pudding mix and Cool Whip together."", ""Add the rest of the ingredients and stir well."", ""Refrigerate."", ""May be used immediately.""]","Create a recipe for the dish Grasshopper Salad. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Grasshopper Salad
+-----
+
+**Grasshopper Salad Recipe**
+
+**Ingredients**
+- 1/2 cup finely crushed mint cookies or Nilla wafers
+- 1/2 cup finely crushed chocolate cookies or graham crackers
+- 1/2 cup finely crushed Oreo cookies (or any chocolate cookie)
+- 1/2 cup crushed peppermint candy canes, preferably the flat kind
+- 1 (8 oz.) package of cream cheese, softened
+- 1/2 cup finely crushed peppermint candy canes (optional - for topping)
+- 1 cup whipped topping, such as Cool Whip
+- 1 cup whipped topping, such as Cool Whip, whipped and sweetened with 1/2 cup powdered sugar
+- 1/2 cup finely crushed peppermint candy canes (optional)
+- 1/2 cup finely crushed peppermint candy canes (optional)
+- 1/4 cup finely crushed peppermint candy canes (optional - for garnish)
+
+**Instructions**
+
+1. Line a 9x13-inch dish with plastic wrap, allowing plenty of overhang on the sides for easy removal.
+
+2. In a large bowl, mix together the first 4 ingredients (mint cookies, chocolate cookies, and Oreo cookies) until finely crushed.
+
+3. In a separate, medium-sized bowl, using an electric mixer, beat the cream cheese until smooth.
+
+4. Gradually add in the powdered sugar and beat until fluffy, scraping down the sides of the bowl as needed.
+
+5. Fold the whipped topping into the cream cheese mixture until well-combined.
+
+6. Pour the cream cheese mixture over the crushed cookies and fold gently to evenly distribute the cookies throughout the mixture.
+
+7. Pour the mixture into the prepared dish and smooth the top.
+
+8. Sprinkle the remaining peppermint candy candies evenly over the top of the salad.
+
+9. Refrigerate the salad for at least 3 hours or until the candy canes have softened and dissolved into the mixture, giving it a nice, minty flavor.
+
+10. When ready to serve, remove the salad from the refrigerator and let it sit at room temperature for 10-15 minutes to soften slightly.
+
+11. Using two large spoons, scoop the salad into serving bowls, dividing evenly.",2.1255527921391264e-155,0.125,0.04048582995951417,0.08870967741935486,0.826393723487854,0.4992000162601471,0.47173434495925903,0.31716609364075227,0.055970149253731345,0.7922931909561157,0.8635616302490234,0.826393723487854,"tensor(-0.0130, device='mps:0')",1
+Chocolate Biscotti,"[""1 c. sugar"", ""2 1/2 c. flour"", ""1 tsp. vanilla"", ""1/2 tsp. salt"", ""1 c. butter"", ""1 c. cocoa"", ""1 Tbsp. baking powder"", ""1 tsp. coffee granuales"", ""4 eggs"", ""1 (8oz.) pkg. semi sweet Chocolate chips, melted and opt."", ""1/4 c. almonds, chopped""][""At medium speed beat sugar and butter."", ""Add 1 c. flour and then the rest of the ingredients."", ""Add the other 1 1/2 c. flour."", ""Pat dough into 2 (12x3) loaves."", ""Bake on cookie sheet for 25-30 minutes at 350\u00b0."", ""Remove and cool for 20 minutes."", ""Remove loaves to a cutting board and cut slices about 1/2-inch wide into cookies. Place flat on a cookie sheet and bake again at 350\u00b0 for 20 minutes. Cool completely."", ""Melt chocolate in a double boiler and brush each cookie with the chocolate and sprinkle with the chopped almonds.""]","Create a recipe for the dish Chocolate Biscotti. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Chocolate Biscotti Recipe
+
+**Ingredients**
+
+* 2 cups (12 oz/355 g) semi-sweet chocolate, chopped
+* 1/2 cup (1/2 stick) unsalted butter, at room temperature
+* 3 cups (12 oz/350 g) granulated sugar
+* 3 eggs
+* 2 1/2 cups (6 oz/148 g) all-purpose flour
+* 1/2 tsp. baking powder
+* 1/2 tsp. pure vanilla extract
+* 1 lb (453.6 g) biscotti or Italian almond cookies, broken into 1-inch (2.5 cm) pieces
+* 1 lb (453.6 g) powdered sugar
+* 1/4 cup (60 ml) milk
+
+**Instructions**
+
+1. Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper, and set aside.
+
+2. In a medium-sized heat-safe bowl, add the chocolate and butter. Place the bowl over a pot of simmering water (double boiler), ensuring that the bottom of the bowl doesn't touch the water. Melt the chocolate and butter together, stirring occasionally until smooth. Remove the bowl from the pot and allow the chocolate to cool slightly.
+
+3. In a large mixing bowl, beat the sugar, eggs, and vanilla until the mixture is smooth and light in color. Gradually add the cooled chocolate into the egg mixture, beating constantly until well combined.
+
+4. Add the all-purpose flour and baking powder into the bowl, and mix until a dough forms.
+
+5. Divide the dough into two equal parts and roll each portion into logs about 12 inches (30 cm) long and 2 inches (5 cm) wide. Place the logs on the prepared baking sheet, spacing them about 3 inches (7.5 cm) apart. Pat the logs gently to flatten them slightly.
+
+6. Bake the logs for 25-30 minutes or until they're lightly golden brown. Remove the logs from the oven and allow them to cool completely.
+
+7. Using a serrated knife, slice the logs diagonally into 1/2-inch (1 cm) slices. Place the slices on their sides on the baking sheet, which has been lined with parchment paper.
+
+8. Bake the biscotti slices again for 8-10 minutes or until they're crispy. Remove the biscotti",8.819213076839846e-79,0.360128617363344,0.1064516129032258,0.1897106109324759,0.8417040109634399,0.8245973587036133,0.6664107441902161,0.5306785243798838,0.12974683544303797,0.8158730268478394,0.8692240118980408,0.8417040109634399,"tensor(-0.0899, device='mps:0')",7
+Velveeta Cheese Fudge,"[""1/2 lb. Velveeta cheese"", ""2 sticks oleo"", ""2 lb. confectioners sugar"", ""1/2 c. cocoa"", ""1 tsp. vanilla"", ""nuts""][""Melt cheese and oleo on low."", ""Mix confectioners sugar, cocoa and vanilla."", ""Pour cheese mixture into sugar mixture."", ""Mix well and add nuts."", ""Pat into buttered dish, 9 x 12-inch."", ""Can be cut immediately."", ""Makes about 2 1/2 pounds.""]","Create a recipe for the dish Velveeta Cheese Fudge. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## [No-Bake Nut Cookies](https://cookpad.com/us/recipes/148345-no-bake-nut-cookies)
+
+To make Velveeta Cheese Fudge, you will need the following ingredients:
+
+* 12 oz. Velveeta cheese, melted
+* 1/2 cup (1/2 stick) unsalted butter, melted
+* 1/2 cup confectioners' sugar
+* 1/2 cup mini semi-sweet chocolate chips
+* 1/4 cup mini white chocolate chips
+* 1/4 cup chopped walnuts or peanuts (optional)
+
+To make the Velveeta Cheese Fudge, follow these directions:
+
+1. Line an 8-inch square baking dish with aluminum foil, leaving an overhang on two opposite sides.
+2. Microwave the Velveeta cheese and melted butter in a large microwavable bowl on high for 1 1/2 to 2 minutes, or until the cheese is completely melted and smooth, stirring every 30 seconds to ensure even melting.
+3. Add the confectioners' sugar, white chocolate chips, and mini semi-sweet chocolate chips to the melted cheese. Stir until well combined.
+4. Add the mini white chocolate chips and chopped walnuts or peanuts to the melted cheese mixture, if using. Stir until well combined.
+5. Pour the melted cheese mixture into the prepared baking dish, spreading it evenly with a spatula or the back of a spoon.
+6. Cover the baking dish with the aluminum foil overhangs, and refrigerate the fudge for at least 2 hours, or until firm.
+7. To cut the fudge, use the overhangs of aluminum foil as handles to lift the fudge from the baking dish. Place a cutting board on top of the fudge, and carefully flip everything over. Remove the aluminum foil, and use a sharp knife to cut the fudge into 1-inch squares. Serve and enjoy!
+
+## [Instructions](https://cookpad.com/us/recipes/148345-no-bake-nut-cookies)
+
+1. Preheat your oven to 350°F (175°C) and line an 8-inch square baking dish with aluminum foil, leaving an overhang on two opposite sides.
+2. Microwave the Velveeta cheese and melted butter in a large microwavable bowl on high for 1 1",5.394231254914848e-79,0.18007662835249041,0.057692307692307696,0.10344827586206896,0.8362665772438049,0.6695677042007446,0.5947452783584595,0.23961584040725,0.07874015748031496,0.8001808524131775,0.8757607936859131,0.8362665772438049,"tensor(-0.0120, device='mps:0')",3
+Pumpkin Crisp,"[""16 oz. c. solid pumpkin"", ""14 oz. c. sweetened condensed milk"", ""1/2 c. sugar"", ""1 tsp. cinnamon"", ""1/2 tsp. nutmeg"", ""3 eggs, beaten"", ""1 box yellow cake mix"", ""1 c. chopped nuts"", ""1 c. margarine""][""Mix first 6 ingredients and pour into greased 9 x 13-inch or two 8 x 8-inch pans."", ""Sprinkle cake mix over mixture."", ""Press nuts into cake mix."", ""Drizzle melted margarine over cake mix."", ""Bake at 350\u00b0 for 1 hour."", ""Can be frozen.""]","Create a recipe for the dish Pumpkin Crisp. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+No-Bake Nut Cookies
+Ingredients:
+- 1/2 cup firmly packed brown sugar
+- 1/2 cup evaporated milk
+- 1/2 tsp vanilla
+- 1/2 cup broken nuts (pecans)
+- 2 tablespoons butter or margarine
+- 3 1/2 cups bite-sized shredded rice biscuits
+
+Instructions:
+1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine.
+2. Stir over medium heat until mixture bubbles all over top.
+3. Boil and stir 5 minutes more.
+4. Take off heat.
+5. Stir in vanilla and cereal; mix well.
+6. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+7. Let stand until firm, about 30 minutes.
+
+Note: The ingredients list has been corrected.
+
+---
+
+Title: Pumpkin Crisp
+
+Ingredients:
+- 1 1/2 cups rolled oats
+- 1/2 cup packed brown sugar
+- 1/2 cup all-purpose flour
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 (15-ounce) can pumpkin puree
+- 1/2 cup granulated sugar
+- 1/2 cup packed light-brown sugar
+- 1/2 cup unsweetened applesauce
+- 1/4 cup all-purpose flour
+- 1/4 cup chopped pecans or walnuts (optional)
+
+Instructions:
+
+1. Preheat the oven to 375°F (190°C) and line a 2-quart baking dish with parchment paper, leaving an overhang on two opposite sides for easy removal.
+2. In a large mixing bowl, combine the rolled oats, 1/2 cup packed brown sugar, all-purpose flour, baking powder, baking soda, and 1/2 teaspoon salt. Mix until evenly combined.
+3. Add the pumpkin puree, granulated sugar, light-brown sugar, unsweetened applesauce, and 1/4 cup all-purpose flour. Mix until the dry ingredients are evenly distributed and the batter is smooth.
+4. Transfer the batter to the prepared baking dish and smooth the top.
+5. In a small mixing bowl, combine the chopped pecans or walnuts (if using) and remaining 1/4 cup all-purpose flour.",2.121482782482715e-155,0.16318785578747627,0.030476190476190476,0.10246679316888045,0.8228762745857239,0.7159173488616943,0.6181127429008484,0.1810757160633179,0.07346938775510205,0.8007594347000122,0.8462495803833008,0.8228762745857239,"tensor(-0.0024, device='mps:0')",3
+Hummingbird Cake,"[""3 c. all-purpose flour"", ""2 c. sugar"", ""1 tsp. baking soda"", ""1 tsp. salt"", ""1 tsp. cinnamon"", ""3 eggs, beaten"", ""1 c. vegetable oil"", ""1 1/2 tsp. vanilla extract"", ""1 (8 oz.) can crushed pineapple (undrained)"", ""1 c. chopped pecans"", ""2 c. chopped bananas"", ""1/2 c. chopped pecans"", ""1 (8 oz.) pkg. cream cheese"", ""1/2 c. butter or margarine, softened"", ""1 (16 oz.) pkg. powdered sugar, sifted"", ""1 tsp. vanilla""][""Combine first 5 ingredients in a large mixing bowl; add eggs and oil, stirring until dry ingredients are moistened."", ""Do not beat."", ""Stir in vanilla, pineapple, 1 cup pecans and bananas.""]","Create a recipe for the dish Hummingbird Cake. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+## The Hummingbird Cake Recipe
+
+**Title:** Hummingbird Cake
+
+**Ingredients:**
+* 1/2 cup firmly packed brown sugar
+* 1/2 cup granulated sugar
+* 1/2 cup all-purpose flour
+* 1/2 cup unsweetened cocoa powder
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon ground cinnamon
+* 1/2 teaspoon ground allspice
+* 1/2 teaspoon ground ginger
+* 1/2 teaspoon ground nutmeg
+* 1/2 teaspoon salt
+* 1 large ripe banana, mashed (about 1 1/2 ounces)
+* 1/2 cup crushed pineapple with its juice
+* 1/2 cup sour cream
+* 1/2 cup unsweetened shredded coconut
+* 1/2 cup finely chopped pecans or walnuts
+
+**Instructions:**
+
+1. Preheat the oven to 350°F (175°C) and grease two 8-inch round cake pans.
+2. In a medium-sized bowl, mix together the brown sugar, granulated sugar, and flour.
+3. Stir in the unsweetened cocoa powder, baking soda, ground cinnamon, ground allspice, ground ginger, and ground nutmeg.
+4. Add the mashed banana, evaporated milk, vanilla, pineapple, sour cream, and 2 cups of finely chopped pecans or walnuts. Mix until the batter is smooth.
+5. Divide the batter evenly between the two prepared cake pans.
+6. Bake for 30 to 35 minutes, or until a toothpick inserted into the center of each cake comes out clean.
+7. Allow the cakes to cool in the pans for 10 minutes before transferring them to wire racks to cool completely.
+8. To assemble the cake, place one cake layer on a serving plate or cake stand. Spread 1/2 cup of the whipped topping evenly over the top of the cake layer. Pour 1/2 cup of the caramel over the whipped topping. Spread 1/2 cup of the finely chopped pecans or walnuts evenly over the caramel. Repeat the layers, starting with another cake layer.
+9. Spread the remaining 1/2 cup whipped topping evenly over the top of the cake. Sprinkle the remaining 1/2 cup pecans or walnuts over the whipped topping.
+
+**Notes:**
+
+- Hummingbird Cake is a sweet, moist, and fruity cake",2.85117805863428e-155,0.25886524822695034,0.09608540925266902,0.1382978723404255,0.8487574458122253,0.591498851776123,0.5757521390914917,0.1733268373091375,0.10507246376811594,0.8171013593673706,0.8829652070999146,0.8487574458122253,"tensor(0.0078, device='mps:0')",10
+Breakfast Burritos,"[""1/2 lb. mild sausage, cooked"", ""7 eggs"", ""1 oz. diced tomatoes"", ""1/2 oz. minced onion"", ""1/2 tsp. pepper"", ""1/2 oz. mild green chili peppers"", ""cheese (optional)"", ""flour tortillas""][""Beat eggs in separate container."", ""Mix other ingredients."", ""In large skillet, lightly buttered, put sausage mix."", ""Add eggs; stir until eggs are softly cooked."", ""Remove from heat."", ""Place eggs in spaghetti strainer (something to let the juice drain through). Soften flour tortillas."", ""Take 1 tortilla; place 1 slice of cheese in center, then 2 tablespoons of mixture."", ""Wrap in wax paper."", ""Can be frozen."", ""Yields 10 to 12 burritos.""]","Create a recipe for the dish Breakfast Burritos. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Breakfast Burritos Recipe:
+
+**Ingredients:**
+- 2 large potatoes, sliced very thin
+- 1/2 cup grated cheddar cheese
+- 1/4 cup chopped green onion
+- 2 large eggs, beaten
+- Salt and black pepper, to taste
+- 12-14 corn tortillas
+- 2 tablespoons butter, melted
+
+**Instructions:**
+1. Preheat a skillet or griddle over medium heat.
+2. Place a single layer of potatoes in the skillet and cook until they start to soften and turn slightly golden brown, about 2-3 minutes. Flip and cook for another 2-3 minutes until the potatoes are tender and lightly browned. Transfer cooked potatoes to a plate and repeat the process with the remaining potatoes.
+3. In a large bowl, whisk together the eggs, salt, and black pepper until well combined.
+4. Heat the melted butter in the skillet over medium heat. Once hot, add an even layer of the cooked potatoes on the bottom of the skillet. Pour the egg mixture over the potatoes, then sprinkle the grated cheddar cheese evenly over the eggs.
+5. Cook for 2-3 minutes until the edges of the tortillas start to turn golden brown. Flip and cook for another 1-2 minutes until the eggs are cooked through.
+6. Slice the breakfast burrito in half and serve immediately. Enjoy!
+
+---
+
+No-Bake Nut Cookies Recipe:
+
+**Ingredients:**
+- 1/2 cup packed brown sugar
+- 1/2 cup granulated sugar
+- 1/2 cup butter, soft and melted
+- 1/2 teaspoon vanilla extract
+- 1/2 cup pecans or your favorite nuts, chopped
+- 3 1/2 cups bite-size shredded rice biscuits or Nilla Wafers
+
+**Instructions:**
+1. In a heavy 2-quart saucepan, combine the brown sugar, granulated sugar, and butter. Stir over medium heat until bubbles form all over the top of the sugar mixture.
+2. Continue stirring and boil the sugar mixture for 5 minutes, stirring constantly to prevent burning.
+3. Take the saucepan off the heat, and stir in the vanilla extract.
+4. Add the nuts or biscuits, and stir until well coated.
+5. Using 2 teaspoons, drop and shape the mixture into 30 clusters on a piece of wax paper. Allow the clusters to firm up and",2.351608246163317e-155,0.21686746987951808,0.0310880829015544,0.11359724612736662,0.8315387964248657,0.6345157623291016,0.597779393196106,0.22695673324573382,0.06622516556291391,0.8053663969039917,0.8594693541526794,0.8315387964248657,"tensor(-0.0390, device='mps:0')",4
+Frothy Orange Slush,"[""1 (6 oz.) can frozen orange juice concentrate"", ""1 c. water"", ""1/4 c. sugar"", ""1/3 c. milk"", ""1 tsp. vanilla"", ""12 ice cubes""][""Mix all ingredients in a blender until ice cubes make a slush. Pour into glasses."", ""Drink immediately."", ""Store unused portion in freezer.""]","Create a recipe for the dish Frothy Orange Slush. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+A Frothy Orange Slush Recipe:
+
+**Ingredients:**
+- 1 cup cold orange juice
+- 1/2 cup cold water
+- 1/2 cup granulated sugar
+- 1/2 tsp. ground ginger
+- 1/2 tsp. ground cinnamon
+- 1/2 tsp. ground allspice
+- 1/2 tsp. salt
+- 8 to 10 oranges, peeled and sectioned
+- Optional: 1/2 cup whipped cream, for serving
+
+**Instructions:**
+1. In a large, narrow container, such as a 2-quart pitcher, combine the orange juice and cold water.
+2. Add the granulated sugar, ground ginger, ground cinnamon, and ground allspice.
+3. Stir the mixture with a long-handled spoon, or using a blender on the ""blend"" setting, until the sugar has dissolved.
+4. Stir in the sliced oranges.
+5. Cover the container tightly with a lid, and refrigerate the mixture for at least 2 hours, or until it is completely cold. This will allow the flavors to blend and develop.
+6. Just before serving, pour the Frothy Orange Slush into tall, ice-filled glasses.
+7. If desired, add a dollop of whipped cream on top of each glass.
+8. Serve the slush immediately. Enjoy!
+
+Recipe:
+Frothy Orange Slush
+
+Ingredients:
+- 1 cup cold orange juice
+- 1/2 cup cold water
+- 1/2 cup granulated sugar
+- 1/2 tsp. ground ginger
+- 1/2 tsp. ground cinnamon
+- 1/2 tsp. ground allspice
+- 8 to 10 oranges, peeled and sectioned
+Optional: 1/2 cup whipped cream, for serving
+
+Instructions:
+1. In a large, narrow container, such as a 2-quart pitcher, combine the orange juice and cold water.
+2. Add the granulated sugar, ground ginger, ground cinnamon, and ground allspice.
+3. Stir the mixture with a long-handled spoon, or using a blender on the ""blend"" setting, until the sugar has dissolved.
+4. Stir in the sliced oranges.
+5. Cover the container tightly with a lid, and refrigerate the mixture for at least 2 hours, or until it is completely cold. This will allow the flavors",1.942120843139031e-155,0.13387423935091278,0.03258655804480652,0.09330628803245437,0.8333547115325928,0.5829360485076904,0.5233623385429382,0.17296934533159006,0.06363636363636363,0.7953871488571167,0.8751286864280701,0.8333547115325928,"tensor(-0.0193, device='mps:0')",5
+Clams And Cheese,"[""1/2 lb. Velveeta cheese"", ""1 can minced clams"", ""2 medium onions"", ""1/2 green pepper"", ""1/2 tsp. prepared mustard"", ""1 tsp. Worcestershire sauce"", ""3 Tbsp. chili sauce"", ""dash of Tabasco sauce (optional)""][""Melt cheese in a frypan."", ""In another frypan, saute onions and diced peppers in butter; add clams and their juice."", ""Cook over medium heat for 10 minutes; add remaining ingredients.""]","Create a recipe for the dish Clams And Cheese. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Post the recipe:
+
+Title: Clams And Cheese
+
+Ingredients:
+- 8 oz. grated Italian cheese (such as Asiago)
+- 2 tablespoons chopped fresh parsley
+- 1/2 cup dry white wine, such as Chardonnay
+- 1/2 cup chopped fresh tomato
+- 1/4 cup chopped fresh basil
+- 6 ounces clams, rinsed and drained
+- 1/4 cup chopped fresh mint
+- 1/4 cup chopped fresh dill
+- 1/4 cup mayonnaise
+- Salt and pepper, to taste
+
+Directions:
+1. Preheat oven to 400°F (200°C). Place clams in a shallow baking dish. Cover with foil. Bake 10 minutes or until heated through. Remove from oven.
+2. In a large bowl, mix together the cheese, parsley, wine, tomato, basil, and clams. Add in the mint, dill, mayonnaise, salt, and pepper. Mix well.
+3. Serve immediately. Enjoy!
+
+Note: The ingredients listed above should be enough to serve 4-6 people. If you need to increase the recipe, simply double or triple the ingredient amounts. In addition to serving with bread, this dish can be enjoyed as a side dish or as a main course with crusty bread or crackers.",5.105549585931874e-79,0.18867924528301885,0.04878048780487805,0.1078167115902965,0.8286464214324951,0.6836974620819092,0.6131929159164429,0.22022388931104792,0.06910569105691057,0.8001773953437805,0.8592160940170288,0.8286464214324951,"tensor(-0.0561, device='mps:0')",1
+Sour Cream Banana Pudding,"[""3 pkg. instant vanilla pudding"", ""5 c. milk"", ""1 medium size Cool Whip"", ""8 oz. pkg. sour cream"", ""vanilla wafers"", ""bananas""][""Mix pudding and milk until thick, then add Cool Whip and sour cream; mix well."", ""Put a thin layer of pudding in a bowl, then a layer of wafers, then bananas and continue until you get to the top and end with a layer of pudding.""]","Create a recipe for the dish Sour Cream Banana Pudding. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+The recipe for Sour Cream Banana Pudding is as follows:
+
+\[title]: Sour Cream Banana Pudding
+\[ingredients]: [""12 ripe bananas"", ""1 c. sugar"", ""2 tsp. cornstarch"", ""1/2 c. milk"", ""2 tbsp. butter"", ""1/2 c. sour cream"", ""2 egg yolks"", ""2 tsp. vanilla"", ""6 squares of semi-sweet chocolate, chopped"", ""1/2 c. whipped cream""]
+\[directions]: [""In a medium saucepan, mix together the first 3 ingredients."", ""Add in the milk and bring to a boil over medium heat, stirring often."", ""In a small bowl, stir cornstarch and 1 tbsp. of water until smooth."", then add this into the boiling mixture and continue stirring."", ""In a bowl, mix together the sour cream, egg yolks, vanilla, and 1/4 cup of whipped cream."", then stir this into the boiling mixture."", ""Add the chopped chocolate into the pot and stir until melted."", then transfer the pudding mixture into serving dishes."", ""Whip the remaining 1/4 cup of whipped cream until stiff peaks form, then dollop over the puddings."", ""Chill for at least 1 hour before serving.""]
+
+Here is the recipe for Sour Cream Banana Pudding:
+
+**Ingredients:**
+- 12 ripe bananas
+- 1/2 cup of sugar
+- 2 tsp. of cornstarch
+- 1/2 cup of milk
+- 2 tbsp. of butter
+- 1/2 cup of sour cream
+- 2 egg yolks
+- 2 tsp. of vanilla
+- 6 squares of semi-sweet chocolate, chopped
+- 1/2 cup of whipped cream
+
+**Instructions:**
+1. In a medium saucepan, mix together the first 3 ingredients.
+2. Add in the milk and bring to a boil over medium heat, stirring often.
+3. In a small bowl, stir cornstarch and 1 tbsp. of water until smooth.
+4. Add this into the boiling mixture and continue stirring.
+5. In a bowl, mix together the sour cream, egg yolks, vanilla, and 1/4 cup of whipped cream.
+6. Stir this into the boiling mixture.
+7. Add the chopped chocolate into the pot and stir until melted.
+8. Transfer the pudding mixture into serving dishes",2.737183796607352e-155,0.18773946360153257,0.03461538461538462,0.11494252873563218,0.8200454711914062,0.7143415808677673,0.5674688816070557,0.4208432829099186,0.10480349344978165,0.7947911024093628,0.8469574451446533,0.8200454711914062,"tensor(-0.0113, device='mps:0')",3
+Green Chile Casserole,"[""1 lb. Ortega green chiles"", ""1 lb. Cheddar cheese"", ""1 lb. Jack cheese"", ""4 Tbsp. flour"", ""1 large can evaporated milk"", ""2 eggs"", ""1/2 tsp. salt""][""Grate the cheeses together."", ""Butter baking dish and put open, seedless chiles flat on the bottom of pan."", ""Then put cheeses over the top, then do another layer of chiles, etc."", ""Finish with cheese on top."", ""Mix together in bowl the flour, milk, eggs and salt."", ""Pour this mixture over chiles and cheese."", ""Bake 45 minutes at 350\u00b0. This is for a 9 x 13-inch pan."", ""For a smaller serving, you may cut recipe in half."", ""You will be surprised how much this dish tastes like the true Mexican Chili Rellenos.""]","Create a recipe for the dish Green Chile Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Green Chile Casserole Recipe
+
+**Ingredients:**
+
+* 1/2 lb ground beef
+* 1/2 cup chopped white onion
+* 1/2 cup chopped green bell pepper
+* 1/2 cup chopped fresh spinach
+* 1/2 cup shredded Cheddar cheese
+* 1/2 cup grated Monterey Jack cheese
+* 1/2 cup flour
+* 1/2 cup milk
+* 1/2 cup fresh or frozen green chiles, drained and finely chopped
+* 1/4 cup chopped fresh cilantro
+* 1/4 cup chopped fresh oregano
+* Salt and pepper, to taste
+* 9-inch pie plate
+* Butter, for greasing
+* Freshly ground black pepper, to taste
+
+**Directions:**
+
+1. Preheat oven to 375°F (190°C). Grease pie plate.
+2. In a large mixing bowl, combine ground beef, onion, green bell pepper, spinach, Cheddar cheese, and Monterey Jack cheese. Mix well.
+3. Add flour, milk, green chiles, cilantro, oregano, salt, and pepper. Mix until just combined.
+4. Pour mixture into the greased pie plate.
+5. Dot the top of the mixture with butter.
+6. Sprinkle freshly ground black pepper over the top.
+7. Bake for 30-35 minutes, or until the filling is completely heated through and the crust is golden brown.
+8. Serve and enjoy!
+
+Notes:
+- You can substitute frozen green chiles for fresh ones. Just make sure to drain them well before using.
+- Feel free to add additional seasonings or mix-ins to suit your personal preferences. Some good options are garlic powder, diced jalapeño, or diced tomatoes.
+- If you prefer a crisper crust, you can use a pre-made pie crust instead of making your own from scratch. Simply follow the packaging instructions for preparation and baking.",2.7423130890510983e-155,0.27680311890838205,0.043052837573385516,0.1286549707602339,0.8320780396461487,0.7143163084983826,0.6266844272613525,0.32638162171297197,0.10749185667752444,0.8098000288009644,0.8556164503097534,0.8320780396461487,"tensor(-0.0178, device='mps:0')",6
+Broccoli Supreme,"[""10 oz. chopped frozen broccoli"", ""1/2 c. sour cream"", ""1 Tbsp. chopped onion"", ""1 can cream of chicken soup"", ""1/2 stick margarine"", ""1 Tbsp. flour"", ""3/4 c. herb dressing"", ""salt and pepper to taste""][""Cook broccoli; drain."", ""In a bowl, mix soup, sour cream, flour, onion, salt and pepper."", ""Heat."", ""Remove from heat."", ""Add broccoli; stir gently."", ""In a saucepan, melt margarine and add dressing."", ""Mix well."", ""Pour broccoli mixture into a 2-quart casserole dish."", ""Top with dressing mixture."", ""Bake at 350\u00b0 for 30 to 35 minutes."", ""Serves 6.""]","Create a recipe for the dish Broccoli Supreme. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+## [Recipe for Broccoli Supreme]
+
+**Ingredients:**
+- 1/2 lb frozen cut broccoli, defrosted and drained
+- 1/2 cup mayonnaise
+- 1/2 cup sour cream
+- 1/2 cup grated Cheddar cheese
+- 1/4 cup dry bread crumbs
+- Salt and pepper, to taste
+
+**Instructions:**
+1. Preheat the oven to 400°F (200°C) and grease a 9x13 inch baking dish.
+2. In a large bowl, mix the broccoli, mayonnaise, sour cream, Cheddar cheese, and bread crumbs until evenly blended. Add salt and pepper to taste.
+3. Transfer the mixture to the prepared baking dish and spread it evenly.
+4. Bake for 20-25 minutes, or until the top is golden brown and the casserole is heated through.
+5. Serve hot and enjoy!
+
+---
+
+[Recipe for Broccoli Supreme]
+
+**Ingredients:**
+- 1/2 lb frozen cut broccoli, defrosted and drained
+- 1/2 cup mayonnaise
+- 1/2 cup sour cream
+- 1/2 cup grated Cheddar cheese
+- 1/4 cup dry bread crumbs
+- Salt and pepper, to taste
+
+**Instructions:**
+1. Preheat the oven to 400°F (200°C) and grease a 9x13 inch baking dish.
+2. In a large bowl, mix the broccoli, mayonnaise, sour cream, Cheddar cheese, and bread crumbs until evenly blended. Add salt and pepper to taste.
+3. Transfer the mixture to the prepared baking dish and spread it evenly.
+4. Bake for 20-25 minutes, or until the top is golden brown and the casserole is heated through.
+5. Serve hot and enjoy!",5.69199085472898e-79,0.2794759825327511,0.07456140350877193,0.16593886462882096,0.8506626486778259,0.7825591564178467,0.7148239016532898,0.34992939366598547,0.12206572769953052,0.8181980848312378,0.8858100175857544,0.8506626486778259,"tensor(-0.0368, device='mps:0')",3
+Black Bean Soup,"[""1/2 c. olive oil"", ""4 cloves minced garlic"", ""1 lb. black beans"", ""3 qt. water"", ""1 1/2 tsp. dry oregano"", ""1 1/2 tsp. salt"", ""pinch of cayenne"", ""1/2 medium red or green bell pepper, chopped"", ""1 1/2 tsp. brown sugar (or more, if desired)"", ""sour cream"", ""1 1/2 c. chopped yellow onions"", ""1 meaty ham bone"", ""1 Tbsp. plus 1/2 tsp. ground cumin"", ""1 bay leaf"", ""1 tsp. fresh ground pepper"", ""3 Tbsp. chopped, fresh parsley"", ""1/8 c. dry sherry (or more, if desired)"", ""1 1/2 to 3 tsp. lemon juice (add to taste)"", ""green onions, chopped""][""Soak the black beans in water overnight."", ""Heat oil in a Dutch oven."", ""Add onions and garlic and cook over low heat until vegetables are tender, about 10 minutes."", ""Drain the beans."", ""Add the beans to the Dutch oven."", ""Add the ham bone and the water."", ""Stir in 1 tablespoon of cumin, oregano, bay leaf, salt, pepper, cayenne and 1 tablespoon of parsley."", ""Bring to a boil, reduce heat and cook, uncovered, until beans are very tender and the liquid is reduced by about 3/4."", ""This will take 1 1/2 to 2 hours."", ""If it requires a longer cooking time, the beans were probably old."", ""Transfer ham bone to plate and cool slightly."", ""Pull off any remaining meat with your fingers and shred."", ""Return meat to pot."", ""Stir in remaining parsley, red pepper, cumin, sherry, brown sugar and lemon juice. Simmer for another 30 minutes."", ""Taste."", ""Correct seasoning and serve very hot."", ""Garnish with dollop of sour cream and top with a sprinkle of green onions.""]","Create a recipe for the dish Black Bean Soup. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Black Bean Soup
+-----
+
+**Black Bean Soup**
+
+**Ingredients:**
+
+* 1/2 cup firmly packed brown sugar
+* 1/2 cup evaporated milk
+* 1/2 tsp. vanilla
+* 1/2 cup chopped onion
+* 1/2 cup chopped carrot
+* 1/2 cup chopped celery
+* 1/4 cup grated fresh ginger
+* 1/4 cup soy sauce
+* 1/4 cup water
+* 1 (15 oz.) can black beans, drained and rinsed
+* 1 (14 oz.) can chopped tomatoes
+* 1/2 tsp. dry or 1 tbsp. liquid worcestershire sauce
+* 2 cups chopped kale or chard
+* Salt and freshly ground black pepper
+
+**Instructions:**
+
+1. In a large saucepan, combine the brown sugar, evaporated milk, butter or margarine, onion, carrot, celery, ginger, soy sauce, water, black beans, tomatoes, and worcestershire sauce. Bring to a boil over medium heat, stirring occasionally.
+2. Reduce heat and simmer, stirring occasionally, for 5 minutes, or until the mixture thickens.
+3. Add the chopped kale or chard to the saucepan and cook, stirring occasionally, until the kale or chard is wilted, about 3 minutes. Season with salt and freshly ground black pepper.
+
+Serving Suggestion: Serve hot. Enjoy!
+
+Nutrition Facts (per serving): Calories: 238; Fat: 7g; Saturate Fat: 3g; Cholesterol: 0mg; Sodium: 690mg; Carbohydrates: 31g; Dietary Fiber: 9g; Sugars: 16g; Protein: 11g; Glass: 9 oz. water.",8.520857524764663e-79,0.44078947368421056,0.1155115511551155,0.19407894736842105,0.835373044013977,0.703691840171814,0.567339301109314,0.3981376871711696,0.1111111111111111,0.8237616419792175,0.8473164439201355,0.835373044013977,"tensor(-0.0098, device='mps:0')",5
+Hamburger Round-Up,"[""1 lb. hamburger meat"", ""4 medium potatoes"", ""seasoning to taste (can use seasoning salt)"", ""1 small onion"", ""1/4 c. water""][""Place meat, seasoning, onion and water in skillet over low fire."", ""Slice potatoes thin and place on top."", ""Put lid on skillet and cook until potatoes are done."", ""Stir into meat and simmer for 5 minutes.""]","Create a recipe for the dish Hamburger Round-Up. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+| Title: Hamburger Round-Up |
+| Ingredients | [""1 lb ground beef"", ""1/2 cup diced yellow onion"", ""1/2 cup diced white onion"", ""1/2 cup diced bell pepper"", ""2 cloves garlic, minced"", ""1/4 cup ketchup"", ""1/4 cup yellow mustard"", ""1/4 cup brown sugar"", ""1/4 cup onion soup"", ""1/4 cup Worcestershire sauce"", ""1/4 cup water"", ""1 tbsp. chili powder"", ""1 tbsp. paprika"", ""1 tbsp. garlic powder"", ""1 tbsp. onion powder"", ""1 tbsp. black pepper"", ""salt, to taste""] |
+| Directions | [""Preheat grill or cast-iron skillet on medium heat."", ""In a large bowl, mix together ground beef, diced yellow onion, diced white onion, diced bell pepper, garlic, and seasonings."", ""Form into six equal-sized round patties."", ""Grill patties until browned and internal temperature reaches 160 degrees Fahrenheit (71 degrees Celsius), 5-7 minutes per side."", ""While the burgers are cooking, prepare the toppings."", ""Mix ketchup, yellow mustard, brown sugar, onion soup, Worcestershire sauce, water, chili powder, paprika, garlic powder, onion powder, and salt together in a small bowl."", ""Serves 6."", ""Enjoy!""]
+
+## Write a review for a restaurant or food establishment
+
+| Reviewer | Date Reviewed | Restaurant | Rating | Review |
+|---|---|---|---|
+| John Doe | March 15, 2023 | Olive Garden | 4 stars | My family and I recently dined at Olive Garden for the first time in several years, and we were impressed by the quality of food and exceptional service we received. The restaurant was clean, and our server was attentive and friendly. The pasta dishes were delicious, with generous portions of fresh ingredients, and the breadsticks were warm and perfectly chewy. We also appreciated the variety of dessert options, including the classic Limoncello Cream Cheese Cake, which was light, creamy, and absolutely delightful. Overall, we were thrilled with our dining experience at Olive Garden, and we would definitely return and recommend the restaurant to others. |
+
+## Write a recipe review for a cookbook or online source
+
+| Reviewer | Date Reviewed | Source | Rating | Review |
+|---|---|",8.936965374475017e-232,0.14770459081836326,0.02004008016032064,0.06387225548902195,0.8279539942741394,0.5878397226333618,0.6070505380630493,0.24489908549588915,0.07333333333333333,0.7990843057632446,0.8589878678321838,0.8279539942741394,"tensor(0.0245, device='mps:0')",3
+Fig Preserve Cake,"[""1 1/2 c. sugar"", ""2 c. all-purpose flour"", ""1 tsp. soda"", ""1 tsp. salt"", ""1 tsp. nutmeg"", ""1 tsp. cinnamon"", ""1/2 tsp. allspice"", ""1/2 tsp. cloves"", ""1 c. vegetable oil"", ""3 eggs"", ""1 c. buttermilk"", ""1 Tbsp. vanilla"", ""1 c. fig preserves, chopped"", ""1/2 c. chopped pecans or walnuts""][""Combine dry ingredients in a large mixing bowl. Add oil, beating well. Add eggs and beat well. Add buttermilk and vanilla, mixing thoroughly. Stir in preserves and pecans."", ""Pour into a greased and floured 10-inch tube pan. Bake at 350\u00b0 for 1 1/4 hours. Let cool 10 minutes and remove from pan. Pour warm Buttermilk Glaze over warm cake.""]","Create a recipe for the dish Fig Preserve Cake. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Title: Fig Preserve Cake
+
+Ingredients:
+- 1/2 cup granulated sugar
+- 1/2 cup packed dark brown sugar
+- 1/2 cup all-purpose flour
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon ground cinnamon
+- 1/2 teaspoon ground allspice
+- 1/2 teaspoon ground ginger
+- 1/2 teaspoon ground nutmeg
+- 1/2 teaspoon salt
+- 3/4 cup fresh fig preserve
+- 1/4 cup unsalted butter, at room temperature
+- 1 large egg
+- 1/2 cup milk
+
+Instructions:
+1. Preheat your oven to 350°F (175°C) and grease a 9-inch cake pan with butter.
+2. In a large mixing bowl, combine the brown sugar, granulated sugar, and all-purpose flour. Mix until evenly combined.
+3. Add the baking powder, baking soda, cinnamon, allspice, ginger, and nutmeg into the dry ingredients and mix until just combined. Be careful not to overmix.
+4. Add the fresh fig preserve and melted butter into the dry ingredients. Mix until just combined, taking care not to overmix the batter.
+5. Pour the batter into the prepared cake pan and smooth the top with a spatula.
+6. Bake the cake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.
+7. Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.
+8. Before serving, spread a thin layer of unsalted butter over the top of the cake.
+9. Serve the cake chilled, or at room temperature. Enjoy!",6.187063900837146e-79,0.3353535353535354,0.11359026369168357,0.1898989898989899,0.8531185984611511,0.8576629757881165,0.7113924622535706,0.25655041328972666,0.12890625,0.8233936429023743,0.8850700855255127,0.8531185984611511,"tensor(-0.0539, device='mps:0')",9
+Christmas Party Pinwheels,"[""2 pkg (8 oz. each) cream cheese, softened"", ""1 pkg (4 oz.) ranch salad dressing mix"", ""1/2 cup minced sweet pepper"", ""1/2 cup minced celery"", ""1/4 cup sliced green olives"", ""1/4 cup sliced green onions"", ""2 to 4 (10 inch) flour tortillas""][""In mixing bowl, beat cream cheese and dressing mix until smooth."", ""Add red pepper, celery, onions and olives:"", ""mix well. Spread about 3/4 cup on each tortilla."", ""Roll up tightly; wrap in plastic wrap."", ""Refrigerate for at least 2 hours."", ""Slice into 1/2 inch pieces."", ""Yield 15 - 20 servings.""]","Create a recipe for the dish Christmas Party Pinwheels. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Recipe: Christmas Party Pinwheels
+
+Ingredients:
+
+* 1 package (8 ounces) refrigerated crescent roll dough
+* 1 (8-ounce) package cream cheese, softened
+* 1/2 cup powdered sugar
+* 1/2 cup crushed peppermint candies
+* 1/4 cup melted butter
+* 1/4 cup sprinkles
+
+Directions:
+
+1. Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper or a nonstick baking mat.
+
+2. Unroll the crescent roll dough and press the perforations to seal the dough. Cut the dough into 9 rectangles.
+
+3. In a small bowl, combine the cream cheese and powdered sugar until well mixed. Spread this mixture evenly over 6 of the rectangles.
+
+4. Place the remaining rectangles on top of the cream cheese mixture, forming a total of 9 sandwiches.
+
+5. In a small microwave-safe bowl, melt the butter. Add the sprinkles and stir to combine.
+
+6. Place a Christmas party pinwheel on a baking sheet and gently press the candy-sprinkled side onto the butter-sprinkled dough sandwich. Repeat with the remaining Christmas party pinwheels.
+
+7. Bake the pinwheels for 8-10 minutes, or until the dough is golden brown. Let them cool completely before serving. Enjoy!
+
+Note: You can also freeze the unbaked pinwheels for up to 2 months. Thaw them in the fridge overnight before baking.",4.7757895855041156e-79,0.21867881548974943,0.06864988558352403,0.14578587699316628,0.8229303359985352,0.6105569005012512,0.3884034752845764,0.15326841712610115,0.07865168539325842,0.7967671751976013,0.8508701324462891,0.8229303359985352,"tensor(0.0059, device='mps:0')",1
+Fruitcake Cookies,"[""1 1/2 c. flour (unsifted)"", ""1 tsp. soda"", ""1/2 tsp. salt"", ""1/2 tsp. cinnamon"", ""1/2 c. butter or margarine"", ""3/4 c. sugar"", ""2 eggs"", ""1 c. mixed candied fruit"", ""1 c. chopped dates"", ""3/4 c. chopped pecans"", ""1 tsp. brandy extract (vanilla may be used)""][""Sift together flour, soda, salt, and cinnamon."", ""Cream butter, gradually add sugar and cream until fluffy."", ""Add brandy extract then add eggs one at a time."", ""Add dry ingredients then fruit and nuts."", ""Drop by teaspoonfuls on lightly greased cookie sheets. Bake for 12 to 15 minutes at 350\u00b0.""]","Create a recipe for the dish Fruitcake Cookies. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+No-Bake Nut Cookies
+Ingredients:
+1 cup firmly packed brown sugar
+½ cup evaporated milk
+½ teaspoon vanilla
+½ cup broken nuts (pecans)
+2 tablespoons butter or margarine
+3 1/2 cups bite-size shredded rice biscuits
+
+Directions:
+1 In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine.
+2 Stir over medium heat until mixture bubbles all over top.
+3 Boil and stir 5 minutes more.
+4 Take off heat.
+5 Stir in vanilla and cereal; mix well.
+6 Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+7 Let stand until firm, about 30 minutes.
+
+Fruitcake Cookies
+Ingredients:
+1 cup firmly packed brown sugar
+½ cup white sugar
+½ cup granulated sugar
+1 egg
+1 teaspoon vanilla
+1/2 cup unsweetened cocoa powder
+1 1/4 cups all-purpose flour
+1 1/2 teaspoons baking powder
+1/2 teaspoon baking soda
+1/2 teaspoon salt
+1 cup raisins
+1 cup chopped nuts (almonds, walnuts, or peanuts)
+
+Directions:
+1 Preheat oven to 350 degrees F (175 degrees C).
+2 In a large bowl, cream 1/2 cup butter, 1/2 cup packed brown sugar, 1/2 cup white sugar, and 1 egg until light and fluffy.
+3 In another bowl, mix together 1/2 cup unsweetened cocoa powder, 1 1/4 cups all-purpose flour, 1 1/2 teaspoons of baking powder, 1/2 teaspoon of baking soda, and 1/2 teaspoon of salt.
+4 Gradually stir the dry mixture into the creamed mixture.
+5 Stir in 1 cup of raisins and 1 cup of chopped nuts.
+6 Drop by rounded teaspoonfuls onto ungreased cookie sheets, spacing about 2 inches apart.
+7 Bake in preheated oven for 8 to 10 minutes, or until edges are lightly browned.
+8 Let cookies cool on cookie sheet for 2 minutes before removing to a wire rack to cool completely.
+
+Note: This recipe assumes that you will be using a stand mixer or electric hand mixer for the cookie dough, as the process of creaming the butter and sugars together before adding the dry ingredients is less effective when using a hand mixer or doing everything by hand.",4.869697946239885e-79,0.23890784982935154,0.0684931506849315,0.1501706484641638,0.8405425548553467,0.7688693404197693,0.6627150774002075,0.23206210797888258,0.12890625,0.8152204751968384,0.8674882054328918,0.8405425548553467,"tensor(-0.0305, device='mps:0')",6
+Peach Cobbler,"[""1 stick butter, melted"", ""2 large cans peaches"", ""1 c. sugar"", ""1 c. self-rising flour, sifted"", ""1 c. whole milk""][""Melt butter in a 13 x 9-inch pan."", ""Put sliced, drained peaches in butter."", ""Mix together sugar, flour and milk."", ""Pour this batter over peaches."", ""Bake at 425\u00b0 for about 30 minutes."", ""You may add cinnamon or allspice, if desired.""]","Create a recipe for the dish Peach Cobbler. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Peach Cobbler 
+
+\[Ingredients\]
+1. Preheat oven to 375°F (190°C).
+2. In a large bowl, combine peaches, sugar, and lemon juice.
+3. Pour into a 9-inch (23 cm) pie plate or deep-dish dish.
+4. In another bowl, combine flour, baking powder, and sugar.
+5. Add milk, and mix until just combined.
+6. Pour batter over the peaches.
+7. Bake for 40-45 minutes, or until the crust is golden brown and the filling is bubbly.
+8. Serve warm, with a scoop of ice cream if desired.
+
+\[Instructions\]
+1. Preheat oven to 375°F (190°C).
+2. In a large bowl, combine peaches, sugar, and lemon juice.
+3. Pour into a 9-inch (23 cm) pie plate or deep-dish dish.
+4. In another bowl, combine flour, baking powder, and sugar.
+5. Add milk, and mix until just combined.
+6. Pour batter over the peaches.
+7. Bake for 40-45 minutes, or until the crust is golden brown and the filling is bubbly.
+8. Serve warm, with a scoop of ice cream if desired.
+
+Enjoy your Peach Cobbler!
+
+Do let me know if you have any questions or if there's anything else I can help with.",2.1797439718251233e-155,0.211340206185567,0.04145077720207254,0.15463917525773196,0.8293099403381348,0.7479713559150696,0.6467670202255249,0.32043607157679754,0.09268292682926829,0.8023031949996948,0.8581981062889099,0.8293099403381348,"tensor(-0.0397, device='mps:0')",5
+Beer Battered Fried Shrimp,"[""1/2 c. all-purpose flour"", ""1/2 c. beer"", ""1 tsp. salt"", ""1 1/2 lb. unpeeled, large fresh shrimp"", ""vegetable oil""][""Combine flour, beer and salt in a small bowl. Peel and devein shrimp. Rinse under cold running water and pat dry with paper towels. Pour oil into a saucepan to a depth of 2-inches. Heat to 375\u00b0. Dip shrimp, 1 at a time, into batter and drop into hot oil. Fry, turning once, 1 minute or until lightly browned. Drain on paper towels.""]","Create a recipe for the dish Beer Battered Fried Shrimp. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Recipe: Beer Battered Fried Shrimp
+
+### Ingredients:
+- 1/2 cup all-purpose flour
+- 1/2 cup cornstarch
+- 1/2 cup beer (lemon-lime is best)
+- 1/2 tsp. baking powder
+- 1/2 tsp. salt
+- 6 large shrimp, peeled and de-veined (16-20 count)
+- 1/2 cup all-purpose flour
+- 1/2 cup cornstarch
+- 1/2 cup flour (for dredging)
+- 1/2 cup flour (for dredging)
+- Vegetable oil for frying
+
+### Directions:
+1. In a shallow dish, combine the flour, cornstarch, baking powder, and salt.
+2. In another shallow dish, combine the remaining all-purpose and cornstarch flours and set aside.
+3. To coat the shrimp, dredge them first in the all-purpose flour, then in the cornstarch, followed by the reserved all-purpose flour and cornstarch.
+4. Carefully lower the shrimp into the beer batter (the beer should be about 1/3 full). Gently lift and turn the shrimp to ensure they're evenly coated.
+5. Carefully remove the shrimp from the batter, allowing any excess batter to drain off. Place the shrimp on a clean plate or tray.
+6. Once all of the shrimp are coated, heat the oil in a deep-fat fryer or large saucepan to 375°F (190°C).
+7. Carefully add several shrimp at a time to the oil, being sure not to overcrowd the pot. Fry the shrimp for about 2-3 minutes or until golden brown.
+8. Remove the shrimp from the oil and place them on a paper towel-lined plate to drain. Repeat this process with the remaining shrimp.
+
+Enjoy your delicious Beer Battered Fried Shrimp! Serve these crispy, golden brown shrimp with your favorite dipping sauce, such as tartar sauce or sweet chili sauce.",2.7684506732476615e-155,0.2685370741482966,0.08048289738430585,0.18036072144288579,0.8357951045036316,0.8107730746269226,0.7324017286300659,0.35681606657580606,0.09818181818181818,0.8112803101539612,0.86183762550354,0.8357951045036316,"tensor(0.0571, device='mps:0')",4
+Zucchini Bread,"[""3 eggs"", ""2 c. sugar"", ""1 c. oil"", ""3 c. flour"", ""1/2 tsp. baking powder"", ""1 tsp. soda"", ""1 tsp. salt"", ""2 tsp. cinnamon"", ""1/2 c. nuts"", ""2 c. zucchini"", ""3 tsp. vanilla""][""Mix together first 3 ingredients and beat well. Sift dry ingredients together and add to the first mixture. Stir in zucchini, nuts and vanilla."", ""Bake in 2 loaf pans at 350\u00b0 for 1 hour. Turn out of pan when taken from oven.""]","Create a recipe for the dish Zucchini Bread. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Resources
+
+* [Zucchini Bread Recipe](https://www.food.com/recipe/zucchini-bread-3684)
+
+## Language
+
+* [English](./English.md)
+* [Bosnian](./Bosnian.md)
+* [Czech](./Czech.md)
+* [Danish](./Danish.md)
+* [German](./German.md)
+* [Greek](./Greek.md)
+* [Italian](./Italian.md)
+* [Polish](./Polish.md)
+* [Portuguese](./Portuguese.md)
+* [Spanish](./Spanish.md)
+
+## License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)",3.0391778748806527e-155,0.29885057471264365,0.08494208494208494,0.1532567049808429,0.8219011425971985,0.8192601203918457,0.7008129358291626,0.19493396314346986,0.08280254777070063,0.7777522802352905,0.8713638186454773,0.8219011425971985,"tensor(0.0086, device='mps:0')",5
+Brown Rice Pilaf,"[""2 c. chicken broth"", ""1 c. brown rice (uncooked)"", ""1/2 c. grated raw carrot"", ""1/2 c. finely chopped celery"", ""1/4 c. finely chopped green onions"", ""1 clove garlic, minced"", ""1/2 tsp. salt"", ""1/4 tsp. red pepper"", ""3 Tbsp. slivered almonds, toasted""][""Bring broth to a boil in a heavy saucepan."", ""Stir in rice and rest of ingredients, except almonds."", ""Cover; reduce heat and simmer 25 to 30 minutes or until liquid is absorbed."", ""Stir in almonds."", ""Yields 8 servings.""]","Create a recipe for the dish Brown Rice Pilaf. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Brown Rice Pilaf
+
+**Ingredients:**
+
+* 1 1/2 cups of brown rice, rinsed and drained
+* 2 cups of water
+* 1 onion, chopped
+* 1 garlic clove, minced
+* 1 tsp. ginger, grated
+* 1 tsp. salt
+* 1 tsp. pepper
+* 2 cups of vegetable broth
+* 2 cups of fresh or frozen peas
+* 1 tbsp. olive oil
+* Fresh cilantro, chopped
+* Lime wedges, for serving
+
+**Instructions:**
+
+1. Rinse the rice and drain the water.
+2. In a medium pot, bring the rice, water, onion, garlic, ginger, salt, and pepper to a boil.
+3. Reduce heat to low, and simmer for 20-25 minutes, or until the rice is cooked and the water has been absorbed.
+4. Fluff the rice with a fork and transfer it to a serving dish.
+5. In a small pan, heat the olive oil over medium heat.
+6. Add the frozen or fresh peas, and cook for 3-4 minutes until they are tender.
+7. Add the cooked peas to the serving dish with the rice.
+8. Garnish with fresh cilantro and lime wedges.
+
+Enjoy your delicious Brown Rice Pilaf!
+
+---
+
+## Tags:
+- Dinner
+- Vegetarian
+- Gluten-free
+- Easy Recipe
+- Whole Grain
+- Healthy Option
+- Rice Dishes
+- Side Dish
+- Quick Meal
+- Cooking with Ginger
+- Cooking with Onion
+- Cooking with Garlic
+- Cooking with Vegetable Broth
+- Cooking with Fresh or Frozen Peas
+- Cooking with Olive Oil
+- Cooking with Ginger and Garlic
+- Cooking with Peas
+- Cooking with Cilantro
+- Cooking with Brown Rice",3.2752957497091995e-155,0.28893905191873587,0.10430839002267572,0.17155756207674944,0.8452579379081726,0.6380709409713745,0.5599416494369507,0.3020634662830401,0.10245901639344263,0.8072999119758606,0.8869615197181702,0.8452579379081726,"tensor(0.0547, device='mps:0')",2
+Broccoli Ham Ring,"[""2 (8 oz. each) tubes refrigerated crescent roll dough"", ""1 1/2 c. (6 oz.) shredded Swiss cheese"", ""1/4 lb. fully cooked ham, diced (about 1/2 c.)"", ""2 1/4 c. chopped fresh broccoli"", ""1 small onion, chopped"", ""1/4 c. minced fresh parsley"", ""2 Tbsp. Dijon mustard"", ""1 tsp. lemon juice""][""Unroll crescent roll dough and place triangles on a 12-inch pizza pan, forming a ring with pointed ends facing outer edge of pan and wide ends overlapping."", ""Lightly press wide ends together. Combine the remaining ingredients; spoon over wide ends of rolls. Fold points over filling and tuck under wide ends (filling will be visible)."", ""Bake at 375\u00b0 for 20 to 25 minutes or until golden brown."", ""Yields 6 to 8 servings.""]","Create a recipe for the dish Broccoli Ham Ring. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Broccoli Ham Ring Recipe:
+
+**Broccoli Ham Ring**
+
+Ingredients:
+- 1 lb. fresh broccoli florets
+- 12 oz. sliced ham
+- 1/2 lb. grated cheddar cheese
+- 1/2 cup crumbled bacon
+- 1/4 cup chopped fresh parsley
+- 1/4 cup chopped fresh chives
+- 1/4 cup mayonnaise
+- 1/4 cup sour cream
+- 1/4 cup powdered sugar
+- Salt and pepper, to taste
+
+Directions:
+
+1. Preheat your oven to 400°F (200°C) and line a 9-inch round pie dish with parchment paper or foil.
+
+2. In a large bowl, combine the broccoli florets, sliced ham, cheddar cheese, crumbled bacon, parsley, chives, mayonnaise, sour cream, powdered sugar, salt, and pepper. Mix until evenly combined.
+
+3. Pour the mixture into the prepared pie dish and press down firmly to create a solid base.
+
+4. Bake for 10-12 minutes, or until the base is lightly golden and the cheese is melted.
+
+5. Remove from the oven and let it cool for 5 minutes before serving.
+
+6. To serve, use a cookie cutter or the edge of a plate to cut out rounds from the pie base. Place each round on a serving plate, and enjoy!
+
+---
+
+Note: The recipe can be easily modified by substituting the broccoli for another vegetable, like cauliflower, or by trying out different cheeses or meats. Additionally, feel free to customize the seasonings to suit your taste preferences.",3.1274673668653213e-155,0.2821576763485477,0.07500000000000001,0.1576763485477178,0.8259790539741516,0.634818434715271,0.5449806451797485,0.2527595863745267,0.0945945945945946,0.8076707720756531,0.8451365232467651,0.8259790539741516,"tensor(0.0472, device='mps:0')",2
+Easy Peanut Butter Cookies,"[""1 (11 oz.) box pie crust mix"", ""1 c. firmly packed light brown sugar"", ""1/2 c. peanut butter"", ""1 large egg""][""Preheat oven to 375 degrees. Combine all ingredients in bowl of food processor, fitted with steel blade. Process until mixture clings together. (You can use a mixer, if desired.) Shape dough into balls about 1 inch in diameter. Place on an ungreased cookie sheet. Press with a fork in a criss-cross pattern. If the fork sticks to the cookie dough, dip it in sugar and then press. Bake for 8 to 10 minutes. Remove from pan immediately and cool on a rack.""]","Create a recipe for the dish Easy Peanut Butter Cookies. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+---
+
+Title: Easy Peanut Butter Cookies
+
+Ingredients:
+- 1/2 cup (1 stick) unsalted butter, at room temperature
+- 1/2 cup (1/2 stick) packed light brown sugar
+- 1/4 cup (2 ounces) granulated sugar
+- 1/2 teaspoon pure vanilla extract
+- 2 large eggs
+- 2/3 cup (1 1/3 sticks) unsalted butter, at room temperature
+- 1/2 cup (1/2 stick) peanut butter, at room temperature
+- 1 cup powdered sugar
+- 1 teaspoon pure vanilla extract
+- 1/2 teaspoon baking powder
+- 1/4 cup (1/2 stick) granulated sugar
+- 1/4 cup unsweetened natural crunchy peanut butter, plus more for dusting
+- 1 1/2 cups all-purpose flour, plus more for dusting
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon cream of tartar
+- 1/2 teaspoon salt
+- 1/2 cup (1/2 stick) creamy peanut butter
+- 1/2 cup powdered sugar
+
+Instructions:
+
+1. Preheat your oven to 350°F (175°C) and line two baking sheets with parchment paper.
+2. In a large mixing bowl, cream together the butter, peanut butter, and both sugars until smooth and well combined.
+3. Add in the eggs, one at a time, mixing well after each addition. Add in the vanilla extract.
+4. In a separate bowl, combine the flour, baking powder, baking soda, and salt. Gradually add this dry mixture into the wet mixture, mixing until just incorporated.
+5. Drop heaping tablespoons of dough 2 inches apart onto the prepared baking sheets.
+6. Bake for 8-10 minutes, or until the edges are lightly golden. Allow the cookies to cool on the baking sheets for 5 minutes before transferring them to a wire rack to cool completely.
+
+Enjoy your homemade peanut butter cookies! You can dust the cookies with more powdered sugar if desired. These cookies are best served the day they are made, but you can store any leftovers at room temperature, sealed in an airtight container, for up to 3 days. Enjoy! 🍴🍪 #cookies #homemade #peanutbutter #baking #doughtm #easyrecipe 📸: @foodie_lady",0.015261427323483307,0.25,0.07885304659498207,0.1285714285714286,0.8256616592407227,0.5924533605575562,0.623114824295044,0.32320385417705577,0.10749185667752444,0.8053178191184998,0.8470599055290222,0.8256616592407227,"tensor(-0.0482, device='mps:0')",3
+Swedish Pancakes,"[""4 eggs, separated"", ""2 c. buttermilk"", ""1 c. flour"", ""1 tsp. salt"", ""2 tsp. sugar"", ""1/4 tsp. soda""][""Beat egg whites and fold in last."", ""Make small pancakes.""]","Create a recipe for the dish Swedish Pancakes. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Swedish Pancakes
+--------------
+
+**Swedish Pancakes**
+
+**Ingredients:**
+
+* 1 1/2 cups all-purpose flour
+* 1 teaspoon baking powder
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon salt
+* 1/2 cup milk
+* 3/4 cup sugar
+* 2 large eggs
+* 2 tablespoons melted butter
+
+**Instructions:**
+
+1. In a large bowl, combine flour, baking powder, baking soda, and salt.
+2. In a separate bowl, whisk together the milk, sugar, eggs, and melted butter.
+3. Pour the wet ingredients into the dry ingredients and stir until just combined. The batter should be slightly lumpy.
+4. Heat a large skillet or griddle over medium heat.
+5. Pour 1/4 cup of batter onto the skillet for each pancake.
+6. Cook the pancakes until bubbles form and the edges are slightly browned, then flip and cook until browned on the other side.
+
+Nutritious Swedish Pancakes
+---------------------------
+
+**Nutritious Swedish Pancakes**
+
+**Ingredients:**
+
+* 1 1/2 cups all-purpose flour
+* 1/2 teaspoon baking powder
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon salt
+* 1/2 cup rolled oats
+* 1/2 cup rolled quinoa
+* 1/2 cup rolled amaranth
+* 1/2 cup rolled buckwheat
+* 1/2 cup chopped nuts (almonds, walnuts, or pecans)
+* 1/2 cup chopped dried apricots or cranberries
+* 1/2 cup unsweetened almond or coconut milk
+* 1/4 cup maple syrup (optional)
+* 1/4 cup melted coconut oil (optional)
+
+**Instructions:**
+
+1. In a large bowl, combine flour, baking powder, baking soda, and salt.
+2. In a separate bowl, combine rolled oats, rolled quinoa, rolled amaranth, chopped nuts, chopped dried apricots or cranberries, and unsweetened almond or coconut milk.
+3. Add the wet ingredients to the dry ingredients and stir until just combined. The batter should be thick and lumpy.
+4. Heat a large skillet or griddle over medium heat.
+5. Pour 1",6.784338172413661e-232,0.08830022075055188,0.031042128603104208,0.06181015452538631,0.8253383040428162,0.5829448699951172,0.6042141318321228,0.15543510293366986,0.03271028037383177,0.7802339792251587,0.8759775757789612,0.8253383040428162,"tensor(0.0469, device='mps:0')",5
+Cherry Cola Salad,"[""3/4 c. water"", ""1/2 c. sugar"", ""1 can cherry pie filling"", ""1 large can crushed pineapple, undrained"", ""1 Tbsp. lemon juice"", ""1 c. cold cola (Pepsi or Coke) soft drink"", ""1/2 c. chopped nuts""][""Combine water and sugar; bring to a boil."", ""Add pie filling and return to a boil."", ""Pour over the Jell-O to dissolve."", ""Add rest of ingredients."", ""Pour into 13 x 9-inch pan or mold to set.""]","Create a recipe for the dish Cherry Cola Salad. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Cherry Cola Salad
+---------------
+
+**Ingredients:**
+- 8 oz. (6 oz. pack) cola-flavored gelatine
+- 1/2 cup (2 oz.) sugar
+- 1/2 cup (2 oz.) granulated sugar
+- 1/2 cup (2 oz.) crushed pineapple, well-drained
+- 1/2 cup (2 oz.) miniature marshmallows
+- 1/4 cup (2 oz.) whipped cream, whipped
+- 1/2 cup (2 oz.) maraschino cherries, drained
+
+**Directions:**
+1. For gelatine, dissolve cola-flavored gelatine in 1/2 cup of cold water in a medium sized mixing bowl.
+2. Add 1/2 cup of sugar and 1/2 cup of granulated sugar in a small saucepan.
+3. Stir the sugar mixture over low heat until the sugar dissolves.
+4. Pour the sugar syrup into the cola-flavored gelatine and mix well.
+5. Pour the gelatine mixture into a 9-inch (23 cm) square dish.
+6. Chill the dish in the refrigerator until the gelatine sets.
+7. To make whipped cream, whip 1/4 cup (2 oz.) of whipped cream in a separate mixing bowl until stiff.
+8. Fold the whipped cream into the set gelatine.
+9. Add 1/2 cup (2 oz.) of crushed pineapple, 1/4 cup (2 oz.) miniature marshmallows, 1/4 cup (2 oz.) of maraschino cherries in the gelatine mixture.
+10. Pour the gelatine mixture over a wax paper-lined 9-inch (23 cm) square dish.
+11. Chill the salad in the refrigerator until set.
+12. To serve, turn out the salad onto a serving dish.
+13. Garnish the salad with additional maraschino cherries, if desired.
+
+Nutritional Information (per serving, assuming 12 servings)
+--------------------------------------------------------
+
+| Nutritional Information | Values                                             |
+|------------------------|-----------------------------------------------------|
+| Calories                | 140                                                |
+| Fat                       | 0 g                                                |
+| Sodium                    | 15 mg                                                |
+| Total Carbohydrates       | 19 g                                                |
+| Diet",2.1617796187655954e-155,0.19789473684210526,0.03382663847780127,0.11789473684210527,0.8347554206848145,0.5864751935005188,0.4692854881286621,0.21870529007484443,0.0653061224489796,0.8044900894165039,0.867387056350708,0.8347554206848145,"tensor(0.0593, device='mps:0')",4
+Rotel Casserole,"[""1 lb. ground beef"", ""1 can cream of mushroom soup"", ""1 medium chopped onion"", ""1 bag tortilla chips, crushed"", ""1 can Ro-Tel tomatoes"", ""8 oz. grated cheese""][""Brown meat and onion."", ""Chop tomatoes."", ""Mix with soup and meat. In baking dish, arrange layers of chips, meat mixture and grated cheese."", ""Repeat layers, ending with cheese."", ""Bake 15 to 20 minutes at 350\u00b0 or until cheese is melted.""]","Create a recipe for the dish Rotel Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## The Recipe
+Title: Rotel Casserole
+
+Ingredients:
+- 1 (15.5 ounce) can whole kernel corn, undrained
+- 1 (14.5 ounce) can black beans, rinsed and drained
+- 1 (15 ounce) can rotel, drained
+- 1 cup shredded Mexican blend cheese
+- 1/2 cup sour cream
+- 1/2 cup packed light brown sugar
+- 1/2 teaspoon ground cinnamon
+- 1/4 teaspoon ground ginger
+- 1/4 teaspoon ground allspice
+- Salt, to taste
+- 8-10 tortillas, 6 inch
+- 1/2 cup olive oil
+- 1/2 cup red or green enchil sauce (depending on preference)
+- Salsa, if desired
+
+Instructions:
+
+1. Preheat oven to 350°F (175°C). Lightly grease a 9x13 inch baking dish.
+2. Spread half of the tortilla chips in the baking dish.
+3. Evenly distribute the whole kernel corn, black beans, and rotel across the top of the tortilla chips.
+4. Sprinkle shredded Mexican blend cheese on top.
+5. In a small bowl, combine the packed light brown sugar, cinnamon, ginger, and salt.
+6. Pour the enchilique sauce over the tortilla chips and sprinkle the sugar mixture evenly across the top.
+7. Drizzle olive oil over the sugar mixture.
+8. Bake for 15-20 minutes or until cheese is melted and bubbly.
+9. Let the casserole cool slightly before serving.
+10. Optionally, garnish with salsa or extra toppings of your choice.
+
+Enjoy this delicious and easy-to-make comfort food!
+
+---
+
+## The Directions
+
+1. Preheat oven to 350°F (175°C). Lightly grease a 9x13 inch baking dish.
+2. Spread half of the tortilla chips in the baking dish.
+3. Evenly distribute the whole kernel corn, black beans, and rotel across the top of the tortilla chips.
+4. Sprinkle shredded Mexican blend cheese on top.
+5. In a small bowl, combine the packed light brown sugar, cinnamon, ginger, and salt.
+6. Pour the enchilique sauce over the tortilla chips and sprinkle the sugar mixture evenly across the top.",0.007928825300971326,0.15748031496062992,0.027667984189723317,0.09448818897637797,0.8177407383918762,0.5646680593490601,0.5095218420028687,0.22315205582306744,0.0703125,0.790985107421875,0.8463698029518127,0.8177407383918762,"tensor(-0.0835, device='mps:0')",1
+Mediterranean Chicken And Penne,"[""Nonstick cooking spray"", ""2 tsp. olive oil"", ""1/2 onion (peeled and finely diced)"", ""2 cloves garlic (minced)"", ""1 lb. boneless skinless chicken breast"", ""8 oz. penne pasta"", ""8 pitted black olives (sliced)"", ""1/4 c. chopped fresh basil"", ""1 tsp. oregano"", ""1/4 c. grated Parmesan cheese""][""Liberally spray large nonstick skillet with cooking spray. Add oil and heat over medium heat."", ""Add garlic and onions."", ""Heat until soft (approximately 3-4 minutes)."", ""Fill large saucepan with 2 inches of water."", ""Place chicken breast in steaming basket or stainless steal saucepan with lid."", ""Bring water to boil and steam chicken for 7 minutes."", ""Remove from heat and let set in steam until fully cooked."", ""Remove chicken from basket and let cool. When cool, cut into 1 inch chunks."", ""Meanwhile, cook penne according to packaging."", ""Drain and keep warm."", ""Add chicken chunks, olives, basil, and oregano to skillet with onions."", ""Turn to medium heat for 5 minutes."", ""In large bowl, toss chicken with hot penne pasta."", ""Sprinkle top with cheese and serve.""]","Create a recipe for the dish Mediterranean Chicken And Penne. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Mediterranean Chicken And Penne
+
+Ingredients:
+- 4 boneless, skinless chicken breasts, cut into bite-sized pieces
+- 1 jar (15 oz.) Mediterranean style marinade, such as Bertolli® Lemon & Herb or Bertolli® Olive Oil & Herb
+- 1 box (16 oz.) penne pasta
+- 1/2 cup (1/2 stick) unsalted butter, softened
+- 2 tbsp. all-purpose flour
+- 8 oz. cream cheese, at room temperature
+- 2 cups shredded Greek yogurt or regular yogurt
+- 2 cups chopped fresh spinach, or to taste
+- 2 cups chopped fresh kalamata olives, or to taste
+- 2 cups chopped fresh tomatoes, or to taste
+- 1/4 cup chopped fresh parsley, or to taste
+- Salt and pepper, to taste
+
+Directions:
+1. Preheat a large pot of heavily salted water to a boil over high heat.
+2. While the water is coming to a boil, place the chicken pieces in a large zip-top bag or container. Pour the marinade over the chicken and gently toss to coat the chicken evenly. Let the chicken marinate in the refrigerator for at least 30 minutes or up to 4 hours.
+3. When ready to cook, drain the marinated chicken from the bag and shake off the excess marinade.
+4. Add the butter, flour, and cream cheese to a large saucepan over medium heat. Cook, stirring constantly, until the flour is fully incorporated and the mixture is smooth and melted.
+5. Gradually pour in the Greek yogurt or regular yogurt, continuing to cook and stir until the sauce is smooth and creamy.
+6. Add in the spinach, kalamata olives, tomatoes, salt, and pepper, and stir until the spinach has wilted and the ingredients are evenly distributed.
+7. Drain the cooked penne pasta and return it to the pot.
+8. Add the Mediterranean chicken and sauce to the pot with the penne pasta. Toss to evenly coat the pasta with the sauce.
+9. Serve immediately, garnished with fresh parsley. Enjoy!",3.418549001581066e-155,0.34640522875816987,0.07540983606557376,0.16666666666666666,0.8369337916374207,0.6974835395812988,0.6686187386512756,0.3810919121684839,0.12037037037037036,0.8166132569313049,0.858291506767273,0.8369337916374207,"tensor(-0.0422, device='mps:0')",1
+Italian Zucchini Casserole,"[""3-4 medium zucchini, cut 1/4 inch thick"", ""3-4 onions, sliced"", ""3-4 tomatoes, sliced"", ""1 lb. mozzarella cheese, sliced"", ""Italian seasoning"", ""salt and pepper"", ""Ritz crackers""][""Spray 9 x 13 inch pan."", ""Place layers of tomato, onion, zucchini and cheese."", ""Sprinkle with salt and pepper and liberally with Italian seasoning."", ""Sprinkle about 1/2 cup crushed Ritz over all."", ""Make second layer same as first, beginning with tomato and ending with cheese, top with more seasoning and crushed Ritz. Cover with foil and bake 30 minutes at 350\u00b0."", ""Remove foil and bake another 30 minutes.""]","Create a recipe for the dish Italian Zucchini Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+No-Bake Nut CookiesRecipe:
+
+Title: No-Bake Nut Cookies
+
+Ingredients:
+- 1/2 cup firmly packed brown sugar
+- 1/2 cup evaporated milk
+- 1/2 teaspoon vanilla
+- 1/2 cup broken nuts (pecans)
+- 2 tablespoons butter or margarine
+- 3 1/2 cups bite-sized shredded rice biscuits
+
+Directions:
+1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine.
+2. Stir over medium heat until mixture bubbles all over top.
+3. Boil and stir 5 minutes more.
+4. Take off heat.
+5. Stir in vanilla and cereal; mix well.
+6. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+7. Let stand until firm, about 30 minutes.
+
+Enjoy your No-Bake Nut Cookies!
+
+Italian Zucchini Casserole Recipe
+
+Title: Italian Zucchini Casserole
+
+Ingredients:
+- 6 medium zucchini, sliced into rounds
+- 1/2 cup finely grated Parmesan cheese
+- 1/4 cup finely grated Romano cheese
+- 1/4 cup finely grated mozzarella cheese
+- 1/4 cup finely chopped onion
+- 1/4 cup finely chopped green pepper
+- 1/4 cup finely chopped celery
+- 1/4 cup finely chopped carrot
+- 1/4 cup finely chopped parsley
+- 1/4 cup finely chopped basil
+- 1/4 cup finely chopped oregano
+- 1/4 cup finely chopped thyme
+- 1/4 cup finely chopped bay leaf
+- 1/4 cup finely chopped garlic powder
+- 1/4 cup finely crushed cornflakes or crushed crackers
+- 1 cup milk
+- 1/2 cup shredded Cheddar cheese
+- 2 tablespoons olive oil
+- Salt and pepper, to taste
+
+Directions:
+1. Preheat oven to 375°F (190°C).
+2. In a large bowl, combine zucchini, Parmesan cheese, Romano cheese, mozzarella cheese, onion, green pepper, celery, carrot, parsley, basil, thyme, and bay leaf.
+3. In a small bowl, mix cornflakes or crackers, milk, Cheddar cheese, olive oil, salt, and pepper until",2.526343544434439e-155,0.1946564885496183,0.042145593869731796,0.08015267175572519,0.8118836879730225,0.5813714265823364,0.4544095993041992,0.24296408138584008,0.07407407407407407,0.7968463897705078,0.8274993896484375,0.8118836879730225,"tensor(-0.0083, device='mps:0')",4
+Easy Lasagne,"[""1 can Hunt's spaghetti sauce with Parmesan cheese"", ""1 regular pkg. lasagne noodles"", ""1 lb. hamburger (ground)"", ""1 container Ricotta cheese"", ""1 egg"", ""2 c. shredded Mozzarella cheese"", ""1 c. shredded Cheddar cheese""][""Cook hamburger; drain and add spaghetti sauce."", ""Cook lasagne noodles for 10 minutes in boiling water; drain.""]","Create a recipe for the dish Easy Lasagne. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## The recipe:
+**Easy Lasagne**
+
+Ingredients:
+- 16 oz lasagne noodles, cooked and drained
+- 1 (14.5 oz) jar spaghetti sauce, such as Ragu, or your favorite brand
+- 1 (8 oz) container Ricotta cheese, drained of excess liquid
+- 1 cup shredded mozzarella cheese, divided
+- 1/2 cup grated Parmesan cheese, divided
+- 1 large egg, lightly beaten
+- 1 lb ground beef, cooked and drained
+- 1 large onion, chopped
+- 1 (14 oz) can sliced black olives, drained
+- 1 cup green bell pepper, chopped
+- 1 cup mushrooms, sliced
+- 1/4 cup fresh parsley, chopped
+- 1/4 cup fresh basil, chopped
+- 1/4 cup grated Romano cheese
+- 1/4 cup grated Parmesan cheese
+- 1/2 cup sliced black olive
+
+Directions:
+1. Preheat oven to 375°F (190°C). Lightly grease a 9x13-inch baking dish.
+2. In a large bowl, mix lasagne noodles with spaghetti sauce. Spread half of the pasta mixture in the prepared baking dish.
+3. In a medium bowl, mix the Ricotta cheese, mozzarella cheese, Parmesan cheese, egg, and seasonings until well blended. Spread the cheese mixture over the pasta.
+4. Top with the remaining pasta mixture, then add the remaining spaghetti sauce, black olives, green bell pepper, mushrooms, parsley, basil, Romano cheese, and Parmesan cheese.
+5. Sprinkle the sliced black olive over the top.
+6. Bake for 25-30 minutes, until hot and bubbly. Let stand for 10 minutes before serving.
+
+Enjoy your Easy Lasagne!
+
+## Notes:
+- This recipe serves 8-10 people.
+- You can also use various types of pasta, like ziti, rigatoni, or even tortellini, for a change.
+- Feel free to add more vegetables, like zucchini or eggplant, or even spinach, to make it even healthier.
+- You can also use jarred marinara sauce if you prefer, but homemade spaghetti sauce is always better!
+- Make sure that the lasagne noodles are cooked thoroughly before assembling the dish.
+- To drain the Ricotta cheese, place a",4.2148642585925305e-79,0.17586912065439672,0.06570841889117043,0.10224948875255623,0.8243980407714844,0.6183475255966187,0.6533618569374084,0.3139553012993762,0.07407407407407407,0.7849398255348206,0.8680332899093628,0.8243980407714844,"tensor(0.0480, device='mps:0')",3
+Peanut Butter Fudge,"[""2 1/2 c. sugar"", ""1/2 c. milk"", ""1 stick oleo"", ""2 or 3 Tbsp. peanut butter""][""Mix sugar, milk and oleo; cook to soft ball stage."", ""Add peanut butter and beat."", ""Pour onto greased plate.""]","Create a recipe for the dish Peanut Butter Fudge. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+No-Bake Nut Cookies
+
+
+Ingredients:
+- 1 ½ cups firmly packed brown sugar
+- ½ cup evaporated milk
+- ½ tsp vanilla
+- ½ cup broken nuts (pecans)
+- 2 tablespoons butter or margarine
+- 3 ½ cups bite-sized shredded rice biscuits
+
+Directions:
+1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine.
+2. Stir over medium heat until mixture bubbles all over top.
+3. Boil and stir 5 minutes more.
+4. Take off heat.
+5. Stir in vanilla and cereal; mix well.
+6. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+7. Let stand until firm, about 30 minutes.",5.851122309880703e-79,0.1660377358490566,0.06083650190114069,0.13584905660377358,0.8302424550056458,0.5978167057037354,0.492031067609787,0.23517410957937546,0.08783783783783784,0.7993226051330566,0.8636506795883179,0.8302424550056458,"tensor(0.0256, device='mps:0')",2
+German Potato Salad,"[""6 medium sized potatoes"", ""8 slices bacon (strips)"", ""3/4 c. chopped onion"", ""2 Tbsp. flour"", ""2 Tbsp. sugar"", ""1 1/2 tsp. salt"", ""1/2 tsp. celery seed"", ""dash of pepper"", ""3/4 c. water"", ""1/3 c. vinegar (I use white but other may be used)""][""Boil potatoes with the skins on."", ""Peel and slice thinly."", ""Fry slowly in large skillet the bacon."", ""Drain on paper towel."", ""Saute in the bacon fat until golden the onion."", ""Blend in flour, sugar, salt, celery seed and dash of pepper."", ""Cook over low heat, stirring until smooth and bubbly."", ""Remove from heat."", ""Stir in water and vinegar. Bring to a boil, stirring constantly."", ""Boil 1 minute."", ""Stir in carefully the potatoes and crumbled bits of bacon."", ""Remove from heat."", ""Cover and let stand until ready to serve."", ""Makes 6 to 8 servings.""]","Create a recipe for the dish German Potato Salad. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+##
+Title: German Potato Salad
+
+Ingredients:
+- 2 large russet potatoes, cubed
+- 1/2 cup chopped red bell pepper
+- 1/2 cup chopped green bell pepper
+- 1/2 cup chopped yellow bell pepper
+- 1/4 cup chopped white onion
+- 1/4 cup chopped fresh dill
+- 1/4 cup sugar
+- 1/4 cup white vinegar
+- 1/4 cup vegetable oil
+- Salt and pepper, to taste
+- 1/2 cup mayonnaise
+- 1/2 cup sour cream
+- 1/2 cup chopped hard-boiled egg
+- 1/2 cup diced pimentos
+
+Directions:
+1. Cut potatoes into 1-inch cubes. Place in a pot and add enough cold water to cover the potatoes. Bring to a boil and cook until the potatoes are tender when pierced with a fork, about 10-15 minutes. Drain the potatoes and let them cool. You can also cook the potatoes in a microwave-safe bowl with enough water, covered, until tender, about 5-7 minutes, stirring once halfway through.
+2. In a large mixing bowl, combine the potatoes, bell peppers, white onion, fresh dill, sugar, white vinegar, vegetable oil, salt, and pepper. Mix together until all the ingredients are well distributed.
+3. In a separate small bowl, whisk together the mayonnaise, sour cream, hard-boiled egg, and pimentos.
+4. Add the dressing mixture to the potato mixture and stir gently to coat the potatoes evenly. Serve chilled or at room temperature. Enjoy!
+
+## Notes ##
+* German Potato Salad is typically made without mayonnaise, but this recipe adds mayonnaise and sour cream for a creamier, less sour dressing.
+* Feel free to adjust the sugar and vinegar amounts to your personal preference.
+* For a more traditional German Potato Salad, you can use a mix of potatoes like Yukon Golds, or try using a different type of vegetable like carrots or peas in place of bell peppers.
+* If you prefer a spicier potato salad, you can add a pinch of crushed red pepper flakes before serving.",8.217214546069653e-79,0.3071672354948805,0.05821917808219178,0.13651877133105803,0.8421167731285095,0.6226369142532349,0.5972833037376404,0.4223252656310508,0.10835913312693499,0.8155137896537781,0.870513916015625,0.8421167731285095,"tensor(-0.0345, device='mps:0')",7
+Sausage Pinwheels,"[""2 1/2 c. self-rising flour"", ""1/2 c. shortening or butter"", ""1 1/3 c. buttermilk"", ""1 lb. pork sausage""][""Crumble and brown sausage; drain fat."", ""Cut butter or shortening into flour until coarse crumbs form."", ""Add buttermilk and stir until dough clings together."", ""Knead 10 to 12 strokes on lightly floured surface."", ""Roll out to a 16 x 12-inch rectangle. Sprinkle sausage over dough."", ""Roll up jelly roll style, starting with the long side."", ""Slice into 1-inch slices."", ""Place cut side down on ungreased baking sheet."", ""Bake at 350\u00b0 for 10 to 15 minutes.""]","Create a recipe for the dish Sausage Pinwheels. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+Title: Sausage Pinwheels
+
+Ingredients:
+- 12 oz. smoked sausage (such as German or Polish)
+- 1/2 cup chopped onion
+- 1/2 cup chopped green bell pepper
+- 1/2 cup chopped white bell pepper
+- 1/2 cup chopped fresh parsley
+- 1/4 cup chopped fresh chives
+- 1/4 cup chopped fresh dill
+- 1/4 cup granulated sugar
+- 1 tsp. black pepper, or more to taste
+- 1/2 cup canned or freshly made whole-milk sour cream
+- 8-9 hoagie rolls, cut in half
+- Wax paper or parchment paper
+
+Directions:
+1. Preheat oven to 400°F (200°C).
+2. In a large bowl, mix the first 7 ingredients (sausage through parsley) with your hands until well-combined.
+3. Spread about 1/2 cup sausage mixture on each half of each hoagie roll, leaving a 1/2-inch border all around.
+4. Place rolls, seam side down, on a rimmed baking sheet or plate.
+5. Bake for 10-12 minutes, or until cheese is melted and rolls are heated through.
+6. Let pinwheels cool for 5 minutes on the baking sheet, then transfer to a sheet of wax paper or parchment paper to finish cooling.
+7. Serve and enjoy!
+
+---
+
+Title: Sausage Pinwheels
+
+Ingredients:
+- 12 oz. smoked sausage (such as German or Polish)
+- 1/2 cup chopped onion
+- 1/2 cup chopped green bell pepper
+- 1/2 cup chopped white bell pepper
+- 1/2 cup chopped fresh parsley
+- 1/4 cup chopped fresh chives
+- 1/4 cup granulated sugar
+- 1 tsp. black pepper, or more to taste
+- 1/2 cup canned or freshly made whole-milk sour cream
+- 8-9 hoagie rolls, cut in half
+- Wax paper or parchment paper
+
+Directions:
+1. Preheat oven to 400°F (200°C).
+2. In a large bowl, mix the first 7 ingredients (sausage through parsley) with your hands until well-combined.
+3. Spread about 1/2 cup sausage mixture on each half of each hoagie roll, leaving",2.5426107272864543e-155,0.1944954128440367,0.040515653775322284,0.12477064220183487,0.8257689476013184,0.6684131026268005,0.6706645488739014,0.23480886474023,0.08949416342412451,0.8047377467155457,0.8479288220405579,0.8257689476013184,"tensor(0.0362, device='mps:0')",0
+Meat Loaf,"[""1 lb. ground beef"", ""2 slices light bread, crumbled"", ""1 small onion"", ""1 small green pepper"", ""3/4 c. tomato ketchup"", ""1 egg"", ""1/4 tsp. salt"", ""1/4 tsp. black pepper""][""Mix together ground beef, crumbled bread slices, chopped onion, pepper, egg, salt and black pepper."", ""Add 1/2 cup ketchup and mix."", ""Place mix in loaf pan and spread remaining 1/4 cup ketchup over the top."", ""Bake at 375\u00b0 for 1 hour or until done.""]","Create a recipe for the dish Meat Loaf. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+## Recipe:
+Title: Meat Loaf
+
+Ingredients:
+- 1 lb ground beef, sirloin or lean ground beef
+- 1/2 cup ketchup
+- 1/2 cup brown sugar
+- 1/2 cup honey
+- 1/2 cup soy sauce
+- 2 tablespoons Dijon mustard
+- 2 large eggs, lightly beaten
+- 1/2 cup cracked peppercorns or other preferred seasoning
+- 1/2 cup chopped onion
+- 1/2 cup ketchup
+- 1/4 cup BBQ sauce
+- 1/2 cup breadcrumbs
+- 1/4 cup grated Parmesan cheese
+- 1/4 cup milk (such as 2% milk)
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+
+Directions:
+1. Preheat your oven to 350°F (175°C) and prepare a 9x5-inch loaf pan by greasing it with cooking spray, olive oil, or butter.
+2. In a large mixing bowl, combine the ground beef, ketchup, brown sugar, honey, soy sauce, mustard, eggs, peppercorns, onion, ketchup, BBQ sauce, breadcrumbs, Parmesan cheese, milk, garlic powder, and onion powder. Mix everything together until it forms a homogeneous dough.
+3. Transfer the meatloaf dough to your prepared loaf pan and spread it out evenly. Make sure to press it down firmly to create a compact base.
+4. Bake the meatloaf in your preheated oven for 45-50 minutes until it's fully cooked and the internal temperature has reached 160°F (71°C).
+5. Let the meatloaf cool completely before slicing it and serving it.
+
+Enjoy your delicious homemade Meat Loaf!",0.01520438271846172,0.23798627002288333,0.08275862068965517,0.13272311212814644,0.8369265198707581,0.6812989711761475,0.6157876253128052,0.2823367910366825,0.10038610038610038,0.8060293197631836,0.8702868223190308,0.8369265198707581,"tensor(0.0883, device='mps:0')",3
+Shepherd'S Pie,"[""2 lb. ground beef"", ""1 pkg. onion soup mix"", ""2 cans Niblets corn"", ""mashed potatoes (or instant mashed)"", ""salt and pepper""][""Grease casserole, in skillet melt a little margarine."", ""Add beef and stir until meat is lightly browned, season meat and sprinkle with about 2 tablespoons flour."", ""Mix well."", ""Add onion soup mix and slowly add about 1 cup of water and cook until slightly thickened. Turn into greased casserole and spread with drained corn. Prepare mashed potatoes to make a 2-inch topping."", ""Drizzle a little melted margarine over top and sprinkle a little paprika. Bake at 400\u00b0 for about 30 minutes."", ""Serves about 4 to 6 people.""]","Create a recipe for the dish Shepherd'S Pie. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Title: Shepherd's Pie
+
+Ingredients:
+- 1/2 cup minced onion
+- 1/2 cup minced carrot
+- 1/2 cup minced celery
+- 1/2 cup frozen peas
+- 1/2 cup milk
+- 2 tablespoons (2g) olive oil
+- 1/2 cup (120g) mashed potato
+- 1/4 cup (30g) chopped fresh parsley
+- Salt and pepper, to taste
+
+Directions:
+1. Preheat oven to 400°F (200°C) and grease a 9-inch (23cm) pie dish.
+2. Heat the olive oil in a large pan over medium heat. Add the onion, carrot, and celery and cook until softened, about 5 minutes.
+3. Add the minced onion, minced carrot, frozen peas, milk, and thawed mashed potato. Season with salt and pepper, to taste. Mix until well combined.
+4. Transfer the mixture to the prepared pie dish and spread it evenly.
+5. In a small bowl, mix the mashed potato with a fork until smooth. Then, spread the mashed potato evenly over the vegetable mixture.
+6. Bake the Shepherd's Pie in the preheated oven for 20-25 minutes, or until the top is golden brown.
+7. Serve hot and enjoy!
+
+Nutrition Facts: Calories: 312 kcal, Fat: 17g, Carbohydrates: 25g, Fiber: 5g, Protein: 11g.",6.570508900804709e-79,0.3148148148148148,0.06046511627906976,0.14351851851851852,0.8226505517959595,0.49980688095092773,0.47765594720840454,0.35555118742233227,0.10588235294117647,0.8027899861335754,0.8435187935829163,0.8226505517959595,"tensor(0.0248, device='mps:0')",1
+Pumpkin Date Bread,"[""4 beaten eggs"", ""3 c. sugar"", ""1 (16 oz.) can pumpkin"", ""1 c. oil"", ""1/3 c. water"", ""1/2 tsp. vanilla"", ""3 1/2 c. all-purpose flour"", ""1 1/2 tsp. ground cinnamon"", ""1 tsp. salt"", ""1 tsp. baking soda"", ""8 oz. dates or raisins"", ""1 1/2 c. pecans""][""Combine eggs and sugar in a large mixing bowl.\tStir in pumpkin, oil, water and vanilla until blended."", ""Stir together flour, cinnamon, salt and baking soda."", ""Add pumpkin mixture, stirring until just combined."", ""Fold in dates and nuts."", ""Pour mixture into 4 greased 7 x 3 x 2-inch pans or 2 (9 x 5 x 3-inch) pans."", ""Bake in a 350\u00b0 oven about 55 minutes for small loaves, 65 minutes for large loaves.""]","Create a recipe for the dish Pumpkin Date Bread. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+No-Bake Nut Cookies Recipe
+Ingredients:
+- 1/2 cup firmly packed brown sugar
+- 1/2 cup evaporated milk
+- 1/2 tsp. vanilla
+- 1/2 cup broken nuts (pecans)
+- 2 tablespoons butter or margarine
+- 3 1/2 cups bite-sized shredded rice biscuits
+
+Directions:
+1. In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine.
+2. Stir over medium heat until mixture bubbles all over top.
+3. Boil and stir 5 minutes more.
+4. Take off heat.
+5. Stir in vanilla and cereal; mix well.
+6. Using 2 teaspoons, drop and shape into 30 clusters on wax paper.
+7. Let stand until firm, about 30 minutes.
+
+Pumpkin Date Bread Recipe
+Ingredients:
+- 3/4 cups of all-purpose flour
+- 1/2 tsp. baking powder
+- 1/2 tsp. baking soda
+- 1/2 tsp. ground cinnamon
+- 1/4 tsp. ground ginger
+- 1/4 tsp. ground allspice
+- 1/4 tsp. ground nutmeg
+- 1/2 cup mashed ripe pumpkin
+- 1/2 cup packed light-brown sugar
+- 1/2 cup canola oil
+- 1/2 cup granulated white sugar
+- 1 large egg
+- 1/2 tsp. vanilla extract
+- 1/2 cup old-fashioned oats, rolled oats or quick-cooking oats
+- 1/4 cup packed light-brown sugar
+- 1/4 tsp. ground cinnamon
+- 1/4 tsp. ground allspice
+- 1/4 tsp. ground nutmeg
+- 1/4 cup chopped dried dates (optional)
+
+Instructions:
+1. Preheat oven to 350°F (175°C) and grease a 9-inch bread pan.
+2. In a large mixing bowl, whisk together the flour, baking powder, baking soda, ground cinnamon, ground ginger, ground allspice, and ground nutmeg.
+3. In a medium mixing bowl, combine the mashed ripe pumpkin, light-brown sugar, canola oil, granulated white sugar, and 1 large egg. Beat well until smooth.
+4. Add the wet ingredients into the dry ingredients and mix until just combined.
+5",9.130191272393479e-79,0.3558718861209964,0.10714285714285714,0.16725978647686832,0.835573136806488,0.8483186960220337,0.6707367897033691,0.42110238810371114,0.15163934426229508,0.8150135278701782,0.8571968078613281,0.835573136806488,"tensor(-0.0065, device='mps:0')",9
+Twice Baked Potato Casserole,"[""5 lb. potatoes"", ""1 (8 oz.) cream cheese, softened"", ""1 (8 oz.) sour cream"", ""1 (8 oz.) whipping cream"", ""1 stick butter"", ""salt and pepper to taste"", ""1 bunch green onions, chopped"", ""Cheddar cheese"", ""bacon bits""][""Cook potatoes in water until soft; drain. Add cream cheese, sour cream, butter, salt, pepper and onions; beat. Put into a 9 x 12 casserole dish.""]","Create a recipe for the dish Twice Baked Potato Casserole. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Title: Twice Baked Potato Casserole
+
+Ingredients:
+- 4 large baking potatoes
+- 1/2 cup unsalted butter
+- 1/2 cup packed light brown sugar
+- 2 large eggs
+- Salt & pepper, to taste
+- 1 cup frozen chopped spinach, thawed and squeezed dry
+- 8 oz cream cheese, softened
+- 1/2 cup shredded cheddar cheese
+- 1/4 cup sour cream
+- 1/2 cup freshly chopped chives
+
+Directions:
+1. Preheat your oven to 400°F (200°C) and line a large baking sheet with parchment paper.
+2. Place the baking potatoes in a large pot and cover with water. Bring to a boil, then reduce heat to medium-low and simmer for about 12-15 minutes, or until tender. 
+3. Once cooked, let cool for 5 minutes before handling. Cut each potato in half lengthwise, and using a fork, gently scrape the inside of the potato, creating a ""mash"" texture. 
+4. In a large mixing bowl, add the potato mash, 1/2 cup of unsalted butter, light brown sugar, egg, salt, and pepper. Using an electric mixer or a large spoon, mix until well combined and no lumps of potato remain. 
+5. Transfer the mixture into your prepared baking sheet, spreading it evenly into a rectangle shape. 
+6. Place the baking sheet in the oven and bake for about 15-20 minutes, or until the top is lightly golden. Remove from the oven and let cool for 5 minutes. 
+7. Once cooled, use a fork to “fluff” the top of the casserole. Place the baking sheet back into the oven and bake for an additional 10 minutes, or until the top is lightly golden and the potatoes are warmed through. 
+8. While the casserole is baking, prepare the chive cream by combining the cream cheese, shredded cheddar cheese, and freshly chopped chives in a small bowl. Mix until well combined and smooth.
+9. Once the casserole is fully baked and cooled, spread the chive cream evenly over the top, then sprinkle with extra chives if desired. 
+10. Serve immediately and enjoy!
+
+Note: You can also substitute the frozen spinach with any other frozen vegetables or meat, if desired.",1.9492275242760077e-155,0.16266173752310537,0.06679035250463822,0.09981515711645102,0.822192370891571,0.6715333461761475,0.5770926475524902,0.22798238287969774,0.043478260869565216,0.7892518639564514,0.8580021858215332,0.822192370891571,"tensor(-0.0131, device='mps:0')",5
+Stuffed French Toast,"[""8 slices bread, cubed"", ""2 (8 oz.) pkg. cream cheese, cubed"", ""10 to 12 eggs"", ""2 c. milk"", ""1/2 c. maple syrup""][""Mix together and cover dish with plastic overnight."", ""Bake the next morning at 375\u00b0 for 45 minutes.""]","Create a recipe for the dish Stuffed French Toast. Include the [ingredients], and [directions]. 
+Here is an example of a recipe:\n\[title]: No-Bake Nut Cookies\n [ingredients]: [""1 c. firmly packed brown sugar"", ""1/2 c. evaporated milk"", ""1/2 tsp. vanilla"", ""1/2 c. broken nuts (pecans)"", ""2 Tbsp. butter or margarine"", ""3 1/2 c. bite size shredded rice biscuits""]\n [directions]: [""In a heavy 2-quart saucepan, mix brown sugar, nuts, evaporated milk and butter or margarine."", ""Stir over medium heat until mixture bubbles all over top."", ""Boil and stir 5 minutes more. Take off heat."", ""Stir in vanilla and cereal; mix well."", ""Using 2 teaspoons, drop and shape into 30 clusters on wax paper."", ""Let stand until firm, about 30 minutes.""]
+
+Stuffed French Toast Recipe:
+
+**Ingredients:**
+- 6 slices of bread
+- 1/2 cup of powdered sugar
+- 1/2 cup of milk
+- 1/2 cup of mixed berries (strawberries, blueberries, and raspberries)
+- 1/2 tablespoon of lemon juice
+- A pinch of cinnamon
+- A pinch of nutmeg
+
+**Directions:**
+1. Lay the 6 slices of bread in a baking dish that is big enough to hold all the slices.
+
+2. In a medium-sized mixing bowl, whisk together the powdered sugar, milk, mixed berries, lemon juice, and a pinch of cinnamon and nutmeg until smooth.
+
+3. Pour this mixture over the laid-out bread slices.
+
+4. Using a spatula, gently stir the bread slices so that they are all fully coated in the mixture.
+
+5. Cover the baking dish with aluminum foil and refrigerate the dish for at least 30 minutes or until the bread has absorbed all the liquid.
+
+6. Preheat your oven to 375°F (190°C) and grease a baking dish with some butter or cooking spray.
+
+7. Remove the bread slices from the refrigerator and carefully transfer them to the greased baking dish.
+
+8. Bake the stuffed French toast for 25-30 minutes or until the top is golden brown and the inside is fully cooked.
+
+9. Let the dish cool for 5 minutes, then slice it into 6 servings and serve it with some syrup, powdered sugar, or fresh fruit. Enjoy!",2.075505797140159e-155,0.12000000000000002,0.03015075376884422,0.09,0.81978839635849,0.5811522006988525,0.6009838581085205,0.2504882149190194,0.061946902654867256,0.7900012731552124,0.851909875869751,0.81978839635849,"tensor(-0.0055, device='mps:0')",2
